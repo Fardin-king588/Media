@@ -33,6 +33,17 @@
     "drmLicense": "9ecad6c4413f8bdc54712ce6c072a2cf:442df559c369bdada8ba3abe97811575"
   },
   {
+    "name": "TNT Sports 3",
+    "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
+    "logo": "https://i.ibb.co.com/FJcc9LN/TNT-Sports-Farid.png",
+    "origin": "https://ottb.live.cf.ww.aiv-cdn.net",
+    "referrer": "https://ottb.live.cf.ww.aiv-cdn.net",
+    "userAgent": "(Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "clearkey",
+    "drmLicense": "4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f"
+  },
+  {
     "name": "TOFFEE Sports VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png",
