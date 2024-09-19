@@ -6,7 +6,7 @@
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "0y7sNvyooWeaHKXkIDFaIg", "kid": "onmUkhzsTsaSy2oyRXTqAg"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/909029a03ea84e868c1ff72e6e452749/index.mpd
 
-#EXTINF:-1 tvg-id="akash3" tvg-logo="https://i.ibb.co.com/C68mTwM/ekattor-Farid.jpg" group-title="AkashGO", Ekattor HD
+#EXTINF:-1 tvg-id="akash3" tvg-logo="https://i.ibb.co.com/C68mTwM/ekattor-Farid.jpg" group-title="AkashGO", Ekattor TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "BN4RMH2yC-sc3Cx27uvsvw", "kid": "cWpiPR62SFWUKae67k3Dig"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/1eec5c4527b14f70bb9580fa18c331e8/index.mpd
@@ -21,7 +21,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "QoGbhcKHGu5cUShRmwVyaQ", "kid": "P49KmMu7SRGyQ-_xwZoLyA"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/5dddba2c4d6242f8a97e86ea9e77a464/index.mpd
 
-#EXTINF:-1 tvg-id="akash36" tvg-logo="https://i.ibb.co.com/Lrms0X5/channel24-Farid.jpg" group-title="AkashGO", Channel 24 HD
+#EXTINF:-1 tvg-id="akash36" tvg-logo="https://i.ibb.co.com/Lrms0X5/channel24-Farid.jpg" group-title="AkashGO", Channel 24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "mnAPYpObfQZyqrK6ZBqBbw", "kid": "a8lNQFy1SVyYdQfVvAKLjw"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/6f383b37a0a04069bca27dc0308e1eac/index.mpd
@@ -51,10 +51,25 @@ https://medialive.akash-go.com/out/v1/4a5545d79c7a47ebb451eac8db300226/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "xTQFNRnGddMTkwGHhcdp8w", "kid": "rYqF0OEDQtOazuocjo8jCw"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/8f326d0273684f67bd1c3ae5b8dfee48/index.mpd
 
-#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/8j6zYwP/rtvbd-Farid.jpg" group-title="AkashGO", RTV HD
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/8j6zYwP/rtvbd-Farid.jpg" group-title="AkashGO", RTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "jXc3grt0_MIHpleT2ancJQ", "kid": "0IDwbxOpReqvveJqBvVkPA"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/033761f02abc44cc96b686d9b90ea40a/index.mpd
+
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/D8YbbmY/asian-tv-farid.jpg" group-title="AkashGO", asian TV 
+#KODIPROP:inputstream.adaptive.license_type=
+#KODIPROP:inputstream.adaptive.license_key=
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/DWNqXtn/deepto-tv-Farid.png" group-title="AkashGO", Deepto TV
+#KODIPROP:inputstream.adaptive.license_type=
+#KODIPROP:inputstream.adaptive.license_key=
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/0QZ0M5G/Boishakhi-TV-Farid.jpg" group-title="AkashGO", Boishakhi TV
+#KODIPROP:inputstream.adaptive.license_type=
+#KODIPROP:inputstream.adaptive.license_key=
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="akash18" tvg-logo="https://i.ibb.co.com/hKDwXSB/Zee-Bangla-HD-Farid.webp" group-title="AkashGO", ZEE BANGLA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
