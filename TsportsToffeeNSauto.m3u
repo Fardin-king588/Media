@@ -251,16 +251,5 @@
     "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1726793252:KeyName=prod_linear:Signature=b0FiQXQ5lSbo4xV3cvBywYIibfL9G6a2imMHRrzQENzfIs5gidPG-u06vWnD34YPRQXLJM34Ft714x_ZZB3UAQ",
     "drmScheme": "",
     "drmLicense": ""
-  },
-  {
-    "name": "",
-    "link": "",
-    "logo": "",
-    "origin": "",
-    "referrer": "",
-    "userAgent": "",
-    "cookie": "",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
+  }
 ]
