@@ -116,7 +116,7 @@ https://medialive.akash-go.com/out/v1/d6e0e11ced944bb7a33467afb21979a1/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
 
-#EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/1Tm9hGQ/Zee-Anmoll-Farid.webp" group-title="AkashGO", Zee Zest HD
+#EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/dfG5w7g/Zee-Zest-Farid.png" group-title="AkashGO", Zee Zest HD
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
 https://la.drmlive.au/tp/zee.php?id=zesthd
@@ -136,7 +136,7 @@ https://medialive.akash-go.com/out/v1/410a6931d4e047ffb964cc06eb04e16f/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 
-#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/4p27G69/tv-HD-Farid.webp" group-title="AkashGO", Big Magic
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/PxXLP23/Big-Magic-Farid.png" group-title="AkashGO", Big Magic
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
 https://la.drmlive.au/tp/zee.php?id=bigmagic
@@ -166,7 +166,7 @@ https://medialive.akash-go.com/out/v1/8c069025cffe4fbd94a11ce0b5c32b93/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 
-#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kX9VXvk/Zee-Cinema-HD-Farid.webp" group-title="AkashGO", Zee Anmoll Cinema
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/4pzGSmh/Zee-Anmoll-Cinema-Farid.jpg" group-title="AkashGO", Zee Anmoll Cinema
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/Zeeanmolcinema1.m3u8
@@ -186,7 +186,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 #KODIPROP:inputstream.adaptive.license_key=
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 
-#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/r7p8qXJ/pictures-HD-Farid.webp" group-title="AkashGO", &xplore HD
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/Q65pc3C/Xplore-HD-Farid.webp" group-title="AkashGO", &xplore HD
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
 https://la.drmlive.au/tp/zee.php?id=andxplorehd
@@ -196,7 +196,7 @@ https://la.drmlive.au/tp/zee.php?id=andxplorehd
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "I3RIhdPj12NGz2vYBrEtVQ", "kid": "9HSB9KJoSXCLiBQbJ3SPXw"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/db019fb82c8d4b9e971557e7cb1fd625/index.mpd
 
-#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/r7p8qXJ/pictures-HD-Farid.webp" group-title="AkashGO", Zee Cafe HD
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/wK7cZcS/Zee-Cafe-Farid.jpg" group-title="AkashGO", Zee Cafe HD
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
 https://la.drmlive.au/tp/zee.php?id=cafehd
