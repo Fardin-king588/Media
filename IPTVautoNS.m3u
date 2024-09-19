@@ -126,7 +126,7 @@ https://la.drmlive.au/tp/zee.php?id=zesthd
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "BaUU8bZ0iZN2J7HYrlKbTQ", "kid": "LttOWM8kTVGBQyBZwDqDUQ"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/99ed86002c8d470ea7e8d3c699abc57f/index.mpd
 
-#EXTINF:-1 tvg-id="akash32" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720701862733.png" group-title="AkashGO", Zee HD
+#EXTINF:-1 tvg-id="akash32" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720701862733.png" group-title="AkashGO", Zee TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "_o4ZvaVIMjaLkYOKdPBGlA", "kid": "kVC3wacDQCa-_AzpidbtaQ"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/410a6931d4e047ffb964cc06eb04e16f/index.mpd
@@ -186,7 +186,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 #KODIPROP:inputstream.adaptive.license_key=
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 
-#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/Q65pc3C/Xplore-HD-Farid.webp" group-title="AkashGO", &xplore HD
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/Q65pc3C/Xplore-HD-Farid.webp" group-title="AkashGO", &xplor HD
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
 https://la.drmlive.au/tp/zee.php?id=andxplorehd
