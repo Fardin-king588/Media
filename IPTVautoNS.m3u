@@ -106,6 +106,11 @@ https://medialive.akash-go.com/out/v1/a1a4886d7bdd4797a0eebb69e2c67554/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "BaUU8bZ0iZN2J7HYrlKbTQ", "kid": "LttOWM8kTVGBQyBZwDqDUQ"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/99ed86002c8d470ea7e8d3c699abc57f/index.mpd
 
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/4p27G69/tv-HD-Farid.webp" group-title="AkashGO", &tv HD
+#KODIPROP:inputstream.adaptive.license_type=
+#KODIPROP:inputstream.adaptive.license_key=
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
+
 #EXTINF:-1 tvg-id="akash32" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720701862733.png" group-title="AkashGO", Zee HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "_o4ZvaVIMjaLkYOKdPBGlA", "kid": "kVC3wacDQCa-_AzpidbtaQ"}], "type": "temporary"}
@@ -120,6 +125,26 @@ https://medialive.akash-go.com/out/v1/18d00c76943d4c62a98ccc36fb36261e/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "J5Imr5yaHdbrSIuFIKJNiw", "kid": "-wLcLLpERTiX3ghw1DzBnA"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/8c069025cffe4fbd94a11ce0b5c32b93/index.mpd
+
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kX9VXvk/Zee-Cinema-HD-Farid.webp" group-title="AkashGO", Zee Cinema HD
+#KODIPROP:inputstream.adaptive.license_type=
+#KODIPROP:inputstream.adaptive.license_key=
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/BjvMxX7/Zee-Bollywood-Farid.webp" group-title="AkashGO", Zee Bollywood
+#KODIPROP:inputstream.adaptive.license_type=
+#KODIPROP:inputstream.adaptive.license_key=
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
+
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/pjYPPr9/Zee-Action-Farid.webp" group-title="AkashGO", Zee Action
+#KODIPROP:inputstream.adaptive.license_type=
+#KODIPROP:inputstream.adaptive.license_key=
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
+
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/r7p8qXJ/pictures-HD-Farid.webp" group-title="AkashGO", &pictures HD
+#KODIPROP:inputstream.adaptive.license_type=
+#KODIPROP:inputstream.adaptive.license_key=
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 
 #EXTINF:-1 tvg-id="akash35" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720702898004.png" group-title="AkashGO", MTV Beats 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -181,7 +206,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
 https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
 
-#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/7tQyjwr/SSC-Farid.jpg" group-title="AkashGO", None
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kX9VXvk/Zee-Cinema-HD-Farid.webp" group-title="AkashGO", None
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
