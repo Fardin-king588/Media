@@ -316,6 +316,11 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
 https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
 
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/x2y6xPM/FIFA-plus.png" group-title="AkashGO", FIFA+
+#KODIPROP:inputstream.adaptive.license_type=
+#KODIPROP:inputstream.adaptive.license_key=
+https://jmp2.uk/sam-CABD1200008JG.m3u8
+
 #EXTINF:-1 tvg-id="akash24" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926957023.png" group-title="AkashGO", Disney Jr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "or80ZEM0ar1lunVH5SZ-KQ", "kid": "hn-kMuWEREeCR7WjJ7t16w"}], "type": "temporary"}
