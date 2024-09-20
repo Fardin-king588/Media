@@ -318,5 +318,5 @@ https://medialive.akash-go.com/out/v1/f620035daf984daba989f80444a09d08/index.mpd
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kX9VXvk/Zee-Cinema-HD-Farid.webp" group-title="AkashGO", None
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:Cookie= "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1726867558:KeyName=tsports-ed25519-01:Signature=fjcWgJIHA3CHoFv4WWjCzdXxY0Jks-cZqM5fNc8wrFJPaj-E-K6pBdrhYAaFhTWldEPgT7NOsyT36SyAnwiJDg"
+#KODIPROP:Cookie={"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1726867558:KeyName=tsports-ed25519-01:Signature=fjcWgJIHA3CHoFv4WWjCzdXxY0Jks-cZqM5fNc8wrFJPaj-E-K6pBdrhYAaFhTWldEPgT7NOsyT36SyAnwiJDg"}
 https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8
