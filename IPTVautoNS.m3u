@@ -226,6 +226,21 @@ https://la.drmlive.au/tp/zee.php?id=cafehd
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "hWWvHjFoTp00A4jEXl4L0w", "kid": "RpWWmvdvRh6oP6_Vb8MBMw"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/78469781a763488194e5bb57d885dd04/index.mpd
 
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/Ss84TnF/T-Sports-Farid.png" group-title="AkashGO", T Sports
+#KODIPROP:inputstream.adaptive.license_type=
+#KODIPROP:inputstream.adaptive.license_key=
+http://xtv.ooo:8080/live/global/global/167590.ts
+
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/hddzLrS/Ten-Sports-Farid.jpg" group-title="AkashGO", Ten Sports
+#KODIPROP:inputstream.adaptive.license_type=
+#KODIPROP:inputstream.adaptive.license_key=
+http://xtv.ooo:8080/live/15155419/16175512/167569.ts
+
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/LNGd29N/Astro-Cricket-Farid.png" group-title="AkashGO", Astro Cricket
+#KODIPROP:inputstream.adaptive.license_type=
+#KODIPROP:inputstream.adaptive.license_key=
+https://criccoder.pages.dev/astro.m3u8
+
 #EXTINF:-1 tvg-id="akash41" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723795259114.png" group-title="AkashGO", Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "YoK2pusRsRJZkJDFap1I4A", "kid": "Qu1RkjiuTpKYc4trZ6G5Gw"}], "type": "temporary"}
