@@ -271,6 +271,11 @@ https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/FJcc9LN/TNT-Sports-Farid.png" group-title="AkashGO", TNT Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/FJcc9LN/TNT-Sports-Farid.png" group-title="AkashGO", TNT Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
@@ -312,5 +317,6 @@ https://medialive.akash-go.com/out/v1/8443cfd0e18f49879418200446330a04/index.mpd
 https://medialive.akash-go.com/out/v1/f620035daf984daba989f80444a09d08/index.mpd
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kX9VXvk/Zee-Cinema-HD-Farid.webp" group-title="AkashGO", None
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:Cookie= "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1726867558:KeyName=tsports-ed25519-01:Signature=fjcWgJIHA3CHoFv4WWjCzdXxY0Jks-cZqM5fNc8wrFJPaj-E-K6pBdrhYAaFhTWldEPgT7NOsyT36SyAnwiJDg"
 https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8
-"Cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1726867558:KeyName=tsports-ed25519-01:Signature=fjcWgJIHA3CHoFv4WWjCzdXxY0Jks-cZqM5fNc8wrFJPaj-E-K6pBdrhYAaFhTWldEPgT7NOsyT36SyAnwiJDg"
