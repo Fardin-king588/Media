@@ -317,5 +317,16 @@
     "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1726968863:KeyName=prod_linear:Signature=POLDREqWGNy0So91SJC2LwfnUfq89Q9p17GHKGeqKdgEQ3NaMuuM4nEqBOblYuDuUZoGYoORXVIR1FAHc2-5CQ",
     "drmScheme": "",
     "drmLicense": ""
-  }
+  },
+{
+    "name": "PTV Sports",
+    "link": "https://medialive.akash-go.com/out/v1/6873084fcbd443d38064b816322aab6f/index.mpd",
+    "logo": "https://i.ibb.co.com/s38v22f/PTV-Sports-Farid.png",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "(Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "clearkey",
+    "drmLicense": "{"keys": [{"kty": "oct", "k": "eC5Dk3v3jizE1TUTTWgrCg", "kid": "W9Rn2pR3Q0-Vhkak9o2KqA"}], "type": "temporary"}"
+  },
 ]
