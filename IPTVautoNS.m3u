@@ -292,6 +292,6 @@ https://medialive.akash-go.com/out/v1/8443cfd0e18f49879418200446330a04/index.mpd
 https://medialive.akash-go.com/out/v1/f620035daf984daba989f80444a09d08/index.mpd
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kX9VXvk/Zee-Cinema-HD-Farid.webp" group-title="AkashGO", None
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d86185f50f5952589c280167ee8e45c5:6bff81346539e4bcc9abdb351f1c855e
+https://jiolivestreaming.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output/index.mpd
