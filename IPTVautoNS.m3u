@@ -14,7 +14,7 @@ https://medialive.akash-go.com/out/v1/1eec5c4527b14f70bb9580fa18c331e8/index.mpd
 #EXTINF:-1 tvg-id="akash3" tvg-logo="https://i.ibb.co.com/nnkHDwy/Channel-I-farid.jpg" group-title="AkashGO", Channel I 
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
+http://filex.tv:8080/live/tahirbutt/003092/478579.ts
 
 #EXTINF:-1 tvg-id="akash6" tvg-logo="https://i.ibb.co.com/2tqDddN/Atn-News-Farid.jpg" group-title="AkashGO", ATN News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -59,22 +59,22 @@ https://medialive.akash-go.com/out/v1/033761f02abc44cc96b686d9b90ea40a/index.mpd
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/D8YbbmY/asian-tv-farid.jpg" group-title="AkashGO", asian TV 
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
+http://filex.tv:8080/live/tahirbutt/003092/478591.ts
 
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/DWNqXtn/deepto-tv-Farid.png" group-title="AkashGO", Deepto TV
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/playlist.m3u8
+http://filex.tv:8080/live/tahirbutt/003092/478574.ts
 
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/0QZ0M5G/Boishakhi-TV-Farid.jpg" group-title="AkashGO", Boishakhi TV
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
+http://filex.tv:8080/live/tahirbutt/003092/478584.ts
 
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/X2xm07j/ekusheytv-Farid.jpg" group-title="AkashGO", Ekushey TV
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8
+http://filex.tv:8080/live/tahirbutt/003092/478572.ts
 
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/QMyhqHm/mytv-Farid.jpg" group-title="AkashGO", mytv
 #KODIPROP:inputstream.adaptive.license_type=
@@ -89,7 +89,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/2cm8bcB/satv-Farid.jpg" group-title="AkashGO", SATV
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
+http://filex.tv:8080/live/tahirbutt/003092/478554.ts
 
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/K6hfpp4/atn-islamic-tv-farid.jpg" group-title="AkashGO", ATN Islamic TV
 #KODIPROP:inputstream.adaptive.license_type=
