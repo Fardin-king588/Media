@@ -14,7 +14,7 @@ https://medialive.akash-go.com/out/v1/1eec5c4527b14f70bb9580fa18c331e8/index.mpd
 #EXTINF:-1 tvg-id="akash3" tvg-logo="https://i.ibb.co.com/nnkHDwy/Channel-I-farid.jpg" group-title="AkashGO", Channel I 
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
-http://filex.tv:8080/live/tahirbutt/003092/478579.ts
+http://46.229.251.19/live/Mohim90/Skytv90/392.ts?token=ShJcU0BbQQNHC1cIB1QGX1gJCAlWUFdZUFVQAlACAldUBAVUVgNXAVMbGBpEF0dcWF1vWQIXXlIIUE4VEBdWQG5ZUBAJEVsLVwkNDRVPF01QXVUSXARTUwZQVQZRXQYeE0BdVhEJQQpUCwQLAVYXFRtVSEQDRwoAXT0GUhMNUFcTClpHX19PGwpXa1xSDlRXXRIKElYXSENYERIVXwpGXl0cFlBaRxFYEVwWAhVSBQoNEhwSBVoRD0UQGxVfRnF2ExwWV0tHBlcWUFtWFVkXTUoSHBIPRjsTVBEWRQAFXldDEg4QAxFPGwhYTGdUDFtXXFNEWQlbF0MLQFMVSUZeXV9ZQF1BbBNQARsOGgZRAAkPAwYSGw==
 
 #EXTINF:-1 tvg-id="akash6" tvg-logo="https://i.ibb.co.com/2tqDddN/Atn-News-Farid.jpg" group-title="AkashGO", ATN News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -59,17 +59,17 @@ https://medialive.akash-go.com/out/v1/033761f02abc44cc96b686d9b90ea40a/index.mpd
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/D8YbbmY/asian-tv-farid.jpg" group-title="AkashGO", asian TV 
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
-http://filex.tv:8080/live/tahirbutt/003092/478591.ts
+http://46.229.253.27/live/Mohim90/Skytv90/430.ts?token=ShJcU0BbQQNHDQRdVFFRXwlUBlQHDVNVAVcHU1ZcB1EECFUFUFFXXQEbGBpEF0dcWF1vWQIXXlUCUk4VEBdWQG5ZUBAJEVsLVwkNDRVPF01QXVUSXARTUwZQVQZdVQUeE0BdVhEJQQhQAQYLFU8XXEFEVUIIVAg+VQcUXgYBEQhfRVheHxEMVzpdUVVWDVEbAxIAEkoXDRJBQFhZEAhfHhNSXUZBUhdcRwMWCQZTBhsVElNfE1sQE0hAWBUnIBEeE1VMRlZdEFAKVxYCFRdGGxUSWUM5RwESRRAHVggBQRALEgQQHxEOWB1mV1dZDVBaTVlfXhUXXkMAQE4VCAtdW0VfRm1DWgcbXxsHCA5aAwkIEk0=
 
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/DWNqXtn/deepto-tv-Farid.png" group-title="AkashGO", Deepto TV
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
-http://filex.tv:8080/live/tahirbutt/003092/478574.ts
+http://46.229.251.19/live/Mohim90/Skytv90/1034.ts?token=ShJcU0BbQQNHC1cIB1QGX1gJCAlWUFdZUFVQAlACAldUBAVUVgNXAVMbGBpEF0dcWF1vWQIXXlIIUE4VEBdWQG5ZUBAJEVsLVwkNDRVPF01QXVUSXARTUwZQVQZRXQYeE0BdVhEJQQpUCwQLAVYXFRtVSEQDRwoAXT0GUhMNUFcTClpHX19PGwpXa1xSDlRXXRIKElYXSENYERIVXwpGXl0cFlBaRxFYEVwWAhVSBQoNEhwSBVoRD0UQGxVfRnF2ExwWV0tHBlcWUFtWFVkXTUoSHBIPRjsTVBEWRQAFXldDEg4QAxFPGwhYTGdUDFtXXFNEWQlbF0MLQFMVSUZeXV9ZQF1BbBNQARsOGgZRAAkPAwYSGw==
 
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/0QZ0M5G/Boishakhi-TV-Farid.jpg" group-title="AkashGO", Boishakhi TV
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
-http://filex.tv:8080/live/tahirbutt/003092/478584.ts
+http://46.229.253.27/live/Mohim90/Skytv90/429.ts?token=ShJcU0BbQQNHDQRdVFFRXwlUBlQHDVNVAVcHU1ZcB1EECFUFUFFXXQEbGBpEF0dcWF1vWQIXXlUCUk4VEBdWQG5ZUBAJEVsLVwkNDRVPF01QXVUSXARTUwZQVQZdVQUeE0BdVhEJQQhQAQYLFU8XXEFEVUIIVAg+VQcUXgYBEQhfRVheHxEMVzpdUVVWDVEbAxIAEkoXDRJBQFhZEAhfHhNSXUZBUhdcRwMWCQZTBhsVElNfE1sQE0hAWBUnIBEeE1VMRlZdEFAKVxYCFRdGGxUSWUM5RwESRRAHVggBQRALEgQQHxEOWB1mV1dZDVBaTVlfXhUXXkMAQE4VCAtdW0VfRm1DWgcbXxsHCA5aAwkIEk0=
 
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/X2xm07j/ekusheytv-Farid.jpg" group-title="AkashGO", Ekushey TV
 #KODIPROP:inputstream.adaptive.license_type=
