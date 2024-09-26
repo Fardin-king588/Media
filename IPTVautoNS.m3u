@@ -106,6 +106,11 @@ https://global.ncare.live/live-orgin/madanitvbangla.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=pRVSKrZs1UCUfyLtHR71Qw
 
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/3ppGGzf/Peace-TV-Bangla-Farid.png" group-title="AkashGO", Peace TV English
+#KODIPROP:inputstream.adaptive.license_type=
+#KODIPROP:inputstream.adaptive.license_key=
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+
 #EXTINF:-1 tvg-id="akash18" tvg-logo="https://i.ibb.co.com/hKDwXSB/Zee-Bangla-HD-Farid.webp" group-title="AkashGO", ZEE BANGLA
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
@@ -275,6 +280,14 @@ https://medialive.akash-go.com/out/v1/78469781a763488194e5bb57d885dd04/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
 http://tv.cloudcdn.me/live.ts?channelId=49859&uid=13603&deviceMac=00:1A:79:64:B4:A6
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xJ1rnqW/20240803-105438.png" group-title="English Movies", Movies Action
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.XUExjSItcSWGKJf9a-vuAwAAAA?rs=1&pid=ImgDetMain" group-title="English Movies", Great Action
+http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/55292#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/sony_pixhd_23oct_masthead_logo.png" group-title="English Movies", Sony PIX
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58207#checkedby:iptvlister.com
+
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/Ss84TnF/T-Sports-Farid.png" group-title="AkashGO", T Sports
 #KODIPROP:inputstream.adaptive.license_type=
