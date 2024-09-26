@@ -404,7 +404,6 @@ https://starshare.live:443/live/Rahat@11/Rahat@22/433.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" group-title="Kids", RONGEEN TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-1 tvg-id="akash24" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926957023.png" group-title="AkashGO", Disney Jr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "or80ZEM0ar1lunVH5SZ-KQ", "kid": "hn-kMuWEREeCR7WjJ7t16w"}], "type": "temporary"}
@@ -420,12 +419,24 @@ https://medialive.akash-go.com/out/v1/9bf2c1e016aa4e47be84550af30ea070/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "jFuDPkScopebUUHZH5Izjg", "kid": "lUN_fQ1bRaOTVzQfZ0afZg"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/3e90df68f4194cbfb16485cbc6954265/index.mpd
 
+#EXTINF:-1 channel-id="samsung-INBD4700007IQ" tvg-id="INBD4700007IQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700007IQ_20240522T015917SQUARE.png" group-title="Kids" tvg-chno="1272",Q Toonz
+https://jmp2.uk/sam-INBD4700007IQ.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-ind/poster_20240521_223810.jpg" group-title="Kids",Kids TV English
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-ind/master_en.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-india/poster_20230518_164234.jpg" group-title="Kids",Kids TV Hindi
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
+#EXTINF:-1 channel-id="samsung-INBD47000042I" tvg-id="INBD47000042I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD47000042I_20240214T030805SQUARE.png_20240214030806.png" group-title="Kids" tvg-chno="1267",The Q Kahaniyan
+https://jmp2.uk/sam-INBD47000042I.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids", Cartoon Network Hindi 
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids", Pogo Hindi 
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8 
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F3XcWbG/20240803-103747.png" group-title="Kids", GUBBARE
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png" group-title="Kids", DISCOVERY KIDS
+https://dplus.gammacdn.workers.dev/videos/113.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="Kids", HUNGAMA
+http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
 #EXTINF:-1 tvg-id="akash35" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720702898004.png" group-title="AkashGO", MTV Beats 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "1_-CJurc4UCxqMvV7cyM2Q", "kid": "T8R7JqBjTSeHIIaU6Mjjsg"}], "type": "temporary"}
