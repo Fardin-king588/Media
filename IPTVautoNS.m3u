@@ -14,7 +14,7 @@ https://medialive.akash-go.com/out/v1/1eec5c4527b14f70bb9580fa18c331e8/index.mpd
 #EXTINF:-1 tvg-id="akash3" tvg-logo="https://i.ibb.co.com/nnkHDwy/Channel-I-farid.jpg" group-title="AkashGO", Channel I 
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
-http://46.229.251.19/live/Mohim90/Skytv90/392.ts?token=ShJcU0BbQQNHC1cIB1QGX1gJCAlWUFdZUFVQAlACAldUBAVUVgNXAVMbGBpEF0dcWF1vWQIXXlIIUE4VEBdWQG5ZUBAJEVsLVwkNDRVPF01QXVUSXARTUwZQVQZRXQYeE0BdVhEJQQpUCwQLAVYXFRtVSEQDRwoAXT0GUhMNUFcTClpHX19PGwpXa1xSDlRXXRIKElYXSENYERIVXwpGXl0cFlBaRxFYEVwWAhVSBQoNEhwSBVoRD0UQGxVfRnF2ExwWV0tHBlcWUFtWFVkXTUoSHBIPRjsTVBEWRQAFXldDEg4QAxFPGwhYTGdUDFtXXFNEWQlbF0MLQFMVSUZeXV9ZQF1BbBNQARsOGgZRAAkPAwYSGw==
+https://ythls.armelin.one/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
 
 #EXTINF:-1 tvg-id="akash6" tvg-logo="https://i.ibb.co.com/2tqDddN/Atn-News-Farid.jpg" group-title="AkashGO", ATN News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -64,7 +64,7 @@ https://global.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/DWNqXtn/deepto-tv-Farid.png" group-title="AkashGO", Deepto TV
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
-http://46.229.251.19/live/Mohim90/Skytv90/1034.ts?token=ShJcU0BbQQNHC1cIB1QGX1gJCAlWUFdZUFVQAlACAldUBAVUVgNXAVMbGBpEF0dcWF1vWQIXXlIIUE4VEBdWQG5ZUBAJEVsLVwkNDRVPF01QXVUSXARTUwZQVQZRXQYeE0BdVhEJQQpUCwQLAVYXFRtVSEQDRwoAXT0GUhMNUFcTClpHX19PGwpXa1xSDlRXXRIKElYXSENYERIVXwpGXl0cFlBaRxFYEVwWAhVSBQoNEhwSBVoRD0UQGxVfRnF2ExwWV0tHBlcWUFtWFVkXTUoSHBIPRjsTVBEWRQAFXldDEg4QAxFPGwhYTGdUDFtXXFNEWQlbF0MLQFMVSUZeXV9ZQF1BbBNQARsOGgZRAAkPAwYSGw==
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/0QZ0M5G/Boishakhi-TV-Farid.jpg" group-title="AkashGO", Boishakhi TV
 #KODIPROP:inputstream.adaptive.license_type=
