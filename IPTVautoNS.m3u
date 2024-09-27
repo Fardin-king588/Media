@@ -28,7 +28,7 @@ https://medialive.akash-go.com/out/v1/6f383b37a0a04069bca27dc0308e1eac/index.mpd
 
 #EXTINF:-1 tvg-id="akash40" tvg-logo="https://i.ibb.co.com/Lgr4t8c/jamuna-Farid.jpg" group-title="AkashGO", Jamuna TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "mnAPYpObfQZyqrK6ZBqBbw", "kid": "a8lNQFy1SVyYdQfVvAKLjw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "DDW6f5qnwpHRKRLnPWyRaA", "kid": "4ASamcLcTzCaI1-ozeQQyw"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/23be063ca7254875a3ed0d546d2aec6a/index.mpd
 
 #EXTINF:-1 tvg-id="akash14" tvg-logo="https://i.ibb.co.com/5sjL0Dk/Ntv-Farid.png" group-title="AkashGO", NTV
