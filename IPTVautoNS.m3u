@@ -436,7 +436,7 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png" group-title="Kids", DISCOVERY KIDS
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="Kids", HUNGAMA
-http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
+http://xtv.ooo:8080/live/327424919/919424723/150480.m3u8
 #EXTINF:-1 tvg-id="akash35" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720702898004.png" group-title="AkashGO", MTV Beats 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "1_-CJurc4UCxqMvV7cyM2Q", "kid": "T8R7JqBjTSeHIIaU6Mjjsg"}], "type": "temporary"}
