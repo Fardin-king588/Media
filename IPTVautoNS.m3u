@@ -443,9 +443,9 @@ http://xtv.ooo:8080/live/327424919/919424723/150480.m3u8
 https://medialive.akash-go.com/out/v1/8443cfd0e18f49879418200446330a04/index.mpd
 
 #EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/VTgWZjk/Animal-Planet-Farid.png" group-title="AkashGO", Animal Planet
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "qHthsvhaSsAh9tZpds8DQA", "kid": "UEpNqh5TRZ6LMYAJKWMnhg"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/f620035daf984daba989f80444a09d08/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/AnimalPlanet.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TEST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
