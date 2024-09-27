@@ -27,9 +27,9 @@ https://medialive.akash-go.com/out/v1/5dddba2c4d6242f8a97e86ea9e77a464/index.mpd
 https://medialive.akash-go.com/out/v1/6f383b37a0a04069bca27dc0308e1eac/index.mpd
 
 #EXTINF:-1 tvg-id="akash40" tvg-logo="https://i.ibb.co.com/Lgr4t8c/jamuna-Farid.jpg" group-title="AkashGO", Jamuna TV
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-https://starshare.live:443/live/Rahat@11/Rahat@22/421.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "mnAPYpObfQZyqrK6ZBqBbw", "kid": "a8lNQFy1SVyYdQfVvAKLjw"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/23be063ca7254875a3ed0d546d2aec6a/index.mpd
 
 #EXTINF:-1 tvg-id="akash14" tvg-logo="https://i.ibb.co.com/5sjL0Dk/Ntv-Farid.png" group-title="AkashGO", NTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
