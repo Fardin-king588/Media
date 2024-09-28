@@ -127,9 +127,13 @@ https://medialive.akash-go.com/out/v1/f1e06e3fb5fc4c37a91f6c343a76e02e/index.mpd
 https://medialive.akash-go.com/out/v1/55589a1adc934ba584f9010ce3959f6a/index.mpd
 
 #EXTINF:-1 tvg-id="akash25" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925762981.png" group-title="AkashGO", HUM TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "1xp7sSY1Yt4RE4EYEGSqiw", "kid": "NlmMWl30RyyUduYIMCRvZg"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/bde63bd20a2b453f9fcfca2f2645b473/index.mpd
+http://xtv.ooo:8080/live/874246786/743567899/25981.ts
+#EXTINF:-1 tvg-id="akash25" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925762981.png" group-title="AkashGO", HUM Sitare
+http://xtv.ooo:8080/live/874246786/743567899/25983.ts
+#EXTINF:-1 tvg-id="akash25" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925762981.png" group-title="AkashGO", Geo Entertainment
+http://xtv.ooo:8080/live/874246786/743567899/221338.ts
+#EXTINF:-1 tvg-id="akash25" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925762981.png" group-title="AkashGO", Geo Kahani
+http://xtv.ooo:8080/live/874246786/743567899/221341.ts
 
 #EXTINF:-1 tvg-id="akash22" tvg-logo="https://i.ibb.co.com/JnZ2hJG/Colors-HD-Farid.png" group-title="AkashGO", Colors HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
