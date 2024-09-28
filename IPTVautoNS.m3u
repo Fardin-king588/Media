@@ -88,14 +88,9 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 
 #EXTINF:-1 tvg-id="akash21" tvg-logo="https://i.ibb.co.com/jvHdctB/Colors-Bangla-Farid.png" group-title="AkashGO", Colors Bangla
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "ccl7uvV7NyGZ-8Ecp5Cvdg", "kid": "CKhDpp4NTBCjGhCWqdX6KQ"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/f1e06e3fb5fc4c37a91f6c343a76e02e/index.mpd
 
 #EXTINF:-1 tvg-id="akash28" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720359542393.png" group-title="AkashGO", Star Jalsha HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "QxhBpxdJ44zlyZMvrqdcdw", "kid": "wu1n_H0ySUysFf2pKCVKZQ"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/55589a1adc934ba584f9010ce3959f6a/index.mpd
+http://xtv.ooo:8080/live/874246786/743567899/245898.ts
 
 #EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/hVjQWKS/Humtv-Farid.png" group-title="AkashGO", HUM TV
 http://xtv.ooo:8080/live/874246786/743567899/25981.ts
@@ -109,9 +104,7 @@ http://xtv.ooo:8080/live/874246786/743567899/221341.ts
 http://xtv.ooo:8080/live/874246786/743567899/25998.ts
 
 #EXTINF:-1 tvg-id="akash22" tvg-logo="https://i.ibb.co.com/JnZ2hJG/Colors-HD-Farid.png" group-title="AkashGO", Colors HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "DeF9_a-1tixgRL2bmQvNbA", "kid": "H1Nuc4aZSUK2PrvPgt5-4g"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/d6e0e11ced944bb7a33467afb21979a1/index.mpd
+http://xtv.ooo:8080/live/874246786/743567899/66167.ts
 
 #EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/1Tm9hGQ/Zee-Anmoll-Farid.webp" group-title="AkashGO", Zee Anmoll
 #KODIPROP:inputstream.adaptive.license_type=
@@ -124,14 +117,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
 https://la.drmlive.au/tp/zee.php?id=zesthd
 
 #EXTINF:-1 tvg-id="akash31" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927537752.png" group-title="AkashGO", Star PLUS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "BaUU8bZ0iZN2J7HYrlKbTQ", "kid": "LttOWM8kTVGBQyBZwDqDUQ"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/99ed86002c8d470ea7e8d3c699abc57f/index.mpd
+http://xtv.ooo:8080/live/874246786/743567899/221252.ts
 
 #EXTINF:-1 tvg-id="akash32" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720701862733.png" group-title="AkashGO", Zee TV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "_o4ZvaVIMjaLkYOKdPBGlA", "kid": "kVC3wacDQCa-_AzpidbtaQ"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/410a6931d4e047ffb964cc06eb04e16f/index.mpd
+http://xtv.ooo:8080/live/874246786/743567899/66162.ts
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/4p27G69/tv-HD-Farid.webp" group-title="AkashGO", &tv HD
 #KODIPROP:inputstream.adaptive.license_type=
@@ -159,9 +148,7 @@ https://medialive.akash-go.com/out/v1/a1a4886d7bdd4797a0eebb69e2c67554/index.mpd
 https://medialive.akash-go.com/out/v1/18d00c76943d4c62a98ccc36fb36261e/index.mpd
 
 #EXTINF:-1 tvg-id="akash34" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720702595466.png" group-title="AkashGO", STAR GOLD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "J5Imr5yaHdbrSIuFIKJNiw", "kid": "-wLcLLpERTiX3ghw1DzBnA"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/8c069025cffe4fbd94a11ce0b5c32b93/index.mpd
+http://xtv.ooo:8080/live/874246786/743567899/66177.ts
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kX9VXvk/Zee-Cinema-HD-Farid.webp" group-title="AkashGO", Zee Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=
@@ -194,9 +181,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpicturesh
 https://la.drmlive.au/tp/zee.php?id=andxplorehd
 
 #EXTINF:-1 tvg-id="akash20" tvg-logo="https://i.ibb.co.com/rdkyHzb/Colors-Cineplex-HD-Farid.png" group-title="AkashGO", Cineplex HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "I3RIhdPj12NGz2vYBrEtVQ", "kid": "9HSB9KJoSXCLiBQbJ3SPXw"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/db019fb82c8d4b9e971557e7cb1fd625/index.mpd
+http://xtv.ooo:8080/live/874246786/743567899/104191.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/6Zb3KSd/The-Movie-Club-Farid.jpg" group-title="", The Movie Club
 #KODIPROP:inputstream.adaptive.license_type=
@@ -249,9 +234,7 @@ https://jmp2.uk/sam-INBD4700008UG.m3u8
 https://la.drmlive.au/tp/zee.php?id=cafehd
 
 #EXTINF:-1 tvg-id="akash8" tvg-logo="https://i.ibb.co.com/8mCnBR4/Star-Movies-HD-Farid.png" group-title="AkashGO", Star Movies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "hWWvHjFoTp00A4jEXl4L0w", "kid": "RpWWmvdvRh6oP6_Vb8MBMw"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/78469781a763488194e5bb57d885dd04/index.mpd
+http://xtv.ooo:8080/live/874246786/743567899/66213.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/0ZdqXyz/and-flix-hd-Farid.webp" group-title="", &flix HD
 #KODIPROP:inputstream.adaptive.license_type=
@@ -263,7 +246,7 @@ https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.XUExjSItcSWGKJf9a-vuAwAAAA?rs=1&pid=ImgDetMain" group-title="English Movies", Great Action
 http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/55292#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/sony_pixhd_23oct_masthead_logo.png" group-title="English Movies", Sony PIX
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58207#checkedby:iptvlister.com
+http://xtv.ooo:8080/live/874246786/743567899/66224.ts
 
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/Ss84TnF/T-Sports-Farid.png" group-title="AkashGO", T Sports
@@ -282,19 +265,13 @@ http://xtv.ooo:8080/live/874246786/743567899/167569.ts
 https://criccoder.pages.dev/astro.m3u8
 
 #EXTINF:-1 tvg-id="akash41" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723795259114.png" group-title="AkashGO", Star Sports 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "YoK2pusRsRJZkJDFap1I4A", "kid": "Qu1RkjiuTpKYc4trZ6G5Gw"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/fb49908b8b3247a8ba7329726bad5753/index.mpd
+http://xtv.ooo:8080/live/874246786/743567899/167575.ts
 
 #EXTINF:-1 tvg-id="akash42" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723808066858.png" group-title="AkashGO", Star Sports Select 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "LDZ4vlI0MKYMQGv2qNmszw", "kid": "lA3og3MaRaaHcCEqLqFbnA"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/4d015848792f45e1bd0ba5ce73452a37/index.mpd
+http://xtv.ooo:8080/live/874246786/743567899/167579.ts
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723809087828.png" group-title="AkashGO", Star Sports Select 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "NClyBFvdvJf0PMPIQc3GuQ", "kid": "PKLrUC6HRhaMd62aUGuykw"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/fa9ba9b216004bedb62d6638c6440a56/index.mpd
+http://xtv.ooo:8080/live/874246786/743567899/167578.ts
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/RjgzwKK/cricbuzz-Farid.jpg" group-title="AkashGO", cricbuzz
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -388,19 +365,10 @@ https://starshare.live:443/live/Rahat@11/Rahat@22/433.ts
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="akash24" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926957023.png" group-title="AkashGO", Disney Jr
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "or80ZEM0ar1lunVH5SZ-KQ", "kid": "hn-kMuWEREeCR7WjJ7t16w"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/e08a102ae926476490eeff90e739e7e0/index.mpd
 
 #EXTINF:-1 tvg-id="akash26" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927021670.png" group-title="AkashGO", Nick 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "0hXBtrVpfF6kP6nahBs_fA", "kid": "Dd47HJTrQCCdKbMdwfd5XQ"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/9bf2c1e016aa4e47be84550af30ea070/index.mpd
 
 #EXTINF:-1 tvg-id="akash27" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719985680308.png" group-title="AkashGO", Nickelodeon Sonic
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "jFuDPkScopebUUHZH5Izjg", "kid": "lUN_fQ1bRaOTVzQfZ0afZg"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/3e90df68f4194cbfb16485cbc6954265/index.mpd
 
 #EXTINF:-1 channel-id="samsung-INBD4700007IQ" tvg-id="INBD4700007IQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700007IQ_20240522T015917SQUARE.png" group-title="Kids" tvg-chno="1272",Q Toonz
 https://jmp2.uk/sam-INBD4700007IQ.m3u8
@@ -436,7 +404,7 @@ https://medialive.akash-go.com/out/v1/8443cfd0e18f49879418200446330a04/index.mpd
 #EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/VTgWZjk/Animal-Planet-Farid.png" group-title="AkashGO", Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
-https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/AnimalPlanet.m3u8
+https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/AnimalPlanet_en.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TEST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
