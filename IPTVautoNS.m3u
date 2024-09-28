@@ -134,6 +134,8 @@ http://xtv.ooo:8080/live/874246786/743567899/25983.ts
 http://xtv.ooo:8080/live/874246786/743567899/221338.ts
 #EXTINF:-1 tvg-id="akash25" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925762981.png" group-title="AkashGO", Geo Kahani
 http://xtv.ooo:8080/live/874246786/743567899/221341.ts
+#EXTINF:-1 tvg-id="akash25" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925762981.png" group-title="AkashGO", Apna Channel
+http://xtv.ooo:8080/live/874246786/743567899/25998.ts
 
 #EXTINF:-1 tvg-id="akash22" tvg-logo="https://i.ibb.co.com/JnZ2hJG/Colors-HD-Farid.png" group-title="AkashGO", Colors HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
