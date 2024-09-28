@@ -421,6 +421,12 @@ https://medialive.akash-go.com/out/v1/3e90df68f4194cbfb16485cbc6954265/index.mpd
 
 #EXTINF:-1 channel-id="samsung-INBD4700007IQ" tvg-id="INBD4700007IQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700007IQ_20240522T015917SQUARE.png" group-title="Kids" tvg-chno="1272",Q Toonz
 https://jmp2.uk/sam-INBD4700007IQ.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids/poster_20231121_195247.jpg" group-title="Kids",ToonzKids
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23143/hooray-rhymes/poster_20240216_231046.jpg" group-title="Kids",Hooray Rhymes
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hooray-rhymes/playlist.m3u8
+#EXTINF:-1 channel-id="samsung-CABD1700003AY" tvg-id="CABD1700003AY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1700003AY_20240401T234441SQUARE.png" group-title="Kids" tvg-chno="1398",ZooMoo
+https://jmp2.uk/sam-CABD1700003AY.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-ind/poster_20240521_223810.jpg" group-title="Kids",Kids TV English
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-ind/master_en.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-india/poster_20230518_164234.jpg" group-title="Kids",Kids TV Hindi
@@ -429,6 +435,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://jmp2.uk/sam-INBD47000042I.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids", Cartoon Network Hindi 
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8 
+#EXTINF:-1 channel-id="samsung-IN2500003JW" tvg-id="IN2500003JW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2500003JW_20240813T052422SQUARE.png" group-title="Kids" tvg-chno="1266",Powerkids Kartoon Channel
+https://jmp2.uk/sam-IN2500003JW.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids", Pogo Hindi 
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3XcWbG/20240803-103747.png" group-title="Kids", GUBBARE
