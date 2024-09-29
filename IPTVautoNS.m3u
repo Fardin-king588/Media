@@ -114,11 +114,11 @@ http://xtv.ooo:8080/live/874246786/743567899/221338.ts
 http://xtv.ooo:8080/live/874246786/743567899/221341.ts
 #EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/5KCkSTR/Apna-Channel-Farid.jpg" group-title="AkashGO", Apna Channel
 http://xtv.ooo:8080/live/874246786/743567899/25998.ts
-#EXTINF:-1 tvg-id="akash25" tvg-logo="" group-title="AkashGO", Sony Entertainment
+#EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/bm7fGc8/Sony-Entertainmenthd-Farid.png" group-title="AkashGO", Sony Entertainment
 http://xtv.ooo:8080/live/874246786/743567899/66165.ts
-#EXTINF:-1 tvg-id="akash25" tvg-logo="" group-title="AkashGO", Sony SuB
+#EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/Wytg0sD/Sony-Sab-Farid.png" group-title="AkashGO", Sony SuB
 http://xtv.ooo:8080/live/874246786/743567899/66174.ts
-#EXTINF:-1 tvg-id="akash25" tvg-logo="" group-title="AkashGO", Sony WAH
+#EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/dffrZ18/Sony-Wah-Farid.png" group-title="AkashGO", Sony WAH
 http://xtv.ooo:8080/live/874246786/743567899/112979.ts
 #EXTINF:-1 tvg-id="akash22" tvg-logo="https://i.ibb.co.com/JnZ2hJG/Colors-HD-Farid.png" group-title="AkashGO", Colors HD
 http://xtv.ooo:8080/live/874246786/743567899/66167.ts
@@ -148,19 +148,19 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
 http://xtv.ooo:8080/live/874246786/743567899/245900.ts
 #EXTINF:-1 tvg-id="akash33" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720702324558.png" group-title="AkashGO", Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
-#EXTINF:-1 tvg-id="akash34" tvg-logo="" group-title="AkashGO", Utsav GOLD
+#EXTINF:-1 tvg-id="akash34" tvg-logo="https://i.ibb.co.com/J3LqKR2/Star-utsav-Gold-Farid.jpg" group-title="AkashGO", Utsav GOLD
 http://xtv.ooo:8080/live/874246786/743567899/221257.ts
-#EXTINF:-1 tvg-id="akash34" tvg-logo="" group-title="AkashGO", STAR GOLD
+#EXTINF:-1 tvg-id="akash34" tvg-logo="https://i.ibb.co.com/dLFbPq7/Star-Gold.jpg" group-title="AkashGO", STAR GOLD
 http://xtv.ooo:8080/live/874246786/743567899/66177.ts
-#EXTINF:-1 tvg-id="akash34" tvg-logo="" group-title="AkashGO", STAR GOLD 2
+#EXTINF:-1 tvg-id="akash34" tvg-logo="https://i.ibb.co.com/Ld1yBFq/Star-Gold-2-Farid.png" group-title="AkashGO", STAR GOLD 2
 http://xtv.ooo:8080/live/874246786/743567899/106133.ts
-#EXTINF:-1 tvg-id="akash34" tvg-logo="" group-title="AkashGO", STAR GOLD Thrills
+#EXTINF:-1 tvg-id="akash34" tvg-logo="https://i.ibb.co.com/rFsv66r/Star-Gold-Thrills.jpg" group-title="AkashGO", STAR GOLD Thrills
 http://xtv.ooo:8080/live/874246786/743567899/221258.ts
-#EXTINF:-1 tvg-id="akash34" tvg-logo="" group-title="AkashGO", STAR GOLD Romance
+#EXTINF:-1 tvg-id="akash34" tvg-logo="https://i.ibb.co.com/jGjLRyz/Star-Gold-Romance-Farid.jpg" group-title="AkashGO", STAR GOLD Romance
 http://xtv.ooo:8080/live/874246786/743567899/66186.ts
-#EXTINF:-1 tvg-id="akash34" tvg-logo="" group-title="AkashGO", Sony Max
+#EXTINF:-1 tvg-id="akash34" tvg-logo="https://i.ibb.co.com/5Y9Zk0b/Sony-Maxhd-Farid.png" group-title="AkashGO", Sony Max HD
 http://xtv.ooo:8080/live/874246786/743567899/66180.ts
-#EXTINF:-1 tvg-id="akash34" tvg-logo="" group-title="AkashGO", Sony Max 2
+#EXTINF:-1 tvg-id="akash34" tvg-logo="https://i.ibb.co.com/5FDrKwB/Sony-Max2-Farid.png" group-title="AkashGO", Sony Max 2
 http://xtv.ooo:8080/live/874246786/743567899/66189.ts
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kX9VXvk/Zee-Cinema-HD-Farid.webp" group-title="AkashGO", Zee Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
@@ -207,21 +207,21 @@ https://la.drmlive.au/tp/zee.php?id=cafehd
 http://xtv.ooo:8080/live/874246786/743567899/66213.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/0ZdqXyz/and-flix-hd-Farid.webp" group-title="", &flix HD
 http://xtv.ooo:8080/live/874246786/743567899/66236.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", &prive HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/Fhc2vVV/privehd-Farid.jpg" group-title="", &prive HD
 http://xtv.ooo:8080/live/874246786/743567899/66228.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xJ1rnqW/20240803-105438.png" group-title="English Movies", Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.XUExjSItcSWGKJf9a-vuAwAAAA?rs=1&pid=ImgDetMain" group-title="English Movies", Great Action
 http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/55292#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/sony_pixhd_23oct_masthead_logo.png" group-title="English Movies", Sony PIX
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CbM2mP3/Sony-PIX-Farid.png" group-title="English Movies", Sony PIX
 http://xtv.ooo:8080/live/874246786/743567899/66224.ts
 #EXTINF:-1 tvg-logo="" group-title="English Movies", MXN HD
 http://xtv.ooo:8080/live/874246786/743567899/66224.ts
-#EXTINF:-1 tvg-logo="" group-title="English Movies", MN+HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Sf5b6M/MN-plus-Farid.jpg" group-title="English Movies", MN+HD
 http://xtv.ooo:8080/live/874246786/743567899/66244.ts
-#EXTINF:-1 tvg-logo="" group-title="English Movies", movies NOW
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pvWkc3w/Movies-Now-Farid.jpg" group-title="English Movies", movies NOW
 http://xtv.ooo:8080/live/874246786/743567899/66271.ts
-#EXTINF:-1 tvg-id="akash8" tvg-logo="https://i.ibb.co.com/8mCnBR4/Star-Movies-HD-Farid.png" group-title="AkashGO", Star Movies SELECT HD
+#EXTINF:-1 tvg-id="akash8" tvg-logo="https://i.ibb.co.com/g4TqGw2/Star-Movies-Select-Farid.jpg" group-title="AkashGO", Star Movies SELECT HD
 http://xtv.ooo:8080/live/874246786/743567899/66315.ts
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/Ss84TnF/T-Sports-Farid.png" group-title="AkashGO", T Sports
