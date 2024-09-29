@@ -30,8 +30,11 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=5149cfic&e=.m3u8|Referer=https://
 #EXTINF:-1 tvg-id="akash15" tvg-logo="https://i.ibb.co.com/frk4h09/Bangla-Vision-Farid.jpg" group-title="AkashGO", Bangla Vision
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=01eabe3c&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-#EXTINF:-1 tvg-id="akash16" tvg-logo="https://i.ibb.co.com/NnGSTv6/BTV-Farid.png" group-title="AkashGO", BTV
+#EXTINF:-1 tvg-id="akash16" tvg-logo="https://i.ibb.co.com/GdHWpyt/BTV-World-Farid.png" group-title="AkashGO", BTV World
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=btv_world
+
+#EXTINF:-1 tvg-id="akash16" tvg-logo="https://i.ibb.co.com/vwspvkT/Nagorik-TV-Farid.jpg" group-title="AkashGO", Nagoric tv
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=nagorik_tv
 
 #EXTINF:-1 tvg-id="akash17" tvg-logo="https://i.ibb.co.com/xzkZwCS/somoynews-Farid.jpg" group-title="AkashGO", Somoy TV
 https://ythls-v3.onrender.com/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
@@ -57,9 +60,10 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 https://mytvbangla.com/0.m3u8
 
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/pbvw393/news24-Farid.jpg" group-title="AkashGO", News 24
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
 https://ythls-v3.onrender.com/channel/UCb2O5Uo4a26CdTE7_2QA-jA.m3u8
+
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/pzh4hHd/Deshi-TVBangla-Farid.png" group-title="AkashGO", Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/2cm8bcB/satv-Farid.jpg" group-title="AkashGO", SATV
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
@@ -83,12 +87,10 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=pRVSKrZs1UC
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 
 #EXTINF:-1 tvg-id="akash18" tvg-logo="https://i.ibb.co.com/hKDwXSB/Zee-Bangla-HD-Farid.webp" group-title="AkashGO", ZEE BANGLA
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 
 #EXTINF:-1 tvg-id="akash21" tvg-logo="https://i.ibb.co.com/jvHdctB/Colors-Bangla-Farid.png" group-title="AkashGO", Colors Bangla
-
+http://xtv.ooo:8080/live/874246786/743567899/245895.ts
 #EXTINF:-1 tvg-id="akash28" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720359542393.png" group-title="AkashGO", Star Jalsha HD
 http://xtv.ooo:8080/live/874246786/743567899/245898.ts
 
@@ -112,8 +114,6 @@ http://xtv.ooo:8080/live/874246786/743567899/66167.ts
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
 
 #EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/dfG5w7g/Zee-Zest-Farid.png" group-title="AkashGO", Zee Zest HD
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
 https://la.drmlive.au/tp/zee.php?id=zesthd
 
 #EXTINF:-1 tvg-id="akash31" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927537752.png" group-title="AkashGO", Star PLUS
@@ -123,51 +123,32 @@ http://xtv.ooo:8080/live/874246786/743567899/221252.ts
 http://xtv.ooo:8080/live/874246786/743567899/66162.ts
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/4p27G69/tv-HD-Farid.webp" group-title="AkashGO", &tv HD
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/PxXLP23/Big-Magic-Farid.png" group-title="AkashGO", Big Magic
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
 https://la.drmlive.au/tp/zee.php?id=bigmagic
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/hB6rZ5s/Zing-Farid.webp" group-title="AkashGO", & Zing
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
 
 #EXTINF:-1 tvg-id="akash29" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927885394.png" group-title="AkashGO", Jalsha Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Uqquz57boDgHfweoqU9_Tg", "kid": "7--0hzyVR9Ghp6CsLumLTg"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/a1a4886d7bdd4797a0eebb69e2c67554/index.mpd
-
+http://xtv.ooo:8080/live/874246786/743567899/245900.ts
 #EXTINF:-1 tvg-id="akash33" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720702324558.png" group-title="AkashGO", Zee Bangla Cinema
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "CL-GQSU1oYbi75-WLU_Yhw", "kid": "nkWqTarFQfC44yVFyLOFWg"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/18d00c76943d4c62a98ccc36fb36261e/index.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 
 #EXTINF:-1 tvg-id="akash34" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720702595466.png" group-title="AkashGO", STAR GOLD
 http://xtv.ooo:8080/live/874246786/743567899/66177.ts
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kX9VXvk/Zee-Cinema-HD-Farid.webp" group-title="AkashGO", Zee Cinema HD
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/4pzGSmh/Zee-Anmoll-Cinema-Farid.jpg" group-title="AkashGO", Zee Anmoll Cinema
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/Zeeanmolcinema1.m3u8
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/BjvMxX7/Zee-Bollywood-Farid.webp" group-title="AkashGO", Zee Bollywood
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/pjYPPr9/Zee-Action-Farid.webp" group-title="AkashGO", Zee Action
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/r7p8qXJ/pictures-HD-Farid.webp" group-title="AkashGO", &pictures HD
@@ -181,7 +162,10 @@ https://la.drmlive.au/tp/zee.php?id=andxplorehd
 #EXTINF:-1 tvg-id="akash20" tvg-logo="https://i.ibb.co.com/rdkyHzb/Colors-Cineplex-HD-Farid.png" group-title="AkashGO", Cineplex HD
 http://tv.cloudcdn.me/live.ts?channelId=156&uid=5284&deviceMac=00:1A:79:17:C0:71
 
-#EXTINF:-1 tvg-id="akash20" tvg-logo="https://i.ibb.co.com/rdkyHzb/Colors-Cineplex-HD-Farid.png" group-title="AkashGO", Cineplex Bollywood
+#EXTINF:-1 tvg-id="akash20" tvg-logo="https://i.ibb.co.com/vqmsySt/Cineplex-Bollywood-Farid.jpg" group-title="AkashGO", Cineplex Bollywood
+http://xtv.ooo:8080/live/874246786/743567899/104191.ts
+
+#EXTINF:-1 tvg-id="akash20" tvg-logo="https://i.ibb.co.com/202j09Y/Cineplex-Superhits-Farid.webp" group-title="AkashGO", Cineplex Superhits
 http://xtv.ooo:8080/live/874246786/743567899/104191.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/6Zb3KSd/The-Movie-Club-Farid.jpg" group-title="", The Movie Club
@@ -271,33 +255,21 @@ https://live2.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd
 https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/K9MrGZV/A-Sports-Farid.png" group-title="AkashGO", Ary Sports
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
 http://multinet-tv.serveftp.com:45793/BRN/ArySports.stream/chunklist_w819651575.m3u8
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/8zW73Vt/Geo-Tv-Farid.png" group-title="AkashGO", Geo Super
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
 http://xtv.ooo:8080/live/874246786/743567899/167568.ts
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kJJKtbH/Supersport-Farid.jpg" group-title="AkashGO", Super Cricket
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
 http://xtv.ooo:8080/live/874246786/743567899/238475.ts
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kJJKtbH/Supersport-Farid.jpg" group-title="AkashGO", Super premier League
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
 http://xtv.ooo:8080/live/874246786/743567899/238478.ts
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kJJKtbH/Supersport-Farid.jpg" group-title="AkashGO", Super Laliga
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
 http://xtv.ooo:8080/live/874246786/743567899/238479.ts
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/PQXxRFZ/sky-sports-Farid.png" group-title="AkashGO", Sky Sports
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
 http://xtv.ooo:8080/live/874246786/743567899/167594.ts
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/FJcc9LN/TNT-Sports-Farid.png" group-title="AkashGO", TNT Sports 1
@@ -381,37 +353,41 @@ https://dplus.gammacdn.workers.dev/videos/113.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="Kids", HUNGAMA
 http://xtv.ooo:8080/live/327424919/919424723/150480.m3u8
 
-#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/VTgWZjk/Animal-Planet-Farid.png" group-title="Documentary_Nature & Life Style", Discovery Bangla
+#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/KbMz5W1/Discovery-Farid.png" group-title="Documentary_Nature & Life Style", Discovery Bangla
 https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/Discovery_bn.m3u8
-#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/VTgWZjk/Animal-Planet-Farid.png" group-title="Documentary_Nature & Life Style", Discovery English
+#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/KbMz5W1/Discovery-Farid.png" group-title="Documentary_Nature & Life Style", Discovery English
 https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/Discovery_en.m3u8
-#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/VTgWZjk/Animal-Planet-Farid.png" group-title="Documentary_Nature & Life Style", Discovery Science
+#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/sg1hVcy/Discovery-Science-Farid.jpg" group-title="Documentary_Nature & Life Style", Discovery Science
 https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/DiscoveryScience_en.m3u8
-#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/VTgWZjk/Animal-Planet-Farid.png" group-title="Documentary_Nature & Life Style", Discovery Turbo
+#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/sKbWwNs/Discovery-Turbo-Farid.png" group-title="Documentary_Nature & Life Style", Discovery Turbo
 https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/DiscoveryTurbo_en.m3u8
 #EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/VTgWZjk/Animal-Planet-Farid.png" group-title="Documentary_Nature & Life Style", Animal Planet
 https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/AnimalPlanet_en.m3u8
-#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/VTgWZjk/Animal-Planet-Farid.png" group-title="Documentary_Nature & Life Style", Wild Life
+#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/mDxZB0v/National-Geographic-Farid.png" group-title="Documentary_Nature & Life Style", National Geographic
+
+#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/ZLXrXVP/Nat-Geo-Wild-Farid.png" group-title="Documentary_Nature & Life Style", Nat Geo Wild
+
+#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/vHWt8QD/Wild-Life-Farid.png" group-title="Documentary_Nature & Life Style", Wild Life
 https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/WildLife_en.m3u8
-#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/VTgWZjk/Animal-Planet-Farid.png" group-title="Documentary_Nature & Life Style", INwild
+#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/XsSp0Qc/inwild-Farid.jpg" group-title="Documentary_Nature & Life Style", INwild
 https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/Inwild_en.m3u8
-#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/VTgWZjk/Animal-Planet-Farid.png" group-title="Documentary_Nature & Life Style", DMAX
+#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/jzD8rMC/DMAX-Farid.png" group-title="Documentary_Nature & Life Style", DMAX
 https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/DMAX_en.m3u8
-#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/VTgWZjk/Animal-Planet-Farid.png" group-title="Documentary_Nature & Life Style", Travel HD
+#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/fxY1L52/Travel-Channel-Farid.webp" group-title="Documentary_Nature & Life Style", Travel Channel
 https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/TravelHD_en.m3u8
-#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/VTgWZjk/Animal-Planet-Farid.png" group-title="Documentary_Nature & Life Style", Travel XP
+#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/Yb3ZsYS/Travel-XP-Farid.png" group-title="Documentary_Nature & Life Style", Travel XP
 https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/TravelXP_en.m3u8
-#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/VTgWZjk/Animal-Planet-Farid.png" group-title="Documentary_Nature & Life Style", Food Network
+#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/FhpP0GH/Food-Network-Farid.png" group-title="Documentary_Nature & Life Style", Food Network
 https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/FoodNetwork_en.m3u8
-#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/VTgWZjk/Animal-Planet-Farid.png" group-title="Documentary_Nature & Life Style", Fashion TV
+#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/6v7cjdG/Fasion-Tv-Farid.jpg" group-title="Documentary_Nature & Life Style", Fashion TV
 https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/FashionTV-en.m3u8
-#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/VTgWZjk/Animal-Planet-Farid.png" group-title="Documentary_Nature & Life Style", TLC
+#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/XStCzNN/TLC-Farid.jpg" group-title="Documentary_Nature & Life Style", TLC
 https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/TLChd_en.m3u8
-#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/VTgWZjk/Animal-Planet-Farid.png" group-title="Documentary_Nature & Life Style", 5 Minute Creative
+#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/QNfkFSz/5minutecreative-Farid.jpg" group-title="Documentary_Nature & Life Style", 5 Minute Creative
 https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/5minuteCreative_en.m3u8
 
 #EXTINF:-1 tvg-id="e181c0f8" tvg-name="ATN Music" tvg-logo="https://i.postimg.cc/0QdZyPnb/ATN-Music-TV.png" tvg-chno="4" group-title="Bangla Music",ATN Music
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L6V3Gsh/20240802-204557.png" group-title="Bangla Music", GAAN BANGLA
 http://tv.cloudcdn.me/live.ts?channelId=97&uid=1868&deviceMac=00:1A:79:94:98:FE
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b1nCFvF/20240803-103853.png" group-title="Bangla Music", SANGEET BANGLA
