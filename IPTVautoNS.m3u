@@ -13,7 +13,7 @@ http://tv.cloudcdn.me/live.ts?channelId=95&uid=1904&deviceMac=00:1A:79:4C:9A:52
 https://ythls-v3.onrender.com/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
 
 #EXTINF:-1 tvg-id="akash6" tvg-logo="https://i.ibb.co.com/2tqDddN/Atn-News-Farid.jpg" group-title="AkashGO", ATN Bangla
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=atn_bangla
+https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8?expires=1727875791&md5=gMKwnVu4JI-VTjtXu8eIkw&user=8333f5cef8e441a0abd75ae8344d39d7
 
 #EXTINF:-1 tvg-id="akash6" tvg-logo="https://i.ibb.co.com/2tqDddN/Atn-News-Farid.jpg" group-title="AkashGO", ATN News
 https://ythls-v3.onrender.com/channel/UC9Rgo0CrNyd7OWliLekqqGA.m3u8
