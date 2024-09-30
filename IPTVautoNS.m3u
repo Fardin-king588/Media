@@ -13,10 +13,10 @@ http://tv.cloudcdn.me/live.ts?channelId=95&uid=1904&deviceMac=00:1A:79:4C:9A:52
 https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8?expires=1727876588&md5=Z9qIds7B474bwvarvbhJUA&user=811838a63b224e85b02b925b31d0fece
 
 #EXTINF:-1 tvg-id="akash6" tvg-logo="https://i.ibb.co.com/2tqDddN/Atn-News-Farid.jpg" group-title="AkashGO", ATN Bangla
-https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8?expires=1727875791&md5=gMKwnVu4JI-VTjtXu8eIkw&user=8333f5cef8e441a0abd75ae8344d39d7
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=atn_bangla
 
 #EXTINF:-1 tvg-id="akash6" tvg-logo="https://i.ibb.co.com/2tqDddN/Atn-News-Farid.jpg" group-title="AkashGO", ATN News
-https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8?expires=1727876514&md5=B2IUks_dTZH6trhqsKOO4Q&user=811838a63b224e85b02b925b31d0fece
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=atn_news
 
 #EXTINF:-1 tvg-id="akash36" tvg-logo="https://i.ibb.co.com/Lrms0X5/channel24-Farid.jpg" group-title="AkashGO", Channel 24
 http://tv.cloudcdn.me/live.ts?channelId=87&uid=16068&deviceMac=00:1A:79:ED:10:29
@@ -28,13 +28,13 @@ http://tv.cloudcdn.me/live.ts?channelId=100&uid=16068&deviceMac=00:1A:79:ED:10:2
 https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8?expires=1727876727&md5=4qzqdkV4LWptECIpwu-OYA&user=811838a63b224e85b02b925b31d0fece
 
 #EXTINF:-1 tvg-id="akash14" tvg-logo="https://i.ibb.co.com/5sjL0Dk/Ntv-Farid.png" group-title="AkashGO", NTV
-https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8?expires=1727876310&md5=P-HTf1lJUt8ToIi2CbAgUA&user=811838a63b224e85b02b925b31d0fece
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=ntv
 
 #EXTINF:-1 tvg-id="akash15" tvg-logo="https://i.ibb.co.com/frk4h09/Bangla-Vision-Farid.jpg" group-title="AkashGO", Bangla Vision
 https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8?expires=1727877059&md5=Cqiv6oB2CUaii75v0ndkng&user=811838a63b224e85b02b925b31d0fece
 
 #EXTINF:-1 tvg-id="akash16" tvg-logo="https://i.ibb.co.com/GdHWpyt/BTV-World-Farid.png" group-title="AkashGO", BTV World
-https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8?expires=1727877019&md5=_oF69qUb_--cVYkb0ntTrg&user=811838a63b224e85b02b925b31d0fece
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=btv_world
 
 #EXTINF:-1 tvg-id="akash16" tvg-logo="https://i.ibb.co.com/vwspvkT/Nagorik-TV-Farid.jpg" group-title="AkashGO", Nagoric tv
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8?expires=1727876977&md5=z01GUblLmOMAnXSGVXHTAg&user=811838a63b224e85b02b925b31d0fece
