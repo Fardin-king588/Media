@@ -89,13 +89,14 @@ http://tv.cloudcdn.me/live.ts?channelId=93&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/x8FK05c/Islam-Bangla-Farid.jpg" group-title="AkashGO", Islam Bangla
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
-
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/SxJHmdx/Madani-Channel-Bangla-Farid.jpg" group-title="AkashGO", Madani TV Bangla
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8 
-
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/SxJHmdx/Madani-Channel-Bangla-Farid.jpg" group-title="AkashGO", Madani TV Urdu
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/SxJHmdx/Madani-Channel-Bangla-Farid.jpg" group-title="AkashGO", Madani TV English
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/3ppGGzf/Peace-TV-Bangla-Farid.png" group-title="AkashGO", Peace TV Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=pRVSKrZs1UCUfyLtHR71Qw
-
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/3ppGGzf/Peace-TV-Bangla-Farid.png" group-title="AkashGO", Peace TV English
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/3ppGGzf/Peace-TV-Bangla-Farid.png" group-title="AkashGO", Peace TV Urdu
@@ -103,7 +104,6 @@ https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 
 #EXTINF:-1 tvg-id="akash18" tvg-logo="https://i.ibb.co.com/hKDwXSB/Zee-Bangla-HD-Farid.webp" group-title="AkashGO", ZEE BANGLA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
-
 #EXTINF:-1 tvg-id="akash21" tvg-logo="https://i.ibb.co.com/jvHdctB/Colors-Bangla-Farid.png" group-title="AkashGO", Colors Bangla
 http://xtv.ooo:8080/live/874246786/743567899/245895.ts
 #EXTINF:-1 tvg-id="akash28" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720359542393.png" group-title="AkashGO", Star Jalsha HD
