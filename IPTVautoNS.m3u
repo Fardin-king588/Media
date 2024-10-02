@@ -182,6 +182,8 @@ http://tv.cloudcdn.me/live.ts?channelId=185&uid=16068&deviceMac=00:1A:79:ED:10:2
 http://tv.cloudcdn.me/live.ts?channelId=183&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/tPL0xdp/B4-U-Movies.png" group-title="AkashGO", B4U Movies
 https://cdn2.pishow.tv/live/156/master.m3u8
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/tPL0xdp/B4-U-Movies.png" group-title="AkashGO", B4U KADAK
+https://cdn2.pishow.tv/live/160/master.m3u8
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kX9VXvk/Zee-Cinema-HD-Farid.webp" group-title="AkashGO", Zee Cinema
 http://tv.cloudcdn.me/live.ts?channelId=214&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kX9VXvk/Zee-Cinema-HD-Farid.webp" group-title="AkashGO", Zee Cinema HD
