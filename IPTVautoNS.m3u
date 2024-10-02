@@ -4,19 +4,19 @@
 http://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
 
 #EXTINF:-1 tvg-id="akash2" tvg-logo="https://i.ibb.co.com/sHQFTTN/Indipendent-farid.png" group-title="AkashGO", Independent TV
-https://ythls-v3.onrender.com/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=99&uid=1904&deviceMac=00:1A:79:4C:9A:52
 
 #EXTINF:-1 tvg-id="akash3" tvg-logo="https://i.ibb.co.com/C68mTwM/ekattor-Farid.jpg" group-title="AkashGO", Ekattor TV
 http://tv.cloudcdn.me/live.ts?channelId=95&uid=1904&deviceMac=00:1A:79:4C:9A:52
 
 #EXTINF:-1 tvg-id="akash3" tvg-logo="https://i.ibb.co.com/nnkHDwy/Channel-I-farid.jpg" group-title="AkashGO", Channel I 
-https://ythls-v3.onrender.com/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=89&uid=16068&deviceMac=00:1A:79:ED:10:29
 
 #EXTINF:-1 tvg-id="akash6" tvg-logo="https://i.ibb.co.com/2tqDddN/Atn-News-Farid.jpg" group-title="AkashGO", ATN Bangla
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=atn_bangla
+http://tv.cloudcdn.me/live.ts?channelId=81&uid=1904&deviceMac=00:1A:79:4C:9A:52
 
 #EXTINF:-1 tvg-id="akash6" tvg-logo="https://i.ibb.co.com/2tqDddN/Atn-News-Farid.jpg" group-title="AkashGO", ATN News
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=atn_news
+http://tv.cloudcdn.me/live.ts?channelId=83&uid=1904&deviceMac=00:1A:79:4C:9A:52
 
 #EXTINF:-1 tvg-id="akash36" tvg-logo="https://i.ibb.co.com/Lrms0X5/channel24-Farid.jpg" group-title="AkashGO", Channel 24
 http://tv.cloudcdn.me/live.ts?channelId=87&uid=16068&deviceMac=00:1A:79:ED:10:29
@@ -26,9 +26,10 @@ http://tv.cloudcdn.me/live.ts?channelId=100&uid=16068&deviceMac=00:1A:79:ED:10:2
 
 #EXTINF:-1 tvg-id="akash40" tvg-logo="https://i.ibb.co.com/kBH3Lzt/dbc-news-farid.jpg" group-title="AkashGO", DBC News
 https://ythls-v3.onrender.com/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
-
+#EXTINF:-1 tvg-id="akash40" tvg-logo="https://i.ibb.co.com/VDsQmDP/mohona-Farid.jpg" group-title="AkashGO", Mohona TV
+http://tv.cloudcdn.me/live.ts?channelId=103&uid=1904&deviceMac=00:1A:79:4C:9A:52
 #EXTINF:-1 tvg-id="akash14" tvg-logo="https://i.ibb.co.com/5sjL0Dk/Ntv-Farid.png" group-title="AkashGO", NTV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=ntv
+http://tv.cloudcdn.me/live.ts?channelId=109&uid=1904&deviceMac=00:1A:79:4C:9A:52
 
 #EXTINF:-1 tvg-id="akash15" tvg-logo="https://i.ibb.co.com/frk4h09/Bangla-Vision-Farid.jpg" group-title="AkashGO", Bangla Vision
 http://tv.cloudcdn.me:80/live.ts?channelId=84&uid=3788&deviceMac=00:1A:79:6D:8A:C6
@@ -52,7 +53,7 @@ https://mtlivestream.com/asian/ytlive/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/0QZ0M5G/Boishakhi-TV-Farid.jpg" group-title="AkashGO", Boishakhi TV
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=e0cfe755&e=.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=86&uid=1904&deviceMac=00:1A:79:4C:9A:52
 
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/X2xm07j/ekusheytv-Farid.jpg" group-title="AkashGO", Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
@@ -61,13 +62,13 @@ https://ekusheyserver.com/etvlivesn.m3u8
 https://mytvbangla.com/0.m3u8
 
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/pbvw393/news24-Farid.jpg" group-title="AkashGO", News 24
-https://ythls-v3.onrender.com/channel/UCb2O5Uo4a26CdTE7_2QA-jA.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=107&uid=1904&deviceMac=00:1A:79:4C:9A:52
 
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/PtHQgVz/Maasranga-TV-Farid.jpg" group-title="AkashGO", Maasranga TV 
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/c1RcSk4/bijoytv-Farid.jpg" group-title="AkashGO", Bijoy TV 
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=bijoy_tv
+http://tv.cloudcdn.me/live.ts?channelId=85&uid=1904&deviceMac=00:1A:79:4C:9A:52
 
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/pzh4hHd/Deshi-TVBangla-Farid.png" group-title="AkashGO", Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
@@ -107,7 +108,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m
 #EXTINF:-1 tvg-id="akash21" tvg-logo="https://i.ibb.co.com/jvHdctB/Colors-Bangla-Farid.png" group-title="AkashGO", Colors Bangla
 http://xtv.ooo:8080/live/874246786/743567899/245895.ts
 #EXTINF:-1 tvg-id="akash28" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720359542393.png" group-title="AkashGO", Star Jalsha HD
-http://xtv.ooo:8080/live/874246786/743567899/245898.ts
+http://tv.cloudcdn.me/live.ts?channelId=116&uid=1904&deviceMac=00:1A:79:4C:9A:52
 #EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/Ct2GhP8/Sony-Aat-Farid.png" group-title="AkashGO", Sony Aath
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=15531&deviceMac=00:1A:79:09:2B:88
 #EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/hVjQWKS/Humtv-Farid.png" group-title="AkashGO", HUM TV
@@ -121,16 +122,17 @@ http://xtv.ooo:8080/live/874246786/743567899/221341.ts
 #EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/5KCkSTR/Apna-Channel-Farid.jpg" group-title="AkashGO", Apna Channel
 http://xtv.ooo:8080/live/874246786/743567899/25998.ts
 #EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/bm7fGc8/Sony-Entertainmenthd-Farid.png" group-title="AkashGO", Sony Entertainment
-http://xtv.ooo:8080/live/874246786/743567899/66165.ts
+http://tv.cloudcdn.me/live.ts?channelId=12356&uid=6154&deviceMac=00:1A:79:51:31:21
+#EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/bm7fGc8/Sony-Entertainmenthd-Farid.png" group-title="AkashGO", Sony Entertainment UK
+http://tv.cloudcdn.me/live.ts?channelId=194&uid=6154&deviceMac=00:1A:79:51:31:21
 #EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/Wytg0sD/Sony-Sab-Farid.png" group-title="AkashGO", Sony SuB
-http://xtv.ooo:8080/live/874246786/743567899/66174.ts
-#EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/dffrZ18/Sony-Wah-Farid.png" group-title="AkashGO", Sony WAH
-http://xtv.ooo:8080/live/874246786/743567899/112979.ts
+http://tv.cloudcdn.me/live.ts?channelId=191&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/Wytg0sD/Sony-Sab-Farid.png" group-title="AkashGO", Sony Pal
+http://tv.cloudcdn.me/live.ts?channelId=188&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/Wytg0sD/Sony-Sab-Farid.png" group-title="AkashGO", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="akash22" tvg-logo="https://i.ibb.co.com/JnZ2hJG/Colors-HD-Farid.png" group-title="AkashGO", Colors HD
 http://xtv.ooo:8080/live/874246786/743567899/66167.ts
-
 #EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/1Tm9hGQ/Zee-Anmoll-Farid.webp" group-title="AkashGO", Zee Anmoll
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
 
@@ -138,7 +140,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
 https://la.drmlive.au/tp/zee.php?id=zesthd
 
 #EXTINF:-1 tvg-id="akash31" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927537752.png" group-title="AkashGO", Star PLUS
-http://xtv.ooo:8080/live/874246786/743567899/221252.ts
+http://tv.cloudcdn.me/live.ts?channelId=200&uid=16068&deviceMac=00:1A:79:ED:10:29
 
 #EXTINF:-1 tvg-id="akash32" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720701862733.png" group-title="AkashGO", Zee TV HD
 http://xtv.ooo:8080/live/874246786/743567899/66162.ts
@@ -155,23 +157,31 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
 #EXTINF:-1 tvg-id="akash29" tvg-logo="" group-title="AkashGO", Tara Bangla Cinema
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-id="akash29" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927885394.png" group-title="AkashGO", Jalsha Movies
-http://xtv.ooo:8080/live/874246786/743567899/245900.ts
+http://tv.cloudcdn.me/live.ts?channelId=117&uid=1904&deviceMac=00:1A:79:4C:9A:52
 #EXTINF:-1 tvg-id="akash33" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720702324558.png" group-title="AkashGO", Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 #EXTINF:-1 tvg-id="akash34" tvg-logo="https://i.ibb.co.com/J3LqKR2/Star-utsav-Gold-Farid.jpg" group-title="AkashGO", Utsav GOLD
 http://xtv.ooo:8080/live/874246786/743567899/221257.ts
 #EXTINF:-1 tvg-id="akash34" tvg-logo="https://i.ibb.co.com/dLFbPq7/Star-Gold.jpg" group-title="AkashGO", STAR GOLD
-http://xtv.ooo:8080/live/874246786/743567899/66177.ts
+http://tv.cloudcdn.me/live.ts?channelId=196&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 tvg-id="akash34" tvg-logo="https://i.ibb.co.com/Ld1yBFq/Star-Gold-2-Farid.png" group-title="AkashGO", STAR GOLD 2
 http://xtv.ooo:8080/live/874246786/743567899/106133.ts
 #EXTINF:-1 tvg-id="akash34" tvg-logo="https://i.ibb.co.com/rFsv66r/Star-Gold-Thrills.jpg" group-title="AkashGO", STAR GOLD Thrills
 http://xtv.ooo:8080/live/874246786/743567899/221258.ts
 #EXTINF:-1 tvg-id="akash34" tvg-logo="https://i.ibb.co.com/jGjLRyz/Star-Gold-Romance-Farid.jpg" group-title="AkashGO", STAR GOLD Romance
 http://xtv.ooo:8080/live/874246786/743567899/66186.ts
+#EXTINF:-1 tvg-id="akash34" tvg-logo="https://i.ibb.co.com/jGjLRyz/Star-Gold-Romance-Farid.jpg" group-title="AkashGO", STAR GOLD Select
+http://tv.cloudcdn.me/live.ts?channelId=197&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/dffrZ18/Sony-Wah-Farid.png" group-title="AkashGO", Sony WAH
+http://tv.cloudcdn.me/live.ts?channelId=187&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 tvg-id="akash34" tvg-logo="https://i.ibb.co.com/5Y9Zk0b/Sony-Maxhd-Farid.png" group-title="AkashGO", Sony Max
+http://tv.cloudcdn.me/live.ts?channelId=186&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 tvg-id="akash34" tvg-logo="https://i.ibb.co.com/5Y9Zk0b/Sony-Maxhd-Farid.png" group-title="AkashGO", Sony Max HD
-http://xtv.ooo:8080/live/874246786/743567899/66180.ts
+http://tv.cloudcdn.me/live.ts?channelId=185&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 tvg-id="akash34" tvg-logo="https://i.ibb.co.com/5FDrKwB/Sony-Max2-Farid.png" group-title="AkashGO", Sony Max 2
-http://xtv.ooo:8080/live/874246786/743567899/66189.ts
+http://tv.cloudcdn.me/live.ts?channelId=183&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kX9VXvk/Zee-Cinema-HD-Farid.webp" group-title="AkashGO", Zee Cinema
+http://tv.cloudcdn.me/live.ts?channelId=214&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kX9VXvk/Zee-Cinema-HD-Farid.webp" group-title="AkashGO", Zee Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kX9VXvk/Zee-Cinema-HD-Farid.webp" group-title="AkashGO", Zee Cinema USA
@@ -218,7 +228,7 @@ http://tv.cloudcdn.me/live.ts?channelId=198&uid=6154&deviceMac=00:1A:79:51:31:21
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/0ZdqXyz/and-flix-hd-Farid.webp" group-title="", &flix HD
 http://xtv.ooo:8080/live/874246786/743567899/66236.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/Fhc2vVV/privehd-Farid.jpg" group-title="", &prive HD
-http://xtv.ooo:8080/live/874246786/743567899/66228.ts
+http://tv.cloudcdn.me/live.ts?channelId=170&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xJ1rnqW/20240803-105438.png" group-title="English Movies", Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.XUExjSItcSWGKJf9a-vuAwAAAA?rs=1&pid=ImgDetMain" group-title="English Movies", Great Action
@@ -230,16 +240,16 @@ http://xtv.ooo:8080/live/874246786/743567899/66224.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Sf5b6M/MN-plus-Farid.jpg" group-title="English Movies", MN+HD
 http://xtv.ooo:8080/live/874246786/743567899/66244.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pvWkc3w/Movies-Now-Farid.jpg" group-title="English Movies", movies NOW
-http://xtv.ooo:8080/live/874246786/743567899/66271.ts
+http://tv.cloudcdn.me/live.ts?channelId=162&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 tvg-id="akash8" tvg-logo="https://i.ibb.co.com/g4TqGw2/Star-Movies-Select-Farid.jpg" group-title="AkashGO", Star Movies SELECT HD
-http://xtv.ooo:8080/live/874246786/743567899/66315.ts
+http://tv.cloudcdn.me/live.ts?channelId=199&uid=16068&deviceMac=00:1A:79:ED:10:29
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/Ss84TnF/T-Sports-Farid.png" group-title="AkashGO", T Sports 1
 https://bajimath.com/bajimath/stream.m3u8?url=https://live-cdn.tsports.com/live-01/master_1080.m3u8
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/Ss84TnF/T-Sports-Farid.png" group-title="AkashGO", T Sports 2
 https://bajimath.com/bajimath/stream.m3u8?id=2&e=.m3u8
-#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/Ss84TnF/T-Sports-Farid.png" group-title="AkashGO", T Sports server
-http://xtv.ooo:8080/live/874246786/743567899/167590.ts
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/Ss84TnF/T-Sports-Farid.png" group-title="AkashGO", T Sports
+http://tv.cloudcdn.me/live.ts?channelId=98&uid=1904&deviceMac=00:1A:79:4C:9A:52
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/hddzLrS/Ten-Sports-Farid.jpg" group-title="AkashGO", Ten Sports
 #KODIPROP:inputstream.adaptive.license_type=
@@ -335,11 +345,16 @@ https://jmp2.uk/sam-CABD1200008JG.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=74553&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" group-title="Kids", RONGEEN TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids", Cartoon Network
+http://tv.cloudcdn.me/live.ts?channelId=246&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 tvg-id="akash24" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926957023.png" group-title="AkashGO", Disney XD
+http://tv.cloudcdn.me/live.ts?channelId=251&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 tvg-id="akash24" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926957023.png" group-title="AkashGO", Disney Jr.
 
-#EXTINF:-1 tvg-id="akash24" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926957023.png" group-title="AkashGO", Disney Jr
-
-#EXTINF:-1 tvg-id="akash26" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927021670.png" group-title="AkashGO", Nick 
-
+#EXTINF:-1 tvg-id="akash26" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927021670.png" group-title="AkashGO", Nick Toons 
+http://tv.cloudcdn.me/live.ts?channelId=255&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 tvg-id="akash26" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927021670.png" group-title="AkashGO", Nick Jr. 
+http://tv.cloudcdn.me/live.ts?channelId=252&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 tvg-id="akash27" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719985680308.png" group-title="AkashGO", Nickelodeon Sonic
 
 #EXTINF:-1 channel-id="samsung-INBD4700007IQ" tvg-id="INBD4700007IQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700007IQ_20240522T015917SQUARE.png" group-title="Kids" tvg-chno="1272",Q Toonz
@@ -372,7 +387,7 @@ http://xtv.ooo:8080/live/327424919/919424723/150480.m3u8
 #EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/KbMz5W1/Discovery-Farid.png" group-title="Documentary_Nature & Life Style", Discovery Bangla
 https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/Discovery_bn.m3u8
 #EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/KbMz5W1/Discovery-Farid.png" group-title="Documentary_Nature & Life Style", Discovery English
-https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/Discovery_en.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=164&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/sg1hVcy/Discovery-Science-Farid.jpg" group-title="Documentary_Nature & Life Style", Discovery Science
 https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/DiscoveryScience_en.m3u8
 #EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/sKbWwNs/Discovery-Turbo-Farid.png" group-title="Documentary_Nature & Life Style", Discovery Turbo
