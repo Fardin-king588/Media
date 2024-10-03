@@ -121,7 +121,7 @@
     "drmLicense": "e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729"
   },
   {
-    "name": "TOFFEE Sports VIP",
+    "name": "Sports Highlights",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png",
     "origin": "https://bldcmprod-cdn.toffeelive.com",
@@ -174,5 +174,16 @@
     "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728131986:KeyName=prod_linear:Signature=473BWnh0eRyHZTOZzBxH8UwO7fqH0z162Gdf_FnRJ3b1dG927Vgt86_6J8TgbAwSa3KLZNOmU_1wun-aRfV9Ag",
     "drmScheme": "",
     "drmLicense": ""
+  },
+   {
+    "name": "SSC 2",
+    "link": "https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd",
+    "logo": "https://i.ibb.co.com/FJcc9LN/TNT-Sports-Farid.png",
+    "origin": "https://ssc2-ak.akamaized.net",
+    "referrer": "https://ssc2-ak.akamaized.net",
+    "userAgent": "(Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "clearkey",
+    "drmLicense": "8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596"
   }
 ]
