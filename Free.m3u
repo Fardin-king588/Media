@@ -20,7 +20,7 @@ https://starshare.live:443/live/Mohim90/Skytv90/431.ts
 https://starshare.live:443/live/Mohim90/Skytv90/427.ts
 
 #EXTINF:-1 tvg-id="akash36" tvg-logo="https://i.ibb.co.com/Lrms0X5/channel24-Farid.jpg" group-title="Bangladesh", Channel 24
-http://tv.cloudcdn.me/live.ts?channelId=87&uid=16068&deviceMac=00:1A:79:ED:10:29
+https://ythls-v3.onrender.com/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 
 #EXTINF:-1 tvg-id="akash40" tvg-logo="https://i.ibb.co.com/Lgr4t8c/jamuna-Farid.jpg" group-title="Bangladesh", Jamuna TV
 https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
@@ -36,7 +36,7 @@ https://ythls-v3.onrender.com/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 https://starshare.live:443/live/Mohim90/Skytv90/426.ts
 
 #EXTINF:-1 tvg-id="akash16" tvg-logo="https://i.ibb.co.com/GdHWpyt/BTV-World-Farid.png" group-title="Bangladesh", BTV World
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=btv_world
+
 
 #EXTINF:-1 tvg-id="akash17" tvg-logo="https://i.ibb.co.com/xzkZwCS/somoynews-Farid.jpg" group-title="Bangladesh", Somoy TV
 https://starshare.live:443/live/Mohim90/Skytv90/422.ts
@@ -107,3 +107,55 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/3ppGGzf/Peace-TV-Bangla-Farid.png" group-title="Islamic", Peace TV Urdu
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 
+#EXTINF:-1 tvg-id="akash18" tvg-logo="https://i.ibb.co.com/hKDwXSB/Zee-Bangla-HD-Farid.webp" group-title="Kolkata Bangla", ZEE BANGLA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
+#EXTINF:-1 tvg-id="akash21" tvg-logo="https://i.ibb.co.com/jvHdctB/Colors-Bangla-Farid.png" group-title="Kolkata Bangla", Colors Bangla
+
+#EXTINF:-1 tvg-id="akash28" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720359542393.png" group-title="Kolkata Bangla", Star Jalsha HD
+https://starshare.live:443/live/Mohim90/Skytv90/198.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8KWhDV6/20240803-102743.png" group-title="Kids", DURONTO TV
+https://starshare.live:443/live/Mohim90/Skytv90/433.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" group-title="Kids", RONGEEN TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids", Cartoon Network
+http://tv.cloudcdn.me/live.ts?channelId=246&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 tvg-id="akash24" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926957023.png" group-title="Kids", Disney Channel
+https://starshare.live:443/live/Mohim90/Skytv90/272.ts
+#EXTINF:-1 tvg-id="akash24" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926957023.png" group-title="Kids", Disney XD
+http://tv.cloudcdn.me/live.ts?channelId=251&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 tvg-id="akash24" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926957023.png" group-title="Kids", Disney Jr.
+https://starshare.live:443/live/Mohim90/Skytv90/49.ts
+#EXTINF:-1 tvg-id="akash26" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927021670.png" group-title="Kids", Nick Toons 
+http://tv.cloudcdn.me/live.ts?channelId=255&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 tvg-id="akash26" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927021670.png" group-title="Kids", Nick Jr. 
+http://tv.cloudcdn.me/live.ts?channelId=252&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 tvg-id="akash27" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719985680308.png" group-title="Kids", Nickelodeon Sonic
+
+#EXTINF:-1 channel-id="samsung-INBD4700007IQ" tvg-id="INBD4700007IQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700007IQ_20240522T015917SQUARE.png" group-title="Kids" tvg-chno="1272",Q Toonz
+https://jmp2.uk/sam-INBD4700007IQ.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids/poster_20231121_195247.jpg" group-title="Kids",ToonzKids
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23143/hooray-rhymes/poster_20240216_231046.jpg" group-title="Kids",Hooray Rhymes
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hooray-rhymes/playlist.m3u8
+#EXTINF:-1 channel-id="samsung-CABD1700003AY" tvg-id="CABD1700003AY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1700003AY_20240401T234441SQUARE.png" group-title="Kids" tvg-chno="1398",ZooMoo
+https://jmp2.uk/sam-CABD1700003AY.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-ind/poster_20240521_223810.jpg" group-title="Kids",Kids TV English
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-ind/master_en.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-india/poster_20230518_164234.jpg" group-title="Kids",Kids TV Hindi
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
+#EXTINF:-1 channel-id="samsung-INBD47000042I" tvg-id="INBD47000042I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD47000042I_20240214T030805SQUARE.png_20240214030806.png" group-title="Kids" tvg-chno="1267",The Q Kahaniyan
+https://jmp2.uk/sam-INBD47000042I.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids", Cartoon Network Hindi 
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8 
+#EXTINF:-1 channel-id="samsung-IN2500003JW" tvg-id="IN2500003JW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2500003JW_20240813T052422SQUARE.png" group-title="Kids" tvg-chno="1266",Powerkids Kartoon Channel
+https://jmp2.uk/sam-IN2500003JW.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids", Pogo Hindi 
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F3XcWbG/20240803-103747.png" group-title="Kids", GUBBARE
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png" group-title="Kids", DISCOVERY KIDS
+https://dplus.gammacdn.workers.dev/videos/113.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="Kids", HUNGAMA
+http://xtv.ooo:8080/live/327424919/919424723/150480.m3u8
