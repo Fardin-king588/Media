@@ -1,109 +1,109 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="akash16" tvg-logo="https://i.ibb.co.com/NnGSTv6/BTV-Farid.png" group-title="AkashGO", BTV
+#EXTINF:-1 tvg-id="akash16" tvg-logo="https://i.ibb.co.com/NnGSTv6/BTV-Farid.png" group-title="Bangladesh", BTV
 http://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
 
-#EXTINF:-1 tvg-id="akash2" tvg-logo="https://i.ibb.co.com/sHQFTTN/Indipendent-farid.png" group-title="AkashGO", Independent TV
+#EXTINF:-1 tvg-id="akash2" tvg-logo="https://i.ibb.co.com/sHQFTTN/Indipendent-farid.png" group-title="Bangladesh", Independent TV
 https://ythls-v3.onrender.com/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 
-#EXTINF:-1 tvg-id="akash3" tvg-logo="https://i.ibb.co.com/C68mTwM/ekattor-Farid.jpg" group-title="AkashGO", Ekattor TV
+#EXTINF:-1 tvg-id="akash3" tvg-logo="https://i.ibb.co.com/C68mTwM/ekattor-Farid.jpg" group-title="Bangladesh", Ekattor TV
 https://starshare.live:443/live/Mohim90/Skytv90/428.ts
 
-#EXTINF:-1 tvg-id="akash3" tvg-logo="https://i.ibb.co.com/nnkHDwy/Channel-I-farid.jpg" group-title="AkashGO", Channel I 
+#EXTINF:-1 tvg-id="akash3" tvg-logo="https://i.ibb.co.com/nnkHDwy/Channel-I-farid.jpg" group-title="Bangladesh", Channel I 
 https://starshare.live:443/live/Mohim90/Skytv90/392.ts
 
-#EXTINF:-1 tvg-id="akash6" tvg-logo="https://i.ibb.co.com/2tqDddN/Atn-News-Farid.jpg" group-title="AkashGO", ATN Bangla
+#EXTINF:-1 tvg-id="akash6" tvg-logo="https://i.ibb.co.com/2tqDddN/Atn-News-Farid.jpg" group-title="Bangladesh", ATN Bangla
 https://starshare.live:443/live/Mohim90/Skytv90/431.ts
 
-#EXTINF:-1 tvg-id="akash6" tvg-logo="https://i.ibb.co.com/2tqDddN/Atn-News-Farid.jpg" group-title="AkashGO", ATN News
+#EXTINF:-1 tvg-id="akash6" tvg-logo="https://i.ibb.co.com/2tqDddN/Atn-News-Farid.jpg" group-title="Bangladesh", ATN News
 https://starshare.live:443/live/Mohim90/Skytv90/427.ts
 
-#EXTINF:-1 tvg-id="akash36" tvg-logo="https://i.ibb.co.com/Lrms0X5/channel24-Farid.jpg" group-title="AkashGO", Channel 24
+#EXTINF:-1 tvg-id="akash36" tvg-logo="https://i.ibb.co.com/Lrms0X5/channel24-Farid.jpg" group-title="Bangladesh", Channel 24
 http://tv.cloudcdn.me/live.ts?channelId=87&uid=16068&deviceMac=00:1A:79:ED:10:29
 
-#EXTINF:-1 tvg-id="akash40" tvg-logo="https://i.ibb.co.com/Lgr4t8c/jamuna-Farid.jpg" group-title="AkashGO", Jamuna TV
+#EXTINF:-1 tvg-id="akash40" tvg-logo="https://i.ibb.co.com/Lgr4t8c/jamuna-Farid.jpg" group-title="Bangladesh", Jamuna TV
 https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
 
-#EXTINF:-1 tvg-id="akash40" tvg-logo="https://i.ibb.co.com/kBH3Lzt/dbc-news-farid.jpg" group-title="AkashGO", DBC News
+#EXTINF:-1 tvg-id="akash40" tvg-logo="https://i.ibb.co.com/kBH3Lzt/dbc-news-farid.jpg" group-title="Bangladesh", DBC News
 https://ythls-v3.onrender.com/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
-#EXTINF:-1 tvg-id="akash40" tvg-logo="https://i.ibb.co.com/VDsQmDP/mohona-Farid.jpg" group-title="AkashGO", Mohona TV
+#EXTINF:-1 tvg-id="akash40" tvg-logo="https://i.ibb.co.com/VDsQmDP/mohona-Farid.jpg" group-title="Bangladesh", Mohona TV
 https://starshare.live:443/live/Mohim90/Skytv90/397.ts
-#EXTINF:-1 tvg-id="akash14" tvg-logo="https://i.ibb.co.com/5sjL0Dk/Ntv-Farid.png" group-title="AkashGO", NTV
+#EXTINF:-1 tvg-id="akash14" tvg-logo="https://i.ibb.co.com/5sjL0Dk/Ntv-Farid.png" group-title="Bangladesh", NTV
 https://ythls-v3.onrender.com/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 
-#EXTINF:-1 tvg-id="akash15" tvg-logo="https://i.ibb.co.com/frk4h09/Bangla-Vision-Farid.jpg" group-title="AkashGO", Bangla Vision
+#EXTINF:-1 tvg-id="akash15" tvg-logo="https://i.ibb.co.com/frk4h09/Bangla-Vision-Farid.jpg" group-title="Bangladesh", Bangla Vision
 https://starshare.live:443/live/Mohim90/Skytv90/426.ts
 
-#EXTINF:-1 tvg-id="akash16" tvg-logo="https://i.ibb.co.com/GdHWpyt/BTV-World-Farid.png" group-title="AkashGO", BTV World
+#EXTINF:-1 tvg-id="akash16" tvg-logo="https://i.ibb.co.com/GdHWpyt/BTV-World-Farid.png" group-title="Bangladesh", BTV World
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=btv_world
 
-#EXTINF:-1 tvg-id="akash17" tvg-logo="https://i.ibb.co.com/xzkZwCS/somoynews-Farid.jpg" group-title="AkashGO", Somoy TV
+#EXTINF:-1 tvg-id="akash17" tvg-logo="https://i.ibb.co.com/xzkZwCS/somoynews-Farid.jpg" group-title="Bangladesh", Somoy TV
 https://starshare.live:443/live/Mohim90/Skytv90/422.ts
 
-#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/8j6zYwP/rtvbd-Farid.jpg" group-title="AkashGO", RTV
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/8j6zYwP/rtvbd-Farid.jpg" group-title="Bangladesh", RTV
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/D8YbbmY/asian-tv-farid.jpg" group-title="AkashGO", asian TV 
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/D8YbbmY/asian-tv-farid.jpg" group-title="Bangladesh", asian TV 
 https://mtlivestream.com/asian/ytlive/index.m3u8
 
-#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/DWNqXtn/deepto-tv-Farid.png" group-title="AkashGO", Deepto TV
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/DWNqXtn/deepto-tv-Farid.png" group-title="Bangladesh", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
-#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/0QZ0M5G/Boishakhi-TV-Farid.jpg" group-title="AkashGO", Boishakhi TV
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/0QZ0M5G/Boishakhi-TV-Farid.jpg" group-title="Bangladesh", Boishakhi TV
 https://starshare.live:443/live/Mohim90/Skytv90/429.ts
 
-#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/X2xm07j/ekusheytv-Farid.jpg" group-title="AkashGO", Ekushey TV
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/X2xm07j/ekusheytv-Farid.jpg" group-title="Bangladesh", Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/QMyhqHm/mytv-Farid.jpg" group-title="AkashGO", mytv
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/QMyhqHm/mytv-Farid.jpg" group-title="Bangladesh", mytv
 https://mytvbangla.com/0.m3u8
 
-#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/pbvw393/news24-Farid.jpg" group-title="AkashGO", News 24
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/pbvw393/news24-Farid.jpg" group-title="Bangladesh", News 24
 https://ythls-v3.onrender.com/channel/UCb2O5Uo4a26CdTE7_2QA-jA.m3u8
 
-#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/PtHQgVz/Maasranga-TV-Farid.jpg" group-title="AkashGO", Maasranga TV 
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/PtHQgVz/Maasranga-TV-Farid.jpg" group-title="Bangladesh", Maasranga TV 
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/c1RcSk4/bijoytv-Farid.jpg" group-title="AkashGO", Bijoy TV 
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/c1RcSk4/bijoytv-Farid.jpg" group-title="Bangladesh", Bijoy TV 
 https://starshare.live:443/live/Mohim90/Skytv90/408.ts
 
-#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/pzh4hHd/Deshi-TVBangla-Farid.png" group-title="AkashGO", Deshi TV
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/pzh4hHd/Deshi-TVBangla-Farid.png" group-title="Bangladesh", Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/XDFwYdB/DESH-TV-farid.png" group-title="Bangladesh", Desh TV 
 https://ythls-v3.onrender.com/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 
-#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/2cm8bcB/satv-Farid.jpg" group-title="AkashGO", SATV
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/2cm8bcB/satv-Farid.jpg" group-title="Bangladesh", SATV
 http://tv.cloudcdn.me:80/live.ts?channelId=115&uid=3788&deviceMac=00:1A:79:6D:8A:C6
 
-#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/4jTpPtt/ekhontv-Farid.jpg" group-title="AkashGO", Ekhon TV
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/4jTpPtt/ekhontv-Farid.jpg" group-title="Bangladesh", Ekhon TV
 https://ythls-v3.onrender.com/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rFN9SFt/ch9-Farid.jpg" group-title="Bangladesh", Channel 9
 https://starshare.live:443/live/Mohim90/Skytv90/434.ts
 
-#EXTINF:-1 tvg-id="akash16" tvg-logo="https://i.ibb.co.com/vwspvkT/Nagorik-TV-Farid.jpg" group-title="AkashGO", Nagoric tv
+#EXTINF:-1 tvg-id="akash16" tvg-logo="https://i.ibb.co.com/vwspvkT/Nagorik-TV-Farid.jpg" group-title="Bangladesh", Nagoric tv
 https://starshare.live:443/live/Mohim90/Skytv90/3802.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/XDFwYdB/DESH-TV-farid.png" group-title="Bangladesh", Gazi TV 
 https://starshare.live:443/live/Mohim90/Skytv90/767.ts
 
-#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/K6hfpp4/atn-islamic-tv-farid.jpg" group-title="AkashGO", ATN Islamic TV
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/K6hfpp4/atn-islamic-tv-farid.jpg" group-title="Islamic", ATN Islamic TV
 
 
-#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/x8FK05c/Islam-Bangla-Farid.jpg" group-title="AkashGO", Islam Bangla
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/x8FK05c/Islam-Bangla-Farid.jpg" group-title="Islamic", Islam Bangla
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
-#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/SxJHmdx/Madani-Channel-Bangla-Farid.jpg" group-title="AkashGO", Madani TV Bangla
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/SxJHmdx/Madani-Channel-Bangla-Farid.jpg" group-title="Islamic", Madani TV Bangla
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8 
-#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/SxJHmdx/Madani-Channel-Bangla-Farid.jpg" group-title="AkashGO", Madani TV Urdu
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/SxJHmdx/Madani-Channel-Bangla-Farid.jpg" group-title="Islamic", Madani TV Urdu
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
-#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/SxJHmdx/Madani-Channel-Bangla-Farid.jpg" group-title="AkashGO", Madani TV English
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/SxJHmdx/Madani-Channel-Bangla-Farid.jpg" group-title="Islamic", Madani TV English
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
-#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/3ppGGzf/Peace-TV-Bangla-Farid.png" group-title="AkashGO", Peace TV Bangla
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/3ppGGzf/Peace-TV-Bangla-Farid.png" group-title="Islamic", Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
-#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/3ppGGzf/Peace-TV-Bangla-Farid.png" group-title="AkashGO", Peace TV English
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/3ppGGzf/Peace-TV-Bangla-Farid.png" group-title="Islamic", Peace TV English
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
-#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/3ppGGzf/Peace-TV-Bangla-Farid.png" group-title="AkashGO", Peace TV Urdu
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/3ppGGzf/Peace-TV-Bangla-Farid.png" group-title="Islamic", Peace TV Urdu
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 
