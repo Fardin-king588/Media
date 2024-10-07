@@ -207,5 +207,16 @@
     "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728447707:KeyName=prod_linear:Signature=OQPRdKqlS024I52tnxpI9WAk8qdcifBtDzzyiDaTifJbyVJgQptP_4iT4fTsRHSH6N9rPS0RL_sxDzzIxcwHAA",
     "drmScheme": "",
     "drmLicense": ""
+  },
+  {
+    "name": "SONY SPORTS TEN 5 HD",
+    "link": "https://entezeetv.fun/bdcast/hls/index.m3u8?id=19414441&e=.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png",
+    "origin": "https://entezeetv.fun/bdcast//",
+    "referrer": "https://entezeetv.fun/bdcast//",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
   }
 ]
