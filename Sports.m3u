@@ -211,7 +211,62 @@
   {
     "name": "Star SPORTS 1 HD",
     "link": "https://starshare.live:443/live/Mohim90/Skytv90/148.ts",
-    "logo": "https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png",
+    "logo": "https://i.ibb.co.com/LhPN9bf/Star-Sports-Farid.webp",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Star SPORTS 2 HD",
+    "link": "https://starshare.live:443/live/Mohim90/Skytv90/239.ts",
+    "logo": "https://i.ibb.co.com/LhPN9bf/Star-Sports-Farid.webp",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Geo Super",
+    "link": "https://starshare.live:443/live/Mohim90/Skytv90/101.ts",
+    "logo": "https://i.ibb.co.com/8zW73Vt/Geo-Tv-Farid.png",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Ary Sports",
+    "link": "http://multinet-tv.serveftp.com:45793/BRN/ArySports.stream/chunklist_w819651575.m3u8",
+    "logo": "https://i.ibb.co.com/K9MrGZV/A-Sports-Farid.png",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Super Cricket",
+    "link": "https://starshare.live:443/live/Mohim90/Skytv90/2496.ts",
+    "logo": "https://i.ibb.co.com/kJJKtbH/Supersport-Farid.jpg",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Sky Sports Cricket",
+    "link": "https://starshare.live:443/live/Mohim90/Skytv90/12.ts",
+    "logo": "https://i.ibb.co.com/PQXxRFZ/sky-sports-Farid.png",
     "origin": "",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
