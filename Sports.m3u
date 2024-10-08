@@ -549,6 +549,17 @@
     "drmScheme": "",
     "drmLicense": ""
   },
+   {
+    "name": "SONY Kal",
+    "link": "https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8",
+    "logo": "https://c.evidon.com/pub_logos/2796-2021122219404475.png",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
   {
     "name": "SONY SAB HD",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sab_hd/playlist.m3u8",
@@ -627,13 +638,13 @@
     "drmLicense": ""
   },
   {
-    "name": "SONY BBC EARTH HD",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_bbc_earth_hd/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "name": "Rongeen TV",
+    "link": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8",
+    "logo": "https://i.ibb.co/yBYRgLt/20240813-063955.png",
+    "origin": "",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728563844:KeyName=prod_linear:Signature=k2iLGY0PTTxdS4ZIQzQfBikwnMP2aKA6kn6H_X9vyXgz74P-q8lFkK0ZvH7qbXd5OKgEzrH6Oy3SI1vLvpyLCA",
+    "cookie": "",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -649,9 +660,64 @@
     "drmLicense": ""
   },
   {
-    "name": "Rongeen TV",
-    "link": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8",
-    "logo": "https://i.ibb.co/yBYRgLt/20240813-063955.png",
+    "name": "SONY BBC EARTH HD",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_bbc_earth_hd/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728563844:KeyName=prod_linear:Signature=k2iLGY0PTTxdS4ZIQzQfBikwnMP2aKA6kn6H_X9vyXgz74P-q8lFkK0ZvH7qbXd5OKgEzrH6Oy3SI1vLvpyLCA",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Animal Planet",
+    "link": "https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/AnimalPlanet_en.m3u8",
+    "logo": "https://i.ibb.co.com/VTgWZjk/Animal-Planet-Farid.png",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Discovery Bangla",
+    "link": "https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/Discovery_bn.m3u8",
+    "logo": "https://i.ibb.co.com/KbMz5W1/Discovery-Farid.png",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Discovery Science",
+    "link": "https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/DiscoveryScience_en.m3u8",
+    "logo": "https://i.ibb.co.com/sg1hVcy/Discovery-Science-Farid.jpg",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Discovery Turbo",
+    "link": "https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/DiscoveryTurbo_en.m3u8",
+    "logo": "https://i.ibb.co.com/sKbWwNs/Discovery-Turbo-Farid.png",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Wild Life",
+    "link": "https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/WildLife_en.m3u8",
+    "logo": "https://i.ibb.co.com/vHWt8QD/Wild-Life-Farid.png",
     "origin": "",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
