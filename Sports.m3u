@@ -286,6 +286,28 @@
     "drmLicense": ""
   },
   {
+    "name": "ATN Bangla",
+    "link": "https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8",
+    "logo": "https://i.ibb.co.com/2tqDddN/Atn-News-Farid.jpg",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+   {
+    "name": "ATN News",
+    "link": "https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8",
+    "logo": "https://i.ibb.co.com/2tqDddN/Atn-News-Farid.jpg",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
     "name": "Ekattor TV",
     "link": "http://tv.cloudcdn.online/live/00:1A:79:A4:26:62/4280/95.m3u8",
     "logo": "https://i.ibb.co.com/C68mTwM/ekattor-Farid.jpg",
@@ -333,6 +355,17 @@
     "name": "Independent TV",
     "link": "https://ythls-v3.onrender.com/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8",
     "logo": "https://i.ibb.co.com/sHQFTTN/Indipendent-farid.png",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+   {
+    "name": "Somoy TV",
+    "link": "https://ythls-v3.onrender.com/channel/UCNUFterLJ9vpFZZ0try7sLA.m3u8",
+    "logo": "https://i.ibb.co.com/xzkZwCS/somoynews-Farid.jpg",
     "origin": "",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
@@ -505,7 +538,7 @@
     "drmScheme": "",
     "drmLicense": ""
   },
-   {
+  {
     "name": "Nexus Tv",
     "link": "https://ythls-v3.onrender.com/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8",
     "logo": "https://i.ibb.co.com/RDn5Bqk/nexustv-Farid.png",
@@ -516,10 +549,43 @@
     "drmScheme": "",
     "drmLicense": ""
   },
-   {
+  {
+    "name": "Channel 9",
+    "link": "https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8",
+    "logo": "https://i.ibb.co.com/rFN9SFt/ch9-Farid.jpg",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
     "name": "Boishakhi TV",
     "link": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8",
     "logo": "https://i.ibb.co.com/0QZ0M5G/Boishakhi-TV-Farid.jpg",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Bangla Vision",
+    "link": "https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8",
+    "logo": "https://i.ibb.co.com/frk4h09/Bangla-Vision-Farid.jpg",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "ATN Islamic",
+    "link": "https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8",
+    "logo": "https://i.ibb.co.com/K6hfpp4/atn-islamic-tv-farid.jpg",
     "origin": "",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
