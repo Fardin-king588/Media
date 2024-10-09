@@ -6,7 +6,7 @@
     "origin": "https://mprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1728488028:KeyName=prod_live_events:Signature=BgjU9vYS8ak34QX8mJcsWRU4H9RMR5NlfZsgiKkrtwhCC54uF4Cf3TajijakNP_-3uIX3Nxl4QmA1JDyRIZFCg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1728512727:KeyName=prod_live_events:Signature=xwX76IJ-Q0xk0zoYhtBQYIk9gIwAJZEl3_7STWuVvs8rliTESoIAml3987L0g1GtSpmi5p84XpfyW0tIqUtZAw",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -17,7 +17,7 @@
     "origin": "https://mprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1728488028:KeyName=prod_live_events:Signature=-mw1F81cgTiwATDF6NMbVZARb1cN4m31meenD90SZtvyLiq7LCshVGrsgIFh0B3oxXLor6KCClNWvDczib2DCw",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1728512757:KeyName=prod_live_events:Signature=gf02vINXVY668wRsIsLsxKaV7rgcoy1jqG4sNGH_UIwLo0U91CRcxo8MUhMIFEVelfnUSfneImdSPeg5tMU0Bw",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -28,7 +28,7 @@
     "origin": "https://mprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1728488028:KeyName=prod_live_events:Signature=J1ZGviiTs0YyVjlOU419rpE_EoSnvAwCZ992v2n4md7_TShCR9NtbCNg2FMmIkUuH10zK7kEttcD5PCSPmGgBw",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1728512727:KeyName=prod_live_events:Signature=PfQ3ogpbulsq-V0_LuE6l_p2WkdNHcJ9i5Jln2MsdUV77aSDl9wt5kkXkVJBwvGJlXGwvCf-TPFV1rEgsGk9Cg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -278,6 +278,50 @@
     "name": "BTV",
     "link": "http://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29",
     "logo": "https://i.ibb.co.com/NnGSTv6/BTV-Farid.png",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Ekattor TV",
+    "link": "http://tv.cloudcdn.online/live/00:1A:79:A4:26:62/4280/95.m3u8",
+    "logo": "https://i.ibb.co.com/C68mTwM/ekattor-Farid.jpg",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Bijoy TV",
+    "link": "http://tv.cloudcdn.online/live/00:1A:79:A4:26:62/4280/85.m3u8",
+    "logo": "https://i.ibb.co.com/c1RcSk4/bijoytv-Farid.jpg",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "SATV",
+    "link": "http://global.ncare.live/live-orgin/satvoff5666.stream/playlist.m3u8",
+    "logo": "https://i.ibb.co.com/2cm8bcB/satv-Farid.jpg",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Ten TV Prime ",
+    "link": "http://global.ncare.live/live-orgin/tenprime.stream/playlist.m3u8",
+    "logo": "https://i.ibb.co.com/2cm8bcB/satv-Farid.jpg",
     "origin": "",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
