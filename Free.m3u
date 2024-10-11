@@ -160,82 +160,47 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="Kids", HUNGAMA
 https://starshare.live:443/live/Mohim90/Skytv90/18456.ts
-
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://images.toffeelive.com/images/program/301636/logo/240x240/mobile_logo_148933001727851627.png" group-title="Sports", Toffee LIVE 1
+https://fifabd.xyz/JOIN@TGxRANAPK33/play.m3u8?id=match-1
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://images.toffeelive.com/images/program/301637/logo/240x240/mobile_logo_418608001727851921.png" group-title="Sports", Toffee LIVE 2
+https://fifabd.xyz/JOIN@TGxRANAPK33/play.m3u8?id=match-3
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/tmnT7qn/mobile-logo-166888001726636116.png" group-title="Sports", Toffee LIVE
 https://fifabd.xyz/JOIN@TGxRANAPK33/play.m3u8?id=match-2
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/Ss84TnF/T-Sports-Farid.png" group-title="Sports", T Sports 1
-https://bajimath.com/bajimath/stream.m3u8?url=https://live-cdn.tsports.com/live-01/master_1080.m3u8
+https://fifabd.xyz/TTT/play.m3u8?id=1&q=720
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/Ss84TnF/T-Sports-Farid.png" group-title="Sports", T Sports 2
-https://bajimath.com/bajimath/stream.m3u8?id=2&e=.m3u8
+https://fifabd.xyz/TTT/play.m3u8?id=2&q=720
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/Ss84TnF/T-Sports-Farid.png" group-title="Sports", T Sports
 https://starshare.live:443/live/Mohim90/Skytv90/130714.ts
-
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/hddzLrS/Ten-Sports-Farid.jpg" group-title="Sports", Ten Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
-
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/LNGd29N/Astro-Cricket-Farid.png" group-title="Sports", Astro Cricket
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
 https://criccoder.pages.dev/astro.m3u8
-
 #EXTINF:-1 tvg-id="akash41" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723795259114.png" group-title="Sports", Star Sports 1 HD
 https://starshare.live:443/live/Mohim90/Skytv90/148.ts
 #EXTINF:-1 tvg-id="akash41" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723795259114.png" group-title="Sports", Star Sports 2 HD
 https://starshare.live:443/live/Mohim90/Skytv90/239.ts
-
 #EXTINF:-1 tvg-id="akash42" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723808066858.png" group-title="Sports", Star Sports Select 2 HD
 http://xtv.ooo:8080/live/874246786/743567899/167579.ts
-
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723809087828.png" group-title="Sports", Star Sports Select 1 HD
 http://xtv.ooo:8080/live/874246786/743567899/167578.ts
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/RjgzwKK/cricbuzz-Farid.jpg" group-title="Sports", cricbuzz
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4301796d6d67374043c4a43c18dff7ea:96a3dc8766317aa169149a604928ebb6
-https://live2.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/s38v22f/PTV-Sports-Farid.png" group-title="Sports", PTV Sports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ecad6c4413f8bdc54712ce6c072a2cf:442df559c369bdada8ba3abe97811575
-https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/K9MrGZV/A-Sports-Farid.png" group-title="Sports", Ary Sports
 http://multinet-tv.serveftp.com:45793/BRN/ArySports.stream/chunklist_w819651575.m3u8
-
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/8zW73Vt/Geo-Tv-Farid.png" group-title="Sports", Geo Super
 https://starshare.live:443/live/Mohim90/Skytv90/101.ts
-
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kJJKtbH/Supersport-Farid.jpg" group-title="Sports", Super Cricket
 https://starshare.live:443/live/Mohim90/Skytv90/2496.ts
-
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/PQXxRFZ/sky-sports-Farid.png" group-title="Sports", Sky Sports Cricket
 https://starshare.live:443/live/Mohim90/Skytv90/12.ts
-
-#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/FJcc9LN/TNT-Sports-Farid.png" group-title="Sports", TNT Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/FJcc9LN/TNT-Sports-Farid.png" group-title="Sports", TNT Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/FJcc9LN/TNT-Sports-Farid.png" group-title="Sports", TNT Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/FJcc9LN/TNT-Sports-Farid.png" group-title="Sports", TNT Sports 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kJJKtbH/Supersport-Farid.jpg" group-title="Sports", Super premier League
 https://starshare.live:443/live/Mohim90/Skytv90/518.ts
-
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kJJKtbH/Supersport-Farid.jpg" group-title="Sports", Super Laliga
 https://starshare.live:443/live/Mohim90/Skytv90/515.ts
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kJJKtbH/Supersport-Farid.jpg" group-title="Sports", EUROSPORT 1
@@ -244,26 +209,6 @@ https://starshare.live:443/live/Mohim90/Skytv90/216.ts
 https://starshare.live:443/live/Mohim90/Skytv90/1920.ts
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kJJKtbH/Supersport-Farid.jpg" group-title="Sports", FLOW sports
 https://starshare.live:443/live/Mohim90/Skytv90/34489.ts
-#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/7tQyjwr/SSC-Farid.jpg" group-title="Sports", SSC 2
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/7tQyjwr/SSC-Farid.jpg" group-title="Sports", SSC 3
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/7tQyjwr/SSC-Farid.jpg" group-title="Sports", SSC 4
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/7tQyjwr/SSC-Farid.jpg" group-title="Sports", SSC 5
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-
-
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/x2y6xPM/FIFA-plus.png" group-title="Sports", FIFA+
 https://jmp2.uk/sam-CABD1200008JG.m3u8
 
