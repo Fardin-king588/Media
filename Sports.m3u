@@ -78,7 +78,7 @@
   },
   {
     "name": "cricbuzz",
-    "link": "https://webufffit.mizhls.ru/lb/premium283/index.m3u8|https://olalivehdplay.ru/",
+    "link": "https://webufffit.mizhls.ru/lb/premium283/index.m3u8|referer=https://olalivehdplay.ru/",
     "logo": "https://i.ibb.co.com/RjgzwKK/cricbuzz-Farid.jpg",
     "origin": "",
     "referrer": "",
@@ -199,7 +199,7 @@
   },
   {
     "name": "Star SPORTS Hindi",
-    "link": "https://xyzdddd.mizhls.ru/lb/premium268/index.m3u8|https://quest4play.xyz/",
+    "link": "https://xyzdddd.mizhls.ru/lb/premium268/index.m3u8|referer=https://quest4play.xyz/",
     "logo": "https://i.ibb.co.com/LhPN9bf/Star-Sports-Farid.webp",
     "origin": "",
     "referrer": "https://quest4play.xyz/",
@@ -243,7 +243,7 @@
   },
   {
     "name": "Ary Sports",
-    "link": "https://xyzdddd.mizhls.ru/lb/premium269/index.m3u8|https://quest4play.xyz/",
+    "link": "https://xyzdddd.mizhls.ru/lb/premium269/index.m3u8|referer=https://quest4play.xyz/",
     "logo": "https://i.ibb.co.com/K9MrGZV/A-Sports-Farid.png",
     "origin": "",
     "referrer": "",
@@ -265,7 +265,7 @@
   },
   {
     "name": "Sky Sports Cricket",
-    "link": "https://webufffit.mizhls.ru/lb/eplayerskycric/index.m3u8|https://olalivehdplay.ru/",
+    "link": "https://webufffit.mizhls.ru/lb/eplayerskycric/index.m3u8|referer=https://olalivehdplay.ru/",
     "logo": "https://i.ibb.co.com/PQXxRFZ/sky-sports-Farid.png",
     "origin": "",
     "referrer": "",
