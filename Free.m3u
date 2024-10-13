@@ -118,6 +118,8 @@ https://starshare.live:443/live/Mohim90/Skytv90/198.ts
 https://starshare.live:443/live/Mohim90/Skytv90/433.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" group-title="Kids", RONGEEN TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="akash27" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719985680308.png" group-title="Kids", SONIC Nickelodeon
+https://colorsscreen.com/live.php?id=1345&extension=.m3u8%7CReferer=https://colorsscreen.com/
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-w1gbvReuRqM/AAAAAAAAAAI/AAAAAAAAAAA/ve40E-bIMjs/s900-c-k-no/photo.jpg" group-title="Kids", Babytv
 https://starshare.live:443/live/Mohim90/Skytv90/1069.ts
 #EXTINF:-1 tvg-logo="https://www.mobigyaan.com/wp-content/uploads/2014/03/Cartoon-Network-app.jpg" group-title="Kids", Cartoon Network
@@ -175,7 +177,7 @@ https://fifabd.xyz/TTT/play.m3u8?id=2&q=720
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/hddzLrS/Ten-Sports-Farid.jpg" group-title="Sports", Ten Sports
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/PQXxRFZ/sky-sports-Farid.png" group-title="Sports", Sky Sports Cricket
-https://webufffit.mizhls.ru/lb/eplayerskycric/index.m3u8|referer=https://olalivehdplay.ru/
+https://webufffit.mizhls.ru/lb/eplayerskycric/index.m3u8|referer=https://olalivehdplay.ru//
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/LNGd29N/Astro-Cricket-Farid.png" group-title="Sports", Astro Cricket
 https://criccoder.pages.dev/astro.m3u8
 #EXTINF:-1 tvg-id="akash41" tvg-logo="https://i.ibb.co.com/LhPN9bf/Star-Sports-Farid.webp" group-title="Sports", Star Sports 1 HD
@@ -183,35 +185,35 @@ https://starshare.live:443/live/Mohim90/Skytv90/148.ts
 #EXTINF:-1 tvg-id="akash41" tvg-logo="https://i.ibb.co.com/LhPN9bf/Star-Sports-Farid.webp" group-title="Sports", Star Sports 2 HD
 https://starshare.live:443/live/Mohim90/Skytv90/239.ts
 #EXTINF:-1 tvg-id="akash41" tvg-logo="https://i.ibb.co.com/LhPN9bf/Star-Sports-Farid.webp" group-title="Sports", Star Sports Hindi
-https://xyzdddd.mizhls.ru/lb/premium268/index.m3u8|referer=https://quest4play.xyz/
+https://xyzdddd.mizhls.ru/lb/premium268/index.m3u8|referer=https://quest4play.xyz//
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/GMS4CRn/Sports18-Farid.jpg" group-title="Sports", Sports18 1
-https://neestreamtv.com/jcinema/stream.m3u8?id=0000001|Referer=https://neestreamtv.com/
+https://neestreamtv.com/jcinema/stream.m3u8?id=0000001|Referer=https://neestreamtv.com//
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/GMS4CRn/Sports18-Farid.jpg" group-title="Sports", Sports18 2
 http://15.235.181.35/live.ts?channelId=132373&uid=14505&deviceMac=00:1A:79:A7:53:75&id=18sports2
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/GMS4CRn/Sports18-Farid.jpg" group-title="Sports", Sports18 3
 http://15.235.181.35/live.ts?channelId=132374&uid=14505&deviceMac=00:1A:79:A7:53:75&id=18sports3
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/GMS4CRn/Sports18-Farid.jpg" group-title="Sports", Sports18 khell
-https://neestreamtv.com/jcinema/stream.m3u8?id=0000002|Referer=https://neestreamtv.com/
+https://neestreamtv.com/jcinema/stream.m3u8?id=0000002|Referer=https://neestreamtv.com//
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png", SONY SPORTS TEN 1 HD
-https://stream.imotv.online/toffe/live.php?id=43dcec1011e7&e=.m3u8
+https://nowsports.in/sliv/stream.php?id=36523652&e=.m3u8|referer=https://nowsports.in//
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png", SONY SPORTS TEN 2 HD
 https://stream.imotv.online/toffe/live.php?id=abc6677968ef&e=.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png", SONY SPORTS TEN 3 HD
-https://stream.imotv.online/toffe/live.php?id=edc6a07e4754&e=.m3u8
+https://nowsports.in/sliv/stream.php?id=7541236&e=.m3u8|referer=https://nowsports.in//
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png", SONY SPORTS TEN 5 HD
-https://stream.imotv.online/toffe/live.php?id=fd6de8bd1666&e=.m3u8
+https://nowsports.in/sliv/stream.php?id=985663256&e=.m3u8|referer=https://nowsports.in//
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/RjgzwKK/cricbuzz-Farid.jpg" group-title="Sports", cricbuzz
-https://webufffit.mizhls.ru/lb/premium283/index.m3u8|referer=https://olalivehdplay.ru/
+https://webufffit.mizhls.ru/lb/premium283/index.m3u8|referer=https://olalivehdplay.ru//
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/s38v22f/PTV-Sports-Farid.png" group-title="Sports", PTV Sports
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/K9MrGZV/A-Sports-Farid.png" group-title="Sports", Ary Sports
-https://xyzdddd.mizhls.ru/lb/premium269/index.m3u8|referer=https://quest4play.xyz/
+https://xyzdddd.mizhls.ru/lb/premium269/index.m3u8|referer=https://quest4play.xyz//
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/8zW73Vt/Geo-Tv-Farid.png" group-title="Sports", Geo Super
 https://starshare.live:443/live/Mohim90/Skytv90/101.ts
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kJJKtbH/Supersport-Farid.jpg" group-title="Sports", Super Cricket
 https://starshare.live:443/live/Mohim90/Skytv90/2496.ts
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kJJKtbH/Supersport-Farid.jpg" group-title="Sports", Super Grandstand
-https://webufffit.mizhls.ru/lb/eplayerSupersportGrandstand/index.m3u8?%7Creferer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+https://webufffit.mizhls.ru/lb/eplayerSupersportGrandstand/index.m3u8?%7Creferer=https://olalivehdplay.ru//
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kJJKtbH/Supersport-Farid.jpg" group-title="Sports", Super premier League
 https://starshare.live:443/live/Mohim90/Skytv90/518.ts
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kJJKtbH/Supersport-Farid.jpg" group-title="Sports", Super Laliga
@@ -227,8 +229,8 @@ https://jmp2.uk/sam-CABD1200008JG.m3u8
 
 #EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/KbMz5W1/Discovery-Farid.png" group-title="Documentary_Nature & Life Style", Discovery Bangla
 https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/Discovery_bn.m3u8
-#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/KbMz5W1/Discovery-Farid.png" group-title="Documentary_Nature & Life Style", Discovery English
-http://tv.cloudcdn.me/live.ts?channelId=164&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/KbMz5W1/Discovery-Farid.png" group-title="Documentary_Nature & Life Style", Discovery Asia
+https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8|Referer=https://cdn1.skygo.mn//
 #EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/sg1hVcy/Discovery-Science-Farid.jpg" group-title="Documentary_Nature & Life Style", Discovery Science
 https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/DiscoveryScience_en.m3u8
 #EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/sKbWwNs/Discovery-Turbo-Farid.png" group-title="Documentary_Nature & Life Style", Discovery Turbo
@@ -236,7 +238,7 @@ https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/DiscoveryTurbo_en.m
 #EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/VTgWZjk/Animal-Planet-Farid.png" group-title="Documentary_Nature & Life Style", Animal Planet
 https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/AnimalPlanet_en.m3u8
 #EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/mDxZB0v/National-Geographic-Farid.png" group-title="Documentary_Nature & Life Style", National Geographic
-
+https://cdn1.pishow.tv/live/252/master.m3u8
 #EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/ZLXrXVP/Nat-Geo-Wild-Farid.png" group-title="Documentary_Nature & Life Style", Nat Geo Wild
 
 #EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/vHWt8QD/Wild-Life-Farid.png" group-title="Documentary_Nature & Life Style", Wild Life
