@@ -160,24 +160,38 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="Kids", HUNGAMA
 https://starshare.live:443/live/Mohim90/Skytv90/18456.ts
+
+
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://images.toffeelive.com/images/program/301636/logo/240x240/mobile_logo_148933001727851627.png" group-title="Sports", Toffee LIVE 1
 https://fifabd.xyz/JOIN@TGxRANAPK33/play.m3u8?id=match-1
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://images.toffeelive.com/images/program/301637/logo/240x240/mobile_logo_418608001727851921.png" group-title="Sports", Toffee LIVE 2
 https://fifabd.xyz/JOIN@TGxRANAPK33/play.m3u8?id=match-3
-#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/tmnT7qn/mobile-logo-166888001726636116.png" group-title="Sports", Toffee LIVE
-https://fifabd.xyz/JOIN@TGxRANAPK33/play.m3u8?id=match-2
+#EXTINF:-1 tvg-id="akash43" tvg-logo="" group-title="Sports", Toffee LIVE
+
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/Ss84TnF/T-Sports-Farid.png" group-title="Sports", T Sports 1
 https://fifabd.xyz/TTT/play.m3u8?id=1&q=720
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/Ss84TnF/T-Sports-Farid.png" group-title="Sports", T Sports 2
 https://fifabd.xyz/TTT/play.m3u8?id=2&q=720
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/hddzLrS/Ten-Sports-Farid.jpg" group-title="Sports", Ten Sports
 
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/PQXxRFZ/sky-sports-Farid.png" group-title="Sports", Sky Sports Cricket
+https://webufffit.mizhls.ru/lb/eplayerskycric/index.m3u8|referer=https://olalivehdplay.ru/
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/LNGd29N/Astro-Cricket-Farid.png" group-title="Sports", Astro Cricket
 https://criccoder.pages.dev/astro.m3u8
-#EXTINF:-1 tvg-id="akash41" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723795259114.png" group-title="Sports", Star Sports 1 HD
+#EXTINF:-1 tvg-id="akash41" tvg-logo="https://i.ibb.co.com/LhPN9bf/Star-Sports-Farid.webp" group-title="Sports", Star Sports 1 HD
 https://starshare.live:443/live/Mohim90/Skytv90/148.ts
-#EXTINF:-1 tvg-id="akash41" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723795259114.png" group-title="Sports", Star Sports 2 HD
+#EXTINF:-1 tvg-id="akash41" tvg-logo="https://i.ibb.co.com/LhPN9bf/Star-Sports-Farid.webp" group-title="Sports", Star Sports 2 HD
 https://starshare.live:443/live/Mohim90/Skytv90/239.ts
+#EXTINF:-1 tvg-id="akash41" tvg-logo="https://i.ibb.co.com/LhPN9bf/Star-Sports-Farid.webp" group-title="Sports", Star Sports Hindi
+https://xyzdddd.mizhls.ru/lb/premium268/index.m3u8|referer=https://quest4play.xyz/
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/GMS4CRn/Sports18-Farid.jpg" group-title="Sports", Sports18 1
+https://neestreamtv.com/jcinema/stream.m3u8?id=0000001|Referer=https://neestreamtv.com/
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/GMS4CRn/Sports18-Farid.jpg" group-title="Sports", Sports18 2
+http://15.235.181.35/live.ts?channelId=132373&uid=14505&deviceMac=00:1A:79:A7:53:75&id=18sports2
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/GMS4CRn/Sports18-Farid.jpg" group-title="Sports", Sports18 3
+http://15.235.181.35/live.ts?channelId=132374&uid=14505&deviceMac=00:1A:79:A7:53:75&id=18sports3
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/GMS4CRn/Sports18-Farid.jpg" group-title="Sports", Sports18 khell
+https://neestreamtv.com/jcinema/stream.m3u8?id=0000002|Referer=https://neestreamtv.com/
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png", SONY SPORTS TEN 1 HD
 https://stream.imotv.online/toffe/live.php?id=43dcec1011e7&e=.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png", SONY SPORTS TEN 2 HD
@@ -186,17 +200,12 @@ https://stream.imotv.online/toffe/live.php?id=abc6677968ef&e=.m3u8
 https://stream.imotv.online/toffe/live.php?id=edc6a07e4754&e=.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png", SONY SPORTS TEN 5 HD
 https://stream.imotv.online/toffe/live.php?id=fd6de8bd1666&e=.m3u8
-#EXTINF:-1 tvg-id="akash42" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723808066858.png" group-title="Sports", Star Sports Select 2 HD
-http://xtv.ooo:8080/live/874246786/743567899/167579.ts
-#EXTINF:-1 tvg-id="akash43" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723809087828.png" group-title="Sports", Star Sports Select 1 HD
-http://xtv.ooo:8080/live/874246786/743567899/167578.ts
-
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/RjgzwKK/cricbuzz-Farid.jpg" group-title="Sports", cricbuzz
-
+https://webufffit.mizhls.ru/lb/premium283/index.m3u8|referer=https://olalivehdplay.ru/
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/s38v22f/PTV-Sports-Farid.png" group-title="Sports", PTV Sports
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/K9MrGZV/A-Sports-Farid.png" group-title="Sports", Ary Sports
-http://multinet-tv.serveftp.com:45793/BRN/ArySports.stream/chunklist_w819651575.m3u8
+https://xyzdddd.mizhls.ru/lb/premium269/index.m3u8|referer=https://quest4play.xyz/
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/8zW73Vt/Geo-Tv-Farid.png" group-title="Sports", Geo Super
 https://starshare.live:443/live/Mohim90/Skytv90/101.ts
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kJJKtbH/Supersport-Farid.jpg" group-title="Sports", Super Cricket
