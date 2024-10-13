@@ -342,7 +342,7 @@
   },
   {
     "name": "ATN Bangla",
-    "link": "https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8",
+    "link": "http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=10016&deviceMac=00:1A:79:20:6F:F3",
     "logo": "https://i.ibb.co.com/2tqDddN/Atn-News-Farid.jpg",
     "origin": "",
     "referrer": "",
@@ -353,7 +353,7 @@
   },
    {
     "name": "ATN News",
-    "link": "https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8",
+    "link": "http://tv.cloudcdn.me:80/live.ts?channelId=83&uid=10016&deviceMac=00:1A:79:20:6F:F3",
     "logo": "https://i.ibb.co.com/2tqDddN/Atn-News-Farid.jpg",
     "origin": "",
     "referrer": "",
@@ -386,10 +386,10 @@
   },
   {
     "name": "SATV",
-    "link": "http://global.ncare.live/live-orgin/satvoff5666.stream/playlist.m3u8",
+    "link": "https://entezeetv.fun/bdcast/hls/index.m3u8?id=1938a86s&e=.m3u8",
     "logo": "https://i.ibb.co.com/2cm8bcB/satv-Farid.jpg",
     "origin": "",
-    "referrer": "",
+    "referrer": "https://entezeetv.fun/bdcast//",
     "userAgent": "(Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
     "cookie": "",
     "drmScheme": "",
