@@ -119,7 +119,7 @@ https://starshare.live:443/live/Mohim90/Skytv90/433.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" group-title="Kids", RONGEEN TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="akash27" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719985680308.png" group-title="Kids", SONIC Nickelodeon
-https://colorsscreen.com/live.php?id=1345&extension=.m3u8%7CReferer=https://colorsscreen.com/
+https://colorsscreen.com/live.php?id=1345&extension=.m3u8|Referer=https://colorsscreen.com//
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-w1gbvReuRqM/AAAAAAAAAAI/AAAAAAAAAAA/ve40E-bIMjs/s900-c-k-no/photo.jpg" group-title="Kids", Babytv
 https://starshare.live:443/live/Mohim90/Skytv90/1069.ts
 #EXTINF:-1 tvg-logo="https://www.mobigyaan.com/wp-content/uploads/2014/03/Cartoon-Network-app.jpg" group-title="Kids", Cartoon Network
