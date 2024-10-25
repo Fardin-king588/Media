@@ -112,7 +112,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 #EXTINF:-1 tvg-id="akash18" tvg-logo="https://i.ibb.co.com/hKDwXSB/Zee-Bangla-HD-Farid.webp" group-title="Kolkata Bangla", ZEE BANGLA
 http://xsmarters.top:8080/live/0966717777/0966717777/245893.ts
 #EXTINF:-1 tvg-id="akash21" tvg-logo="https://i.ibb.co.com/jvHdctB/Colors-Bangla-Farid.png" group-title="Kolkata Bangla", Colors Bangla
-https://neestreamtv.com/jcinema/stream.m3u8?id=3774158%7CReferer=https://neestreamtv.com//
+https://neestreamtv.com/jcinema/stream.m3u8?id=3774158|referer=https://neestreamtv.com//
 #EXTINF:-1 tvg-id="akash28" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720359542393.png" group-title="Kolkata Bangla", Star Jalsha HD
 http://xsmarters.top:8080/live/0966717777/0966717777/245898.ts
 
@@ -191,9 +191,9 @@ https://starshare.live:443/live/Mohim90/Skytv90/148.ts
 https://starshare.live:443/live/Mohim90/Skytv90/239.ts
 #EXTINF:-1 tvg-id="akash41" tvg-logo="https://i.ibb.co.com/LhPN9bf/Star-Sports-Farid.webp" group-title="Sports", Star Sports Hindi
 https://xyzdddd.mizhls.ru/lb/premium268/index.m3u8|referer=https://quest4play.xyz//
-#EXTINF:-1 tvg-id="akash43" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723809087828.png" group-title="AkashGO", Star Sports Select 1 HD
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723809087828.png" group-title="Sports", Star Sports Select 1 HD
 http://xtv.ooo:8080/live/874246786/743567899/167578.ts
-#EXTINF:-1 tvg-id="akash42" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723808066858.png" group-title="AkashGO", Star Sports Select 2 HD
+#EXTINF:-1 tvg-id="akash42" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723808066858.png" group-title="Sports", Star Sports Select 2 HD
 http://xsmarters.top:8080/live/0966717777/0966717777/167579.ts
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/GMS4CRn/Sports18-Farid.jpg" group-title="Sports", Sports18 1
 https://neestreamtv.com/jcinema/stream.m3u8?id=0000001|Referer=https://neestreamtv.com//
