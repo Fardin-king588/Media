@@ -1,34 +1,12 @@
 ﻿[
   {
-    "name": "LIVE1 VIP",
-    "link": "https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/301636/logo/240x240/mobile_logo_148933001727851627.png",
-    "origin": "https://mprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1728901062:KeyName=prod_live_events:Signature=smQdabNt6R1mAxv_9hDfQDFAM6uCIgKHbJoj9EYxZotmzNo3hIa77F3tXKnZTnYseXqDQxwZG_sNovS6_xYSBg",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "LIVE2 VIP",
-    "link": "https://mprod-cdn.toffeelive.com/live/match-3/index.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/301637/logo/240x240/mobile_logo_418608001727851921.png",
-    "origin": "https://mprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1728901062:KeyName=prod_live_events:Signature=XTR54Fx5XxIuW21KBTVHbXwoRKXYeR-lYzp-3lsvT70sW9515un5Azpuw8GCuI8qILEsOOnaRGLEg9ERdo6nBg",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
     "name": "T Sports Live 01",
     "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
     "logo": "https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg",
     "origin": "https://live-cdn.tsports.com",
     "referrer": "https://live-cdn.tsports.com",
     "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1728894928:KeyName=tsports-ed25519-01:Signature=vbB05ZUBvLrx02Kr-H598hDcXFMSYFoGaCgxMiWRWQ2L9khhHHQwL6EfAWdULbP8RoozZ2F_pppczaPAFvijAA",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1729931924:KeyName=tsports-ed25519-01:Signature=mQlmkWsGM2HBGUs332m6gQ2ULOPzOm1FvDGtBdJq4jJG0WReui4b4KKRHcnEmtCqUDmUJYcHtKNhRZ0bkN-wDQ",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -39,7 +17,7 @@
     "origin": "https://live-cdn.tsports.com",
     "referrer": "https://live-cdn.tsports.com",
     "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1728894928:KeyName=tsports-ed25519-01:Signature=vbB05ZUBvLrx02Kr-H598hDcXFMSYFoGaCgxMiWRWQ2L9khhHHQwL6EfAWdULbP8RoozZ2F_pppczaPAFvijAA",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1729931924:KeyName=tsports-ed25519-01:Signature=mQlmkWsGM2HBGUs332m6gQ2ULOPzOm1FvDGtBdJq4jJG0WReui4b4KKRHcnEmtCqUDmUJYcHtKNhRZ0bkN-wDQ",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -138,7 +116,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728922566:KeyName=prod_linear:Signature=5mG3mhpiqbszQlLjrpl1Bwcs41an6PPG7gU-P-XLucza5_PgfVw6wopLnRxQbjRGaidWAK6_3YbiDgDRA8s0Bg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1730032557:KeyName=prod_linear:Signature=jl4437vd7w69YvcxTynZ32MHKAOj96kFl0zGuQutwPmd5g1Q4W5FgvdOaTMeYhDuoXsR4UEkpsnmHamSDYv2Dg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -149,7 +127,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728922566:KeyName=prod_linear:Signature=5mG3mhpiqbszQlLjrpl1Bwcs41an6PPG7gU-P-XLucza5_PgfVw6wopLnRxQbjRGaidWAK6_3YbiDgDRA8s0Bg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1730032557:KeyName=prod_linear:Signature=jl4437vd7w69YvcxTynZ32MHKAOj96kFl0zGuQutwPmd5g1Q4W5FgvdOaTMeYhDuoXsR4UEkpsnmHamSDYv2Dg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -160,7 +138,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728922566:KeyName=prod_linear:Signature=5mG3mhpiqbszQlLjrpl1Bwcs41an6PPG7gU-P-XLucza5_PgfVw6wopLnRxQbjRGaidWAK6_3YbiDgDRA8s0Bg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1730032557:KeyName=prod_linear:Signature=jl4437vd7w69YvcxTynZ32MHKAOj96kFl0zGuQutwPmd5g1Q4W5FgvdOaTMeYhDuoXsR4UEkpsnmHamSDYv2Dg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -171,7 +149,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728922566:KeyName=prod_linear:Signature=5mG3mhpiqbszQlLjrpl1Bwcs41an6PPG7gU-P-XLucza5_PgfVw6wopLnRxQbjRGaidWAK6_3YbiDgDRA8s0Bg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1730032557:KeyName=prod_linear:Signature=jl4437vd7w69YvcxTynZ32MHKAOj96kFl0zGuQutwPmd5g1Q4W5FgvdOaTMeYhDuoXsR4UEkpsnmHamSDYv2Dg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -182,7 +160,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728922566:KeyName=prod_linear:Signature=5mG3mhpiqbszQlLjrpl1Bwcs41an6PPG7gU-P-XLucza5_PgfVw6wopLnRxQbjRGaidWAK6_3YbiDgDRA8s0Bg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1730032557:KeyName=prod_linear:Signature=jl4437vd7w69YvcxTynZ32MHKAOj96kFl0zGuQutwPmd5g1Q4W5FgvdOaTMeYhDuoXsR4UEkpsnmHamSDYv2Dg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -211,6 +189,28 @@
   {
     "name": "Star SPORTS 2 HD",
     "link": "https://starshare.live:443/live/Mohim90/Skytv90/239.ts",
+    "logo": "https://i.ibb.co.com/LhPN9bf/Star-Sports-Farid.webp",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Star Sports Select 1 HD",
+    "link": "http://xtv.ooo:8080/live/874246786/743567899/167578.ts",
+    "logo": "https://i.ibb.co.com/LhPN9bf/Star-Sports-Farid.webp",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Star Sports Select 2 HD",
+    "link": "http://xsmarters.top:8080/live/0966717777/0966717777/167579.ts",
     "logo": "https://i.ibb.co.com/LhPN9bf/Star-Sports-Farid.webp",
     "origin": "",
     "referrer": "",
@@ -375,7 +375,7 @@
   },
   {
     "name": "BTV",
-    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8",
+    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8",
     "logo": "https://i.ibb.co.com/NnGSTv6/BTV-Farid.png",
     "origin": "",
     "referrer": "",
@@ -386,7 +386,7 @@
   },
   {
     "name": "ATN Bangla",
-    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8",
+    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8",
     "logo": "https://i.ibb.co.com/2tqDddN/Atn-News-Farid.jpg",
     "origin": "",
     "referrer": "",
@@ -397,7 +397,7 @@
   },
   {
     "name": "ATN News",
-    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8",
+    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/live-orgin/atnws-sg.stream/chunks.m3u8",
     "logo": "https://i.ibb.co.com/2tqDddN/Atn-News-Farid.jpg",
     "origin": "",
     "referrer": "",
@@ -408,7 +408,7 @@
   },
   {
     "name": "Ekattor TV",
-    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8",
+    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/live-orgin/ekattor.stream/chunks.m3u8",
     "logo": "https://i.ibb.co.com/C68mTwM/ekattor-Farid.jpg",
     "origin": "",
     "referrer": "",
@@ -419,7 +419,7 @@
   },
   {
     "name": "Bijoy TV",
-    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8",
+    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/live-orgin/bijoy00.stream/chunks.m3u8",
     "logo": "https://i.ibb.co.com/c1RcSk4/bijoytv-Farid.jpg",
     "origin": "",
     "referrer": "",
@@ -430,7 +430,7 @@
   },
   {
     "name": "SATV",
-    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8",
+    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/live-orgin/satvoff5666.stream/chunks.m3u8",
     "logo": "https://i.ibb.co.com/2cm8bcB/satv-Farid.jpg",
     "origin": "",
     "referrer": "",
@@ -441,7 +441,7 @@
   },
   {
     "name": "Ten TV Prime ",
-    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tenprime.stream/playlist.m3u8",
+    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tenprime.stream/live-orgin/tenprime.stream/chunks.m3u8",
     "logo": "https://i.ibb.co.com/Q6kbJv7/Ten-Prime-Farid.jpg",
     "origin": "",
     "referrer": "",
@@ -452,7 +452,7 @@
   },
   {
     "name": "Independent TV",
-    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8",
+    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/live-orgin/independent-8-org.stream/chunks.m3u8",
     "logo": "https://i.ibb.co.com/sHQFTTN/Indipendent-farid.png",
     "origin": "",
     "referrer": "",
@@ -463,7 +463,7 @@
   },
   {
     "name": "Somoy TV",
-    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8",
+    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8",
     "logo": "https://i.ibb.co.com/xzkZwCS/somoynews-Farid.jpg",
     "origin": "",
     "referrer": "",
@@ -485,7 +485,7 @@
   },
   {
     "name": "Jamuna TV",
-    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8",
+    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8",
     "logo": "https://i.ibb.co.com/Lgr4t8c/jamuna-Farid.jpg",
     "origin": "",
     "referrer": "",
@@ -496,7 +496,7 @@
   },
   {
     "name": "DBC News",
-    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8",
+    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8",
     "logo": "https://i.ibb.co.com/kBH3Lzt/dbc-news-farid.jpg",
     "origin": "",
     "referrer": "",
@@ -573,7 +573,7 @@
   },
   {
     "name": "News 24",
-    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8",
+    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/live-orgin/news24local.stream/chunks.m3u8",
     "logo": "https://i.ibb.co.com/pbvw393/news24-Farid.jpg",
     "origin": "",
     "referrer": "",
@@ -584,7 +584,7 @@
   },
   {
     "name": "Channel 24",
-    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8",
+    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8",
     "logo": "https://i.ibb.co.com/Lrms0X5/channel24-Farid.jpg",
     "origin": "",
     "referrer": "",
@@ -617,7 +617,7 @@
   },
   {
     "name": "Desh TV",
-    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8",
+    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/live-orgin/deshtv.stream/chunks.m3u8",
     "logo": "https://i.ibb.co.com/XDFwYdB/DESH-TV-farid.png",
     "origin": "",
     "referrer": "",
@@ -628,7 +628,7 @@
   },
   {
     "name": "Ekhon TV",
-    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8",
+    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/live-orgin/globaltv.stream/chunks.m3u8",
     "logo": "https://i.ibb.co.com/4jTpPtt/ekhontv-Farid.jpg",
     "origin": "",
     "referrer": "",
@@ -650,7 +650,7 @@
   },
   {
     "name": "Channel 9",
-    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8",
+    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/live-orgin/channel9hd.stream/chunks.m3u8",
     "logo": "https://i.ibb.co.com/rFN9SFt/ch9-Farid.jpg",
     "origin": "",
     "referrer": "",
@@ -672,7 +672,7 @@
   },
   {
     "name": "Bangla Vision",
-    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8",
+    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/live-orgin/banglav000.stream/chunks.m3u8",
     "logo": "https://i.ibb.co.com/frk4h09/Bangla-Vision-Farid.jpg",
     "origin": "",
     "referrer": "",
@@ -683,7 +683,7 @@
   },
   {
     "name": "ATN Islamic",
-    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8",
+    "link": "https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8",
     "logo": "https://i.ibb.co.com/K6hfpp4/atn-islamic-tv-farid.jpg",
     "origin": "",
     "referrer": "",
@@ -732,7 +732,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728922566:KeyName=prod_linear:Signature=5mG3mhpiqbszQlLjrpl1Bwcs41an6PPG7gU-P-XLucza5_PgfVw6wopLnRxQbjRGaidWAK6_3YbiDgDRA8s0Bg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1730032557:KeyName=prod_linear:Signature=jl4437vd7w69YvcxTynZ32MHKAOj96kFl0zGuQutwPmd5g1Q4W5FgvdOaTMeYhDuoXsR4UEkpsnmHamSDYv2Dg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -743,7 +743,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728922566:KeyName=prod_linear:Signature=5mG3mhpiqbszQlLjrpl1Bwcs41an6PPG7gU-P-XLucza5_PgfVw6wopLnRxQbjRGaidWAK6_3YbiDgDRA8s0Bg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1730032557:KeyName=prod_linear:Signature=jl4437vd7w69YvcxTynZ32MHKAOj96kFl0zGuQutwPmd5g1Q4W5FgvdOaTMeYhDuoXsR4UEkpsnmHamSDYv2Dg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -754,7 +754,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728922566:KeyName=prod_linear:Signature=5mG3mhpiqbszQlLjrpl1Bwcs41an6PPG7gU-P-XLucza5_PgfVw6wopLnRxQbjRGaidWAK6_3YbiDgDRA8s0Bg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1730032557:KeyName=prod_linear:Signature=jl4437vd7w69YvcxTynZ32MHKAOj96kFl0zGuQutwPmd5g1Q4W5FgvdOaTMeYhDuoXsR4UEkpsnmHamSDYv2Dg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -765,7 +765,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728922566:KeyName=prod_linear:Signature=5mG3mhpiqbszQlLjrpl1Bwcs41an6PPG7gU-P-XLucza5_PgfVw6wopLnRxQbjRGaidWAK6_3YbiDgDRA8s0Bg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1730032557:KeyName=prod_linear:Signature=jl4437vd7w69YvcxTynZ32MHKAOj96kFl0zGuQutwPmd5g1Q4W5FgvdOaTMeYhDuoXsR4UEkpsnmHamSDYv2Dg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -776,7 +776,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728922566:KeyName=prod_linear:Signature=5mG3mhpiqbszQlLjrpl1Bwcs41an6PPG7gU-P-XLucza5_PgfVw6wopLnRxQbjRGaidWAK6_3YbiDgDRA8s0Bg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1730032557:KeyName=prod_linear:Signature=jl4437vd7w69YvcxTynZ32MHKAOj96kFl0zGuQutwPmd5g1Q4W5FgvdOaTMeYhDuoXsR4UEkpsnmHamSDYv2Dg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -798,7 +798,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728922566:KeyName=prod_linear:Signature=5mG3mhpiqbszQlLjrpl1Bwcs41an6PPG7gU-P-XLucza5_PgfVw6wopLnRxQbjRGaidWAK6_3YbiDgDRA8s0Bg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1730032557:KeyName=prod_linear:Signature=jl4437vd7w69YvcxTynZ32MHKAOj96kFl0zGuQutwPmd5g1Q4W5FgvdOaTMeYhDuoXsR4UEkpsnmHamSDYv2Dg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -809,7 +809,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728922566:KeyName=prod_linear:Signature=5mG3mhpiqbszQlLjrpl1Bwcs41an6PPG7gU-P-XLucza5_PgfVw6wopLnRxQbjRGaidWAK6_3YbiDgDRA8s0Bg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1730032557:KeyName=prod_linear:Signature=jl4437vd7w69YvcxTynZ32MHKAOj96kFl0zGuQutwPmd5g1Q4W5FgvdOaTMeYhDuoXsR4UEkpsnmHamSDYv2Dg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -820,7 +820,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728922566:KeyName=prod_linear:Signature=5mG3mhpiqbszQlLjrpl1Bwcs41an6PPG7gU-P-XLucza5_PgfVw6wopLnRxQbjRGaidWAK6_3YbiDgDRA8s0Bg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1730032557:KeyName=prod_linear:Signature=jl4437vd7w69YvcxTynZ32MHKAOj96kFl0zGuQutwPmd5g1Q4W5FgvdOaTMeYhDuoXsR4UEkpsnmHamSDYv2Dg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -831,7 +831,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728922566:KeyName=prod_linear:Signature=5mG3mhpiqbszQlLjrpl1Bwcs41an6PPG7gU-P-XLucza5_PgfVw6wopLnRxQbjRGaidWAK6_3YbiDgDRA8s0Bg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1730032557:KeyName=prod_linear:Signature=jl4437vd7w69YvcxTynZ32MHKAOj96kFl0zGuQutwPmd5g1Q4W5FgvdOaTMeYhDuoXsR4UEkpsnmHamSDYv2Dg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -842,7 +842,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728922566:KeyName=prod_linear:Signature=5mG3mhpiqbszQlLjrpl1Bwcs41an6PPG7gU-P-XLucza5_PgfVw6wopLnRxQbjRGaidWAK6_3YbiDgDRA8s0Bg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1730032557:KeyName=prod_linear:Signature=jl4437vd7w69YvcxTynZ32MHKAOj96kFl0zGuQutwPmd5g1Q4W5FgvdOaTMeYhDuoXsR4UEkpsnmHamSDYv2Dg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -853,7 +853,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728922566:KeyName=prod_linear:Signature=5mG3mhpiqbszQlLjrpl1Bwcs41an6PPG7gU-P-XLucza5_PgfVw6wopLnRxQbjRGaidWAK6_3YbiDgDRA8s0Bg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1730032557:KeyName=prod_linear:Signature=jl4437vd7w69YvcxTynZ32MHKAOj96kFl0zGuQutwPmd5g1Q4W5FgvdOaTMeYhDuoXsR4UEkpsnmHamSDYv2Dg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -864,7 +864,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728922566:KeyName=prod_linear:Signature=5mG3mhpiqbszQlLjrpl1Bwcs41an6PPG7gU-P-XLucza5_PgfVw6wopLnRxQbjRGaidWAK6_3YbiDgDRA8s0Bg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1730032557:KeyName=prod_linear:Signature=jl4437vd7w69YvcxTynZ32MHKAOj96kFl0zGuQutwPmd5g1Q4W5FgvdOaTMeYhDuoXsR4UEkpsnmHamSDYv2Dg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -941,7 +941,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728922566:KeyName=prod_linear:Signature=5mG3mhpiqbszQlLjrpl1Bwcs41an6PPG7gU-P-XLucza5_PgfVw6wopLnRxQbjRGaidWAK6_3YbiDgDRA8s0Bg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1730032557:KeyName=prod_linear:Signature=jl4437vd7w69YvcxTynZ32MHKAOj96kFl0zGuQutwPmd5g1Q4W5FgvdOaTMeYhDuoXsR4UEkpsnmHamSDYv2Dg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -952,7 +952,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728922566:KeyName=prod_linear:Signature=5mG3mhpiqbszQlLjrpl1Bwcs41an6PPG7gU-P-XLucza5_PgfVw6wopLnRxQbjRGaidWAK6_3YbiDgDRA8s0Bg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1730032557:KeyName=prod_linear:Signature=jl4437vd7w69YvcxTynZ32MHKAOj96kFl0zGuQutwPmd5g1Q4W5FgvdOaTMeYhDuoXsR4UEkpsnmHamSDYv2Dg",
     "drmScheme": "",
     "drmLicense": ""
   },
