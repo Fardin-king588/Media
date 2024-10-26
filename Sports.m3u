@@ -23,7 +23,7 @@
   },
   {
     "name": "PTV Sports",
-    "link": "http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8",
+    "link": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8",
     "logo": "https://i.ibb.co.com/s38v22f/PTV-Sports-Farid.png",
     "origin": "",
     "referrer": "",
@@ -45,14 +45,14 @@
   },
   {
     "name": "Ten Sports",
-    "link": "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd",
+    "link": "http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8",
     "logo": "https://i.ibb.co.com/hddzLrS/Ten-Sports-Farid.jpg",
-    "origin": "https://edge3-moblive.yuppcdn.net",
-    "referrer": "https://edge3-moblive.yuppcdn.net",
+    "origin": "",
+    "referrer": "",
     "userAgent": "(Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
     "cookie": "",
-    "drmScheme": "clearkey",
-    "drmLicense": "9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665"
+    "drmScheme": "",
+    "drmLicense": ""
   },
   {
     "name": "cricbuzz",
