@@ -6,7 +6,7 @@
     "origin": "https://live-cdn.tsports.com",
     "referrer": "https://live-cdn.tsports.com",
     "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1729931924:KeyName=tsports-ed25519-01:Signature=mQlmkWsGM2HBGUs332m6gQ2ULOPzOm1FvDGtBdJq4jJG0WReui4b4KKRHcnEmtCqUDmUJYcHtKNhRZ0bkN-wDQ",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1729977969:KeyName=tsports-ed25519-01:Signature=efNyM43VQ5RLy0tuWLF3QX_m6UdRutbDHQ7exdEqYwQaN44vYoXww4gZR9k3xafrDX5yyfeOqo1BwMpNicAgCg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -17,20 +17,31 @@
     "origin": "https://live-cdn.tsports.com",
     "referrer": "https://live-cdn.tsports.com",
     "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1729931924:KeyName=tsports-ed25519-01:Signature=mQlmkWsGM2HBGUs332m6gQ2ULOPzOm1FvDGtBdJq4jJG0WReui4b4KKRHcnEmtCqUDmUJYcHtKNhRZ0bkN-wDQ",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1729977969:KeyName=tsports-ed25519-01:Signature=efNyM43VQ5RLy0tuWLF3QX_m6UdRutbDHQ7exdEqYwQaN44vYoXww4gZR9k3xafrDX5yyfeOqo1BwMpNicAgCg",
     "drmScheme": "",
     "drmLicense": ""
   },
   {
     "name": "PTV Sports",
-    "link": "https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd",
+    "link": "http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8",
     "logo": "https://i.ibb.co.com/s38v22f/PTV-Sports-Farid.png",
-    "origin": "https://live4.shoq.com.pk",
-    "referrer": "https://live4.shoq.com.pk",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "(Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Ten Cricket",
+    "link": "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd",
+    "logo": "https://www.adgully.com/img/800/2010-08-Ten-Cricket.jpg",
+    "origin": "https://edge3-moblive.yuppcdn.net",
+    "referrer": "https://edge3-moblive.yuppcdn.net",
     "userAgent": "(Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
     "cookie": "",
     "drmScheme": "clearkey",
-    "drmLicense": "9ecad6c4413f8bdc54712ce6c072a2cf:442df559c369bdada8ba3abe97811575"
+    "drmLicense": "9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665"
   },
   {
     "name": "Ten Sports",
