@@ -108,8 +108,9 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/3ppGGzf/Peace-TV-Bangla-Farid.png" group-title="Islamic", Peace TV Urdu
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
-
 #EXTINF:-1 tvg-id="akash18" tvg-logo="https://i.ibb.co.com/hKDwXSB/Zee-Bangla-HD-Farid.webp" group-title="Kolkata Bangla", ZEE BANGLA
+https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=Th1yhABh7N5hBAOhZ2lsTQ&expires=1730262114&user=f52388d5234b44598217dc50cbbb14e3
+#EXTINF:-1 tvg-id="akash18" tvg-logo="https://i.ibb.co.com/hKDwXSB/Zee-Bangla-HD-Farid.webp" group-title="Kolkata Bangla", ZEE BANGLA HD
 http://xsmarters.top:8080/live/0966717777/0966717777/245893.ts
 #EXTINF:-1 tvg-id="akash21" tvg-logo="https://i.ibb.co.com/jvHdctB/Colors-Bangla-Farid.png" group-title="Kolkata Bangla", Colors Bangla
 https://neestreamtv.com/jcinema/stream.m3u8?id=3774158|referer=https://neestreamtv.com//
