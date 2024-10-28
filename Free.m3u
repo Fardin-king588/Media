@@ -117,6 +117,8 @@ https://neestreamtv.com/jcinema/stream.m3u8?id=3774158|referer=https://neestream
 http://xsmarters.top:8080/live/0966717777/0966717777/245898.ts
 
 
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927537752.png" group-title="Hindi Entertainment", Star PLUS
+https://drmlive.in/yupptv/premium/starplusau.m3u8|referer=https://drmlive.in//
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KWhDV6/20240803-102743.png" group-title="Kids", DURONTO TV
 https://starshare.live:443/live/Mohim90/Skytv90/433.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" group-title="Kids", RONGEEN TV
