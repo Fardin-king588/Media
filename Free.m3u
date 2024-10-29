@@ -125,8 +125,35 @@ https://drmlive.in/yupptv/premium/starplusau.m3u8|referer=https://drmlive.in//
 #EXTINF:-1 tvg-logo="https://www.india-forums.com/tellybuzz/images/uploads/7CF_star_bharat.jpg" group-title="Hindi Entertainment", Star Bharat
 https://drmlive.in/yupptv/premium/lifeokau.m3u8|referer=https://drmlive.in//
 
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kX9VXvk/Zee-Cinema-HD-Farid.webp" group-title="Hindi Movies", Zee Cinema USA
+http://xtv.ooo:8080/live/874246786/743567899/206268.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rdkyHzb/Colors-Cineplex-HD-Farid.png" group-title="Hindi Movies", Cineplex
 https://drmlive.in/yupptv/premium/colorscineplexus.m3u8|referer=https://drmlive.in//
+#EXTINF:-1 tvg-id="akash20" tvg-logo="https://i.ibb.co.com/202j09Y/Cineplex-Superhits-Farid.webp" group-title="Hindi Movies", Cineplex Superhits
+http://xtv.ooo:8080/live/874246786/743567899/66199.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/6Zb3KSd/The-Movie-Club-Farid.jpg" group-title="Hindi Movies", The Movie Club
+https://jmp2.uk/sam-INBD21000016Y.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-black.png" group-title="Hindi Movies", BBO
+https://drmlive.in/yupptv/premium/bbo.m3u8|referer=https://drmlive.in//
+#EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/BBO-Classic-white.png" group-title="Hindi Movies", BBO classic
+https://drmlive.in/yupptv/premium/bboclassic.m3u8|referer=https://drmlive.in//
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/zJrTMH5/Shemaroo-Bollywood-Farid.jpg" group-title="Hindi Movies", Shemaroo Bollywood
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/2ZmgH8L/Bollywood-Classic-Farid.png" group-title="Hindi Movies", Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/N7gnwmM/Bollywood-HD-Farid.jpg" group-title="Hindi Movies", Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/9yCsnD3/Bollywood-Prime-Farid.jpg" group-title="Hindi Movies", Bollywood Prime
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/FHWGqqS/Miniplex-Farid.jpg" group-title="Hindi Movies", Miniplex
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/K2BvSy9/Bflix-Farid.webp" group-title="Hindi Movies", bflix
+http://xtv.ooo:8080/live/874246786/743567899/104190.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/sqC7sz0/South-Station.png" group-title="Hindi Movies", South Station
+https://jmp2.uk/sam-INBD4800001IR.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ySJqyhp/RDC-Movies.png" group-title="Hindi Movies", RDC Movies
+https://jmp2.uk/sam-INBD4700008UG.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KWhDV6/20240803-102743.png" group-title="Kids", DURONTO TV
 https://starshare.live:443/live/Mohim90/Skytv90/433.ts
