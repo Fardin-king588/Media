@@ -122,12 +122,47 @@ https://neestreamtv.com/jcinema/stream.m3u8?id=3774158|referer=https://neestream
 #EXTINF:-1 tvg-id="akash28" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720359542393.png" group-title="Kolkata Bangla", Star Jalsha HD
 http://xsmarters.top:8080/live/0966717777/0966717777/245898.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bm7fGc8/Sony-Entertainmenthd-Farid.png" group-title="Hindi Entertainment", Sony Entertainment
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bm7fGc8/Sony-Entertainmenthd-Farid.png" group-title="Hindi Entertainment", Sony Entertainment HD
+
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927537752.png" group-title="Hindi Entertainment", Star PLUS
 https://drmlive.in/yupptv/premium/starplusau.m3u8|referer=https://drmlive.in//
 #EXTINF:-1 tvg-logo="https://www.india-forums.com/tellybuzz/images/uploads/7CF_star_bharat.jpg" group-title="Hindi Entertainment", Star Bharat
 https://drmlive.in/yupptv/premium/lifeokau.m3u8|referer=https://drmlive.in//
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720701862733.png" group-title="Hindi Entertainment", Zee TV HD
+https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4p27G69/tv-HD-Farid.webp" group-title="Hindi Entertainment", &tv HD
+https://live.drmlive-02.workers.dev/zee/and-tv-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Wytg0sD/Sony-Sab-Farid.png" group-title="Hindi Entertainment", Sony SuB
 
-#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kX9VXvk/Zee-Cinema-HD-Farid.webp" group-title="Hindi Movies", Zee Cinema USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Wytg0sD/Sony-Sab-Farid.png" group-title="Hindi Entertainment", Sony Pal
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Wytg0sD/Sony-Sab-Farid.png" group-title="Hindi Entertainment", Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JnZ2hJG/Colors-HD-Farid.png" group-title="Hindi Entertainment", Colors HD
+http://xtv.ooo:8080/live/874246786/743567899/66167.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PxXLP23/Big-Magic-Farid.png" group-title="Hindi Entertainment", Big Magic
+https://live.drmlive-02.workers.dev/zee/big-magic.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dfG5w7g/Zee-Zest-Farid.png" group-title="Hindi Entertainment", Zee Zest HD
+https://live.drmlive-02.workers.dev/zee/zee-zest-hd.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/r7p8qXJ/pictures-HD-Farid.webp" group-title="Hindi Movies", &pictures HD
+https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q65pc3C/Xplore-HD-Farid.webp" group-title="Hindi Movies", &xplor HD
+https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BjvMxX7/Zee-Bollywood-Farid.webp" group-title="Hindi Movies", Zee Bollywood
+https://live.drmlive-02.workers.dev/zee/zee-bollywood.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pjYPPr9/Zee-Action-Farid.webp" group-title="Hindi Movies", Zee Action
+https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4pzGSmh/Zee-Anmoll-Cinema-Farid.jpg" group-title="Hindi Movies", Anmoll Cinema
+https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4pzGSmh/Zee-Anmoll-Cinema-Farid.jpg" group-title="Hindi Movies", Anmoll Cinemaa 2
+https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema-2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kX9VXvk/Zee-Cinema-HD-Farid.webp" group-title="Hindi Movies", Zee Cinema HD
+https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kX9VXvk/Zee-Cinema-HD-Farid.webp" group-title="Hindi Movies", Zee Cinema USA
 http://xtv.ooo:8080/live/874246786/743567899/206268.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rdkyHzb/Colors-Cineplex-HD-Farid.png" group-title="Hindi Movies", Cineplex
 https://drmlive.in/yupptv/premium/colorscineplexus.m3u8|referer=https://drmlive.in//
@@ -149,12 +184,59 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/FHWGqqS/Miniplex-Farid.jpg" group-title="Hindi Movies", Miniplex
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J3LqKR2/Star-utsav-Gold-Farid.jpg" group-title="Hindi Movies", Utsav GOLD
+http://xtv.ooo:8080/live/874246786/743567899/221257.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dLFbPq7/Star-Gold.jpg" group-title="Hindi Movies", STAR GOLD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ld1yBFq/Star-Gold-2-Farid.png" group-title="Hindi Movies", STAR GOLD 2
+http://xtv.ooo:8080/live/874246786/743567899/106133.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rFsv66r/Star-Gold-Thrills.jpg" group-title="Hindi Movies", STAR GOLD Thrills
+http://xtv.ooo:8080/live/874246786/743567899/221258.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jGjLRyz/Star-Gold-Romance-Farid.jpg" group-title="Hindi Movies", STAR GOLD Romance
+http://xtv.ooo:8080/live/874246786/743567899/66186.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jGjLRyz/Star-Gold-Romance-Farid.jpg" group-title="Hindi Movies", STAR GOLD Select
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dffrZ18/Sony-Wah-Farid.png" group-title="Hindi Movies", Sony WAH
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5Y9Zk0b/Sony-Maxhd-Farid.png" group-title="Hindi Movies", Sony Max
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5Y9Zk0b/Sony-Maxhd-Farid.png" group-title="Hindi Movies", Sony Max HD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5FDrKwB/Sony-Max2-Farid.png" group-title="Hindi Movies", Sony Max 2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tPL0xdp/B4-U-Movies.png" group-title="Hindi Movies", B4U Movies
+https://cdn2.pishow.tv/live/156/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/05/30/b4uuu4.jpg" group-title="Hindi Movies", B4U KADAK
+https://cdn2.pishow.tv/live/160/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/K2BvSy9/Bflix-Farid.webp" group-title="Hindi Movies", bflix
 http://xtv.ooo:8080/live/874246786/743567899/104190.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/sqC7sz0/South-Station.png" group-title="Hindi Movies", South Station
 https://jmp2.uk/sam-INBD4800001IR.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ySJqyhp/RDC-Movies.png" group-title="Hindi Movies", RDC Movies
 https://jmp2.uk/sam-INBD4700008UG.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wK7cZcS/Zee-Cafe-Farid.jpg" group-title="English Movies", Zee Cafe HD
+https://live.drmlive-02.workers.dev/zee/zee-cafe-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8mCnBR4/Star-Movies-HD-Farid.png" group-title="English Movies", Star Movies HD
+http://tv.cloudcdn.me/live.ts?channelId=198&uid=6154&deviceMac=00:1A:79:51:31:21
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0ZdqXyz/and-flix-hd-Farid.webp" group-title="English Movies", &flix HD
+https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/Fhc2vVV/privehd-Farid.jpg" group-title="English Movies", &prive HD
+https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xJ1rnqW/20240803-105438.png" group-title="English Movies", Movies Action
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.XUExjSItcSWGKJf9a-vuAwAAAA?rs=1&pid=ImgDetMain" group-title="English Movies", Great Action
+http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/55292#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CbM2mP3/Sony-PIX-Farid.png" group-title="English Movies", Sony PIX
+
+#EXTINF:-1 tvg-logo="" group-title="English Movies", MXN HD
+http://xtv.ooo:8080/live/874246786/743567899/66224.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Sf5b6M/MN-plus-Farid.jpg" group-title="English Movies", MN+HD
+http://xtv.ooo:8080/live/874246786/743567899/66244.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pvWkc3w/Movies-Now-Farid.jpg" group-title="English Movies", movies NOW
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/g4TqGw2/Star-Movies-Select-Farid.jpg" group-title="English Movies", Star Movies SELECT HD
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KWhDV6/20240803-102743.png" group-title="Kids", DURONTO TV
@@ -170,9 +252,9 @@ https://starshare.live:443/live/Mohim90/Skytv90/1069.ts
 #EXTINF:-1 tvg-logo="https://www.mobigyaan.com/wp-content/uploads/2014/03/Cartoon-Network-app.jpg" group-title="Kids", Cartoon Network
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="akash24" tvg-logo="https://cdn.siasat.com/wp-content/uploads/2021/12/Disney-2.jpg" group-title="Kids", Disney Channel
-https://webufffit.mizhls.ru/lb/premium312/index.m3u8|referer=https://olalivehdplay.ru/
+
 #EXTINF:-1 tvg-id="akash24" tvg-logo="https://tiermaker.com/images/templates/disney-xd-shows-1045181/10451811622351772.jpeg" group-title="Kids", Disney XD
-https://webufffit.mizhls.ru/lb/premium314/index.m3u8|referer=https://olalivehdplay.ru/
+
 #EXTINF:-1 tvg-id="akash24" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926957023.png" group-title="Kids", Disney Jr.
 https://starshare.live:443/live/Mohim90/Skytv90/49.ts
 #EXTINF:-1 tvg-id="akash26" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927021670.png" group-title="Kids", Nick Toons 
