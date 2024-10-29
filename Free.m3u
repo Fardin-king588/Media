@@ -89,7 +89,7 @@ https://crichd-live.top/live/jadoo/m3u8.php?c=nagorik_tv&e=m3u8|referer=https://
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q6kbJv7/Ten-Prime-Farid.jpg" group-title="Bangladesh", Ten TV Prime
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tenprime.stream/live-orgin/tenprime.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/XDFwYdB/DESH-TV-farid.png" group-title="Bangladesh", Gazi TV 
-https://tvs1.aynaott.com/bz/gtvhdforgame/index.m3u8?hdnts=st=1730162910~exp=1730206110~acl=/gtvhdforgame/*~data=103.69.150.30-WEB~hmac=691af337b4d4496237675d6fff9af8c9ba9537cc99594be196126843bd05b0c2|referer=https://watch.aynaott.com/
+https://tvs1.aynaott.com/bz/gtvhdforgame/index.m3u8?hdnts=st=1730173567~exp=1730216767~acl=/gtvhdforgame/*~data=103.69.150.30-WEB~hmac=c86c3938ec37f261a73182dcdac13cd9e90302267390a8671a7c804b623c2aba|referer=https://watch.aynaott.com/
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/K6hfpp4/atn-islamic-tv-farid.jpg" group-title="Islamic", ATN Islamic TV
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
 
@@ -110,7 +110,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 #EXTINF:-1 tvg-id="akash18" tvg-logo="https://i.ibb.co.com/hKDwXSB/Zee-Bangla-HD-Farid.webp" group-title="Kolkata Bangla", ZEE BANGLA
 https://tmsbd.top/jdddlaaa/m3u8.php?c=zee_bangla&e=m3u8
 #EXTINF:-1 tvg-id="akash18" tvg-logo="https://i.ibb.co.com/hKDwXSB/Zee-Bangla-HD-Farid.webp" group-title="Kolkata Bangla", ZEE BANGLA HD
-https://tvs2.aynaott.com/bz/ZeeBanglaHD/index.m3u8?hdnts=st=1730163084~exp=1730206284~acl=/ZeeBanglaHD/*~data=103.69.150.30-WEB~hmac=c523f5f481d3220f78843fc26c8d62682e6e89a65652b7188a9a399198f4939a|referer=https://watch.aynaott.com/
+https://tvs2.aynaott.com/bz/ZeeTvHD/index.m3u8?hdnts=st=1730173567~exp=1730216767~acl=/ZeeTvHD/*~data=103.69.150.30-WEB~hmac=41ac72bfff04e1418510a80572b405a1718e637240afa3e3c3b9d30cca0093d1|referer=https://watch.aynaott.com/
 #EXTINF:-1 tvg-id="akash21" tvg-logo="https://i.ibb.co.com/jvHdctB/Colors-Bangla-Farid.png" group-title="Kolkata Bangla", Colors Bangla
 https://neestreamtv.com/jcinema/stream.m3u8?id=3774158|referer=https://neestreamtv.com//
 #EXTINF:-1 tvg-id="akash28" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720359542393.png" group-title="Kolkata Bangla", Star Jalsha HD
@@ -188,7 +188,7 @@ https://crichd-live.top/live/tsports/file.php?id=https://live-cdn.tsports.com/li
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/Ss84TnF/T-Sports-Farid.png" group-title="Sports", T Sports 2
 https://crichd-live.top/live/tsports/file.php?id=https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/Ss84TnF/T-Sports-Farid.png" group-title="Sports", T Sports
-https://tvs1.aynaott.com/bz/tsportsfhd/index.m3u8?hdnts=st=1730133064~exp=1730176264~acl=/tsportsfhd/*~data=103.69.150.30-WEB~hmac=ab28753335727f759480328c067913218211363d203f866360ea722739479ebb|referer=https://watch.aynaott.com/
+https://tvs2.aynaott.com/bz/tsportshd/index.m3u8?hdnts=st=1730173567~exp=1730216767~acl=/tsportshd/*~data=103.69.150.30-WEB~hmac=b4c7983b98207a37323e1ee4a639a76cc9844e2bccc41310f885117b9b7123b9|referer=https://watch.aynaott.com/
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/hddzLrS/Ten-Sports-Farid.jpg" group-title="Sports", Ten Sports
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/PQXxRFZ/sky-sports-Farid.png" group-title="Sports", Sky Sports Cricket
