@@ -90,9 +90,11 @@ https://crichd-live.top/live/jadoo/m3u8.php?c=nagorik_tv&e=m3u8|referer=https://
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tenprime.stream/live-orgin/tenprime.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/XDFwYdB/DESH-TV-farid.png" group-title="Bangladesh", Gazi TV 
 https://tvs1.aynaott.com/bz/gtvhdforgame/index.m3u8?hdnts=st=1730173567~exp=1730216767~acl=/gtvhdforgame/*~data=103.69.150.30-WEB~hmac=c86c3938ec37f261a73182dcdac13cd9e90302267390a8671a7c804b623c2aba|referer=https://watch.aynaott.com/
+
+
+
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/K6hfpp4/atn-islamic-tv-farid.jpg" group-title="Islamic", ATN Islamic TV
 https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/x8FK05c/Islam-Bangla-Farid.jpg" group-title="Islamic", Islam Bangla
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/SxJHmdx/Madani-Channel-Bangla-Farid.jpg" group-title="Islamic", Madani TV Bangla
@@ -107,24 +109,25 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/3ppGGzf/Peace-TV-Bangla-Farid.png" group-title="Islamic", Peace TV Urdu
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
-#EXTINF:-1 tvg-id="akash18" tvg-logo="https://i.ibb.co.com/hKDwXSB/Zee-Bangla-HD-Farid.webp" group-title="Kolkata Bangla", ZEE BANGLA
-https://tmsbd.top/jdddlaaa/m3u8.php?c=zee_bangla&e=m3u8
+
+
 #EXTINF:-1 tvg-id="akash18" tvg-logo="https://i.ibb.co.com/hKDwXSB/Zee-Bangla-HD-Farid.webp" group-title="Kolkata Bangla", ZEE BANGLA HD
 https://tvs2.aynaott.com/bz/ZeeTvHD/index.m3u8?hdnts=st=1730173567~exp=1730216767~acl=/ZeeTvHD/*~data=103.69.150.30-WEB~hmac=41ac72bfff04e1418510a80572b405a1718e637240afa3e3c3b9d30cca0093d1|referer=https://watch.aynaott.com/
+#EXTINF:-1 tvg-id="akash18" tvg-logo="https://i.ibb.co.com/hKDwXSB/Zee-Bangla-HD-Farid.webp" group-title="Kolkata Bangla", ZEE BANGLA
+https://tmsbd.top/jdddlaaa/m3u8.php?c=zee_bangla&e=m3u8
 #EXTINF:-1 tvg-id="akash21" tvg-logo="https://i.ibb.co.com/jvHdctB/Colors-Bangla-Farid.png" group-title="Kolkata Bangla", Colors Bangla
 https://neestreamtv.com/jcinema/stream.m3u8?id=3774158|referer=https://neestreamtv.com//
 #EXTINF:-1 tvg-id="akash28" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720359542393.png" group-title="Kolkata Bangla", Star Jalsha HD
 http://xsmarters.top:8080/live/0966717777/0966717777/245898.ts
-
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927537752.png" group-title="Hindi Entertainment", Star PLUS
 https://drmlive.in/yupptv/premium/starplusau.m3u8|referer=https://drmlive.in//
 #EXTINF:-1 tvg-logo="https://www.india-forums.com/tellybuzz/images/uploads/7CF_star_bharat.jpg" group-title="Hindi Entertainment", Star Bharat
 https://drmlive.in/yupptv/premium/lifeokau.m3u8|referer=https://drmlive.in//
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rdkyHzb/Colors-Cineplex-HD-Farid.png" group-title="Hindi Movies", Cineplex HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rdkyHzb/Colors-Cineplex-HD-Farid.png" group-title="Hindi Movies", Cineplex
 https://drmlive.in/yupptv/premium/colorscineplexus.m3u8|referer=https://drmlive.in//
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KWhDV6/20240803-102743.png" group-title="Kids", DURONTO TV
 https://starshare.live:443/live/Mohim90/Skytv90/433.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" group-title="Kids", RONGEEN TV
@@ -177,6 +180,9 @@ https://dplus.gammacdn.workers.dev/videos/113.m3u8
 https://starshare.live:443/live/Mohim90/Skytv90/18456.ts
 
 
+
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/Ss84TnF/T-Sports-Farid.png" group-title="Sports", T Sports
+https://tvs2.aynaott.com/bz/tsportshd/index.m3u8?hdnts=st=1730173567~exp=1730216767~acl=/tsportshd/*~data=103.69.150.30-WEB~hmac=b4c7983b98207a37323e1ee4a639a76cc9844e2bccc41310f885117b9b7123b9|referer=https://watch.aynaott.com/
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://images.toffeelive.com/images/program/301636/logo/240x240/mobile_logo_148933001727851627.png" group-title="Sports", Toffee LIVE 1
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://images.toffeelive.com/images/program/301637/logo/240x240/mobile_logo_418608001727851921.png" group-title="Sports", Toffee LIVE 2
@@ -187,8 +193,6 @@ https://starshare.live:443/live/Mohim90/Skytv90/18456.ts
 https://crichd-live.top/live/tsports/file.php?id=https://live-cdn.tsports.com/live-01/index.m3u8
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/Ss84TnF/T-Sports-Farid.png" group-title="Sports", T Sports 2
 https://crichd-live.top/live/tsports/file.php?id=https://live-cdn.tsports.com/live-02/index.m3u8
-#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/Ss84TnF/T-Sports-Farid.png" group-title="Sports", T Sports
-https://tvs2.aynaott.com/bz/tsportshd/index.m3u8?hdnts=st=1730173567~exp=1730216767~acl=/tsportshd/*~data=103.69.150.30-WEB~hmac=b4c7983b98207a37323e1ee4a639a76cc9844e2bccc41310f885117b9b7123b9|referer=https://watch.aynaott.com/
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/hddzLrS/Ten-Sports-Farid.jpg" group-title="Sports", Ten Sports
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/PQXxRFZ/sky-sports-Farid.png" group-title="Sports", Sky Sports Cricket
@@ -200,7 +204,7 @@ https://starshare.live:443/live/Mohim90/Skytv90/148.ts
 #EXTINF:-1 tvg-id="akash41" tvg-logo="https://i.ibb.co.com/LhPN9bf/Star-Sports-Farid.webp" group-title="Sports", Star Sports 2 HD
 https://starshare.live:443/live/Mohim90/Skytv90/239.ts
 #EXTINF:-1 tvg-id="akash41" tvg-logo="https://i.ibb.co.com/LhPN9bf/Star-Sports-Farid.webp" group-title="Sports", Star Sports Hindi
-https://xyzdddd.mizhls.ru/lb/premium268/index.m3u8|referer=https://quest4play.xyz//
+
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723809087828.png" group-title="Sports", Star Sports Select 1 HD
 http://xtv.ooo:8080/live/874246786/743567899/167578.ts
 #EXTINF:-1 tvg-id="akash42" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723808066858.png" group-title="Sports", Star Sports Select 2 HD
@@ -214,25 +218,25 @@ http://15.235.181.35/live.ts?channelId=132374&uid=14505&deviceMac=00:1A:79:A7:53
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/GMS4CRn/Sports18-Farid.jpg" group-title="Sports", Sports18 khell
 https://neestreamtv.com/jcinema/stream.m3u8?id=0000002|Referer=https://neestreamtv.com//
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png", SONY SPORTS TEN 1 HD
-https://toffee.iptvbd.xyz/api/sony_ten1_hd.m3u8
+https://crichd-live.top/live/toffee/file.php?id=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten1_hd/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png", SONY SPORTS TEN 2 HD
-https://toffee.iptvbd.xyz/api/sony_ten2_hd.m3u8
+https://crichd-live.top/live/toffee/file.php?id=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten2_hd/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png", SONY SPORTS TEN 3 HD
-https://toffee.iptvbd.xyz/api/sony_ten3_hd.m3u8
+https://crichd-live.top/live/toffee/file.php?id=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten3_hd/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png", SONY SPORTS TEN 5 HD
-https://toffee.iptvbd.xyz/api/sony_six_hd.m3u8
+https://crichd-live.top/live/toffee/file.php?id=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_six_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/RjgzwKK/cricbuzz-Farid.jpg" group-title="Sports", cricbuzz
-https://webufffit.mizhls.ru/lb/premium283/index.m3u8|referer=https://olalivehdplay.ru//
+
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/s38v22f/PTV-Sports-Farid.png" group-title="Sports", PTV Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/K9MrGZV/A-Sports-Farid.png" group-title="Sports", Ary Sports
-https://xyzdddd.mizhls.ru/lb/premium269/index.m3u8|referer=https://quest4play.xyz//
+
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/8zW73Vt/Geo-Tv-Farid.png" group-title="Sports", Geo Super
 https://starshare.live:443/live/Mohim90/Skytv90/101.ts
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kJJKtbH/Supersport-Farid.jpg" group-title="Sports", Super Cricket
 https://starshare.live:443/live/Mohim90/Skytv90/2496.ts
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kJJKtbH/Supersport-Farid.jpg" group-title="Sports", Super Grandstand
-https://webufffit.mizhls.ru/lb/eplayerSupersportGrandstand/index.m3u8|referer=https://olalivehdplay.ru//
+
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kJJKtbH/Supersport-Farid.jpg" group-title="Sports", Super premier League
 https://starshare.live:443/live/Mohim90/Skytv90/518.ts
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/kJJKtbH/Supersport-Farid.jpg" group-title="Sports", Super Laliga
@@ -247,7 +251,7 @@ https://starshare.live:443/live/Mohim90/Skytv90/34489.ts
 https://jmp2.uk/sam-CABD1200008JG.m3u8
 
 #EXTINF:-1 tvg-id="akash5" tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png" group-title="Documentary_Nature & Life Style", BBC Earth
-https://toffee.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8
+https://crichd-live.top/live/toffee/file.php?id=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_bbc_earth_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/KbMz5W1/Discovery-Farid.png" group-title="Documentary_Nature & Life Style", Discovery Bangla
 https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/Discovery_bn.m3u8
 #EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/KbMz5W1/Discovery-Farid.png" group-title="Documentary_Nature & Life Style", Discovery Asia
