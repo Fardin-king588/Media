@@ -122,16 +122,20 @@ https://neestreamtv.com/jcinema/stream.m3u8?id=3774158|referer=https://neestream
 #EXTINF:-1 tvg-id="akash28" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720359542393.png" group-title="Kolkata Bangla", Star Jalsha HD
 http://bd.ottbd.online:2082/live/rozario859/01327184859/24129.m3u8
 
-#EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/hVjQWKS/Humtv-Farid.png" group-title="AkashGO", HUM TV
-http://xtv.ooo:8080/live/874246786/743567899/25981.ts
-#EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/D9Zzbcr/Hum-Sitare-Farid.jpg" group-title="AkashGO", HUM Sitare
+#EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/hVjQWKS/Humtv-Farid.png" group-title="Hindi Entertainment", HUM TV
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/D9Zzbcr/Hum-Sitare-Farid.jpg" group-title="Hindi Entertainment", HUM Sitare
 http://xtv.ooo:8080/live/874246786/743567899/25983.ts
-#EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/8zW73Vt/Geo-Tv-Farid.png" group-title="AkashGO", Geo Entertainment
-http://xtv.ooo:8080/live/874246786/743567899/221338.ts
+#EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/8zW73Vt/Geo-Tv-Farid.png" group-title="Hindi Entertainment", Geo Entertainment
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/8zW73Vt/Geo-Tv-Farid.png" group-title="AkashGO", Geo Kahani
 http://xtv.ooo:8080/live/874246786/743567899/221341.ts
-#EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/5KCkSTR/Apna-Channel-Farid.jpg" group-title="AkashGO", Apna Channel
+#EXTINF:-1 tvg-id="akash25" tvg-logo="https://i.ibb.co.com/5KCkSTR/Apna-Channel-Farid.jpg" group-title="Hindi Entertainment", Apna Channel
 http://xtv.ooo:8080/live/874246786/743567899/25998.ts
+#EXTINF:-1 tvg-logo="https://www.pakistantvratings.com/assets/img/channel-logo/ary-zindagi-logo.png" group-title="Hindi Entertainment", ARY Zindagi
+https://mhdtvplay.com/aryzap/stream.m3u8?id=zindagi|Referer=https://mhdtvplay.com//
+#EXTINF:-1 tvg-id="akash25" tvg-logo="https://www.pakistantvratings.com/assets/img/channel-logo/ary-digital-logo.png" group-title="Hindi Entertainment", ARY Digital
+https://mhdtvplay.com/aryzap/stream.m3u8?id=arydigital|Referer=https://mhdtvplay.com//
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bm7fGc8/Sony-Entertainmenthd-Farid.png" group-title="Hindi Entertainment", Sony Entertainment
 https://toffee.iptvbd.xyz/api/sony_entertainment.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bm7fGc8/Sony-Entertainmenthd-Farid.png" group-title="Hindi Entertainment", Sony Entertainment HD
@@ -145,9 +149,9 @@ https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/4p27G69/tv-HD-Farid.webp" group-title="Hindi Entertainment", &tv HD
 https://live.drmlive-02.workers.dev/zee/and-tv-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Wytg0sD/Sony-Sab-Farid.png" group-title="Hindi Entertainment", Sony SuB
-
+https://toffee.iptvbd.xyz/api/sony_sab_hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Wytg0sD/Sony-Sab-Farid.png" group-title="Hindi Entertainment", Sony Pal
-
+https://keralamaxtv.com/sliv/stream.php?id=1894&e=.m3u8|referer=https://keralamaxtv.com//
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Wytg0sD/Sony-Sab-Farid.png" group-title="Hindi Entertainment", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JnZ2hJG/Colors-HD-Farid.png" group-title="Hindi Entertainment", Colors HD
@@ -179,7 +183,9 @@ https://drmlive.in/yupptv/premium/colorscineplexus.m3u8|referer=https://drmlive.
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rdkyHzb/Colors-Cineplex-HD-Farid.png" group-title="Hindi Movies", Cineplex HD
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_voot_MOB
 #EXTINF:-1 tvg-id="akash20" tvg-logo="https://i.ibb.co.com/202j09Y/Cineplex-Superhits-Farid.webp" group-title="Hindi Movies", Cineplex Superhits
-http://xtv.ooo:8080/live/874246786/743567899/66199.ts
+https://neestreamtv.com/jcinema/stream.m3u8?id=3479683|referer=https://neestreamtv.com//
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vqmsySt/Cineplex-Bollywood-Farid.jpg" group-title="Hindi Movies", Cineplex Bollywood
+https://neestreamtv.com/jcinema/stream.m3u8?id=3845693|referer=https://neestreamtv.com//
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/6Zb3KSd/The-Movie-Club-Farid.jpg" group-title="Hindi Movies", The Movie Club
 https://jmp2.uk/sam-INBD21000016Y.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-black.png" group-title="Hindi Movies", BBO
@@ -209,13 +215,15 @@ http://xtv.ooo:8080/live/874246786/743567899/66186.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/jGjLRyz/Star-Gold-Romance-Farid.jpg" group-title="Hindi Movies", STAR GOLD Select
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dffrZ18/Sony-Wah-Farid.png" group-title="Hindi Movies", Sony WAH
-
+https://toffee.iptvbd.xyz/api/sony_wah.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5Y9Zk0b/Sony-Maxhd-Farid.png" group-title="Hindi Movies", Sony Max
-
+https://toffee.iptvbd.xyz/api/sony_max.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5Y9Zk0b/Sony-Maxhd-Farid.png" group-title="Hindi Movies", Sony Max HD
-
+https://toffee.iptvbd.xyz/api/set_max_hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5FDrKwB/Sony-Max2-Farid.png" group-title="Hindi Movies", Sony Max 2
-
+https://toffee.iptvbd.xyz/api/sony_max_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tPL0xdp/B4-U-Movies.png" group-title="Hindi Movies", B4U APAC
+https://toffee.iptvbd.xyz/api/b4u_movies.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/tPL0xdp/B4-U-Movies.png" group-title="Hindi Movies", B4U Movies
 https://cdn2.pishow.tv/live/156/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/05/30/b4uuu4.jpg" group-title="Hindi Movies", B4U KADAK
