@@ -209,7 +209,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J3LqKR2/Star-utsav-Gold-Farid.jpg" group-title="Hindi Movies", Utsav GOLD
 http://xtv.ooo:8080/live/874246786/743567899/221257.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dLFbPq7/Star-Gold.jpg" group-title="Hindi Movies", STAR GOLD
-
+http://abcnew.site:8880/29ca11113n01/adsfer3223/55257
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ld1yBFq/Star-Gold-2-Farid.png" group-title="Hindi Movies", STAR GOLD 2
 http://xtv.ooo:8080/live/874246786/743567899/106133.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rFsv66r/Star-Gold-Thrills.jpg" group-title="Hindi Movies", STAR GOLD Thrills
@@ -217,7 +217,7 @@ http://xtv.ooo:8080/live/874246786/743567899/221258.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/jGjLRyz/Star-Gold-Romance-Farid.jpg" group-title="Hindi Movies", STAR GOLD Romance
 http://xtv.ooo:8080/live/874246786/743567899/66186.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/jGjLRyz/Star-Gold-Romance-Farid.jpg" group-title="Hindi Movies", STAR GOLD Select
-
+http://abcnew.site:8880/29ca11113n01/adsfer3223/55256
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dffrZ18/Sony-Wah-Farid.png" group-title="Hindi Movies", Sony WAH
 https://toffee.iptvbd.xyz/api/sony_wah.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5Y9Zk0b/Sony-Maxhd-Farid.png" group-title="Hindi Movies", Sony Max
@@ -259,10 +259,20 @@ http://xtv.ooo:8080/live/874246786/743567899/66224.ts
 http://xtv.ooo:8080/live/874246786/743567899/66244.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pvWkc3w/Movies-Now-Farid.jpg" group-title="English Movies", movies NOW
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="English Movies", AXN
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/9.ts
+#EXTINF:-1 tvg-logo="https://cloudimages.broadwayworld.com/columnpic10/680F42F06C2-E28F-2467-DC82D9BFC03FB7E0.jpg" group-title="English Movies", CINEMAX
+
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_01/016ee246c2e789e75035f618d3ec57e9.png" group-title="English Movies", CINEMAX
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g4TqGw2/Star-Movies-Select-Farid.jpg" group-title="English Movies", Star Movies SELECT HD
 
-
-
+#EXTINF:-1 tvg-logo="https://cloudimages.broadwayworld.com/columnpic10/680F42F06C2-E28F-2467-DC82D9BFC03FB7E0.jpg" group-title="English Movies", HBO
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.ts
+#EXTINF:-1 tvg-logo="https://cloudimages.broadwayworld.com/columnpic10/680F42F06C2-E28F-2467-DC82D9BFC03FB7E0.jpg" group-title="English Movies", HBO Hits
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/11492.ts
+#EXTINF:-1 tvg-logo="https://cloudimages.broadwayworld.com/columnpic10/680F42F06C2-E28F-2467-DC82D9BFC03FB7E0.jpg" group-title="English Movies", HBO signature
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/11492.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KWhDV6/20240803-102743.png" group-title="Kids", DURONTO TV
 https://starshare.live:443/live/Mohim90/Skytv90/433.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" group-title="Kids", RONGEEN TV
