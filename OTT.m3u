@@ -22,10 +22,4 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten1_hd/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Sports" group-logo="" tvg-id="" tvg-logo="", T Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTHTTP:
 https://live-cdn.tsports.com/live-01/index.m3u8|Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1730450185:KeyName=tsports-ed25519-01:Signature=vAjUenpopTBs4jtYM88B2ZnpNKgNUnAS3Vb8Llv_xTQru_RcMkFTEVR3Lro_KZHT2VtOAsJTMm7TrYt4j3vtDQ
