@@ -350,6 +350,7 @@ https://cdn.livestreambd.com/TSportstv/index.m3u8
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/hddzLrS/Ten-Sports-Farid.jpg" group-title="Sports", Ten Sports
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/PQXxRFZ/sky-sports-Farid.png" group-title="Sports", Sky Sports Cricket
+#http://gcp-dash.ngslbs.com/TVD024/index.mpd
 https://crichd-live.top/live/daddy/m3u8.php?id=65|referer=https://crichd-live.top//
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/LNGd29N/Astro-Cricket-Farid.png" group-title="Sports", Astro Cricket
 https://criccoder.pages.dev/astro.m3u8
