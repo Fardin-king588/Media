@@ -32,6 +32,7 @@ https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 http://xsmarters.top:8080/live/0966717777/0966717777/245920.ts
 
 #EXTINF:-1 tvg-id="akash14" tvg-logo="https://i.ibb.co.com/5sjL0Dk/Ntv-Farid.png" group-title="Bangladesh", NTV
+#http://bajimath.com/sa/amarbdflix/stream.m3u8?id=NTV
 https://crichd-live.top/live/jadoo/m3u8.php?c=ntv&e=m3u8|referer=https://crichd-live.top//
 
 #EXTINF:-1 tvg-id="akash15" tvg-logo="https://i.ibb.co.com/frk4h09/Bangla-Vision-Farid.jpg" group-title="Bangladesh", Bangla Vision
@@ -211,6 +212,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J3LqKR2/Star-utsav-Gold-Farid.jpg" group-title="Hindi Movies", Utsav GOLD
 http://xtv.ooo:8080/live/874246786/743567899/221257.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dLFbPq7/Star-Gold.jpg" group-title="Hindi Movies", STAR GOLD
+#http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-GOLD
 http://abcnew.site:8880/29ca11113n01/adsfer3223/55257
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ld1yBFq/Star-Gold-2-Farid.png" group-title="Hindi Movies", STAR GOLD 2
 http://xtv.ooo:8080/live/874246786/743567899/106133.ts
@@ -225,6 +227,7 @@ https://toffee.iptvbd.xyz/api/sony_wah.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5Y9Zk0b/Sony-Maxhd-Farid.png" group-title="Hindi Movies", Sony Max
 https://toffee.iptvbd.xyz/api/sony_max.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5Y9Zk0b/Sony-Maxhd-Farid.png" group-title="Hindi Movies", Sony Max HD
+#http://bajimath.com/sa/amarbdflix/stream.m3u8?id=SONY-MAX
 https://toffee.iptvbd.xyz/api/set_max_hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5FDrKwB/Sony-Max2-Farid.png" group-title="Hindi Movies", Sony Max 2
 https://toffee.iptvbd.xyz/api/sony_max_2.m3u8
@@ -329,7 +332,7 @@ http://119.156.26.155:8000/play/a05t/index.m3u8
 
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/Ss84TnF/T-Sports-Farid.png" group-title="Sports", T Sports
-https://tvs2.aynaott.com/bz/tsportshd/index.m3u8?hdnts=st=1730435766~exp=1730478966~acl=/tsportshd/*~data=103.69.150.30-WEB~hmac=4aef82fe2c192c24a63706dd204c478c7965bd86424bfcab1849b5a4c7a80979|referer=https://watch.aynaott.com/
+https://tvs2.aynaott.com/bz/tsportshd/index.m3u8?hdnts=st=1730439334~exp=1730482534~acl=/tsportshd/*~data=103.69.150.30-WEB~hmac=ed9eec8aa43cc41883b1247e4998489972c53c24e6057d350c17c0561ecc9254|referer=https://watch.aynaott.com/
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://images.toffeelive.com/images/program/301636/logo/240x240/mobile_logo_148933001727851627.png" group-title="Sports", Toffee LIVE 1
 
@@ -354,7 +357,7 @@ https://starshare.live:443/live/Mohim90/Skytv90/148.ts
 #EXTINF:-1 tvg-id="akash41" tvg-logo="https://i.ibb.co.com/LhPN9bf/Star-Sports-Farid.webp" group-title="Sports", Star Sports 2 HD
 https://starshare.live:443/live/Mohim90/Skytv90/239.ts
 #EXTINF:-1 tvg-id="akash41" tvg-logo="https://i.ibb.co.com/LhPN9bf/Star-Sports-Farid.webp" group-title="Sports", Star Sports Hindi
-
+https://criccoder.pages.dev/ssh.m3u8
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723809087828.png" group-title="Sports", Star Sports Select 1 HD
 http://xtv.ooo:8080/live/874246786/743567899/167578.ts
 #EXTINF:-1 tvg-id="akash42" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723808066858.png" group-title="Sports", Star Sports Select 2 HD
@@ -370,12 +373,14 @@ https://neestreamtv.com/jcinema/stream.m3u8?id=0000002|Referer=https://neestream
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png", SONY SPORTS TEN 1 HD
 https://toffee.iptvbd.xyz/api/sony_ten1_hd.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png", SONY SPORTS TEN 2 HD
+#http://bajimath.com/sa/amarbdflix/stream.m3u8?id=SONY-TEN-2
 https://toffee.iptvbd.xyz/api/sony_ten2_hd.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png", SONY SPORTS TEN 3 HD
 https://toffee.iptvbd.xyz/api/sony_ten3_hd.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png", SONY SPORTS TEN 4 HD
 http://watchindia.net:8880/live/80817/80817/2662.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png", SONY SPORTS TEN 5 HD
+#http://bajimath.com/sa/amarbdflix/stream.m3u8?id=SONY-TEN-3
 https://toffee.iptvbd.xyz/api/sony_six_hd.m3u8
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/RjgzwKK/cricbuzz-Farid.jpg" group-title="Sports", cricbuzz
 
