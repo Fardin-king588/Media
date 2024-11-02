@@ -349,7 +349,7 @@ http://119.156.26.155:8000/play/a05t/index.m3u8
 
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/Ss84TnF/T-Sports-Farid.png" group-title="Sports", T Sports
-#https://tvs2.aynaott.com/bz/tsportshd/index.m3u8?hdnts=st=1730439334~exp=1730482534~acl=/tsportshd/*~data=103.69.150.30-WEB~hmac=ed9eec8aa43cc41883b1247e4998489972c53c24e6057d350c17c0561ecc9254|referer=https://watch.aynaott.com/
+https://tvs1.aynaott.com/bz/tsportsfhd/index.m3u8?hdnts=st=1730540789~exp=1730583989~acl=/tsportsfhd/*~data=103.69.150.30-WEB~hmac=6b88894afd8ffd5a5598cbd27b9116a917be67885cf2e370fa0a6250e403dc10|referer=https://watch.aynaott.com/
 
 #EXTINF:-1 tvg-id="akash43" tvg-logo="https://images.toffeelive.com/images/program/301636/logo/240x240/mobile_logo_148933001727851627.png" group-title="Sports", Toffee LIVE 1
 
