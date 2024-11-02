@@ -69,7 +69,7 @@ https://ekusheyserver.com/etvlivesn.m3u8
 https://mytvbangla.com/0.m3u8
 
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/pbvw393/news24-Farid.jpg" group-title="Bangladesh", News 24
-https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
 #https://fifabd9-fun-tho5.spidy.online/SMART4K2/play.php?id=11231
 #https://fifabd9-fun-tho5.spidy.online/SMART4K2/play.php?id=11188
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/PtHQgVz/Maasranga-TV-Farid.jpg" group-title="Bangladesh", Maasranga TV 
@@ -103,13 +103,13 @@ https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 https://crichd-live.top/live/jadoo/m3u8.php?c=nagorik_tv&e=m3u8|referer=https://crichd-live.top//
 
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/06/gtv_live.jpg" group-title="Bangladesh", Gazi TV 
-http://fcdn.bdixsports.live:1935/event/event.stream/playlist.m3u8
-#http://bajimath.com/sa/amarbdflix/stream.m3u8?id=GTV
+#http://fcdn.bdixsports.live:1935/event/event.stream/playlist.m3u8
+http://bajimath.com/sa/amarbdflix/stream.m3u8?id=GTV
 
 
 
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/K6hfpp4/atn-islamic-tv-farid.jpg" group-title="Islamic", ATN Islamic TV
-https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/x8FK05c/Islam-Bangla-Farid.jpg" group-title="Islamic", Islam Bangla
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/SxJHmdx/Madani-Channel-Bangla-Farid.jpg" group-title="Islamic", Madani TV Bangla
